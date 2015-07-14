@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  quick RNA seq
+title:  RNA seq
 date:   2015-05-02 09:00:00
 ---
 
