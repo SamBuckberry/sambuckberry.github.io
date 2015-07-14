@@ -1,5 +1,8 @@
-
-
+---
+layout: post
+title:  quick RNA seq
+date:   2015-05-02 09:00:00
+---
 
 RNA sequencing, or [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq), is quickly becoming the preferred method of global differential gene expression analysis, yet many biologists are unfamiliar with how to analyse RNA-Seq data.
 
