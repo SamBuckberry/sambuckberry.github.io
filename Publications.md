@@ -4,10 +4,10 @@ title:     Publications
 permalink: /publications/
 ---
 
-####Peer-reviewed articles
+##Peer-reviewed articles
 
-Wilson RL^1^, **Buckberry S**^1^, Spronk F^1^, Laurence JA, Leemaqz S, O'Leary S, Tina Bianco-Miotto, Jing Du, Paul H. Anderson & Claire T. Roberts (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE***.
-^1^These authors contributed equally to this work. [PDF] [Webpage]
+Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Tina Bianco-Miotto, Jing Du, Paul H. Anderson & Claire T. Roberts (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE***.
+<sup>1</sup>These authors contributed equally to this work. [PDF] [Webpage]
 
 **Sam Buckberry**, Tina Bianco-Miotto, Stephen J Bent, Gustaaf A Dekker & Claire T Roberts (2014). Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression at the human fetal–maternal interface, ***Molecular Human Reproduction***. [PDF] [Webpage] [Media coverage]
 
@@ -22,6 +22,6 @@ Sam Buckberry, Tina Bianco-Miotto, Stefan Hiendleder & Claire T Roberts (2012). 
 Sam Buckberry & Karen Burke da Silva (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach, ***Evolution, Education & Outreach***. [PDF] [Webpage]
 
  
-####Feature articles
+##Feature articles
 
 **Sam Buckberry** & Claire Roberts (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014 issue. [Webpage] 
