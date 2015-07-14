@@ -6,8 +6,8 @@ permalink: /about/
 
 
 
-- Author: Sam Buckberry
+Sam Buckberry is a post-doc in genome bioinformatics with the listerlab(http://listerlab.org)
 - Email:  sambuckberry@gmail.com
-- Github: [https://github.com/sambuckberry](https://github.com/sambuckberry)
+- Github: [github.com/sambuckberry](https://github.com/sambuckberry)
 
-This website is hosted on Github and was built using Vida(https://github.com/syaning/vida), a minimalist jekyll theme.
+This website is hosted on Github and was built using [Vida](https://github.com/syaning/vida), a minimalist jekyll theme.
