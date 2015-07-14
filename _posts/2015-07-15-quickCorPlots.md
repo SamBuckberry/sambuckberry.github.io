@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Quick correlation scatter plots with p values
+title:  Quick correlation scatter plots with R squared and P values
 date:   2015-07-15
 ---
 
-This function is quickly generating scatter plots with a correlation lines and p-values. 
+<center>![](/images/corPlots/corPlot1-1.png)</center>
 
 #### The annotated scatter function:
 
