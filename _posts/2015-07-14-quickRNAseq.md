@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  RNA seq
-date:   2015-05-02 09:00:00
+date:   2015-05-02
 ---
 
 RNA sequencing, or [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq), is quickly becoming the preferred method of global differential gene expression analysis, yet many biologists are unfamiliar with how to analyse RNA-Seq data.
@@ -144,7 +144,7 @@ It is also a very good idea plot the sample relations using a multi-dimensional 
 plotMDS(dge)
 ```
 
-![plot of chunk unnamed-chunk-14](image/unnamed-chunk-14-1.png) 
+![](/images/unnamed-chunk-14-1.png) 
 
 ### Step 5: Transform and normalise the data 
 
@@ -159,7 +159,7 @@ You can also inspect at a couple of plots, one of the mean-variance trend genera
 voomDat <- voom(dge, plot=TRUE)
 ```
 
-![plot of chunk unnamed-chunk-15](image/unnamed-chunk-15-1.png) 
+![](/images/unnamed-chunk-15-1.png) 
 
 and another MDS plot as above, after the voom normalisation-transformation step.
 
@@ -167,7 +167,7 @@ and another MDS plot as above, after the voom normalisation-transformation step.
 plotMDS(voomDat)
 ```
 
-![plot of chunk unnamed-chunk-16](image/unnamed-chunk-16-1.png) 
+![](/images/unnamed-chunk-16-1.png) 
 
 ### Step 6: Test for differential expression
 
