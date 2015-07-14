@@ -14,12 +14,3 @@ Links
 - [Linked In](https://au.linkedin.com/in/sambuckberry)
 - [Github](https://github.com/sambuckberry)
 
-
-
-
-
-
-
-
-
-This website is hosted on Github and was built using [Vida](https://github.com/syaning/vida), a minimalist jekyll theme.
