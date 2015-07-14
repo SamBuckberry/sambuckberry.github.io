@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  RNA-Seq differential expression - FASTQ files to results using 10 lines of code
-date:   2015-05-02
+date:   2015-07-14
 ---
 
 RNA sequencing, or [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq), is quickly becoming the preferred method of global differential gene expression analysis, yet many biologists are unfamiliar with how to analyse RNA-Seq data.

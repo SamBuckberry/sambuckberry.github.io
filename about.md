@@ -10,4 +10,4 @@ permalink: /about/
 - Email:  sambuckberry@gmail.com
 - Github: [https://github.com/sambuckberry](https://github.com/sambuckberry)
 
-Vida is a minimalist jekyll theme.
+This website is hosted on Github and was built using Vida(https://github.com/syaning/vida), a minimalist jekyll theme.
