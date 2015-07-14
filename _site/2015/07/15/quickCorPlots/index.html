@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Sam Buckberry</title>
+</head>
+<body>
+    <main>
+        <header class="site-header">
+            <h1 class="site-title"><a href="/">Sam Buckberry</a></h1>
+            <nav class="site-nav">
+                <a href="/about/" class="">About</a>
+                <a href="/publications/" class="">Publications</a>
+                <a href="/recipes/" class="">[R]ecipes</a>
+
+            </nav>
+        </header>
+        <article class="post">
+    <h2 class="post-header">Quick correlation scatter plots with p values</h2>
+    <p class="post-meta">2015-07-15</p>
+    <p>This function is quickly generating scatter plots with a correlation lines and p-values. </p>
+
+<h4 id="the-annotated-scatter-function">The annotated scatter function:</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter <span class="o">&lt;-</span> <span class="kr">function</span><span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> pointCol<span class="o">=</span>rgb<span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.7</span><span class="p">),</span> 
+                                 legendPos<span class="o">=</span><span class="s">&quot;topleft&quot;</span><span class="p">,</span> legendCex<span class="o">=</span><span class="m">1</span><span class="p">,</span> <span class="kc">...</span> <span class="p">){</span>
+        <span class="c1"># Generate a linear model summary</span>
+        fit <span class="o">&lt;-</span> lm<span class="p">(</span>y <span class="o">~</span> x<span class="p">)</span>
+        fitSum <span class="o">&lt;-</span> <span class="kp">summary</span><span class="p">(</span>fit<span class="p">)</span>
+        r2 <span class="o">&lt;-</span> fitSum<span class="o">$</span>r.squared
+        pVal <span class="o">&lt;-</span> fitSum<span class="o">$</span>coefficients<span class="p">[</span><span class="m">2</span><span class="p">,</span><span class="m">4</span><span class="p">]</span>
+
+        <span class="c1"># Format the legend for r and p values</span>
+        rp <span class="o">&lt;-</span> <span class="kt">vector</span><span class="p">(</span><span class="s">&#39;expression&#39;</span><span class="p">,</span><span class="m">2</span><span class="p">)</span>
+        rp<span class="p">[</span><span class="m">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="kp">substitute</span><span class="p">(</span><span class="kp">expression</span><span class="p">(</span>italic<span class="p">(</span>R<span class="p">)</span><span class="o">^</span><span class="m">2</span> <span class="o">==</span> valueA<span class="p">),</span> 
+                            <span class="kt">list</span><span class="p">(</span>valueA <span class="o">=</span> <span class="kp">format</span><span class="p">(</span>r2<span class="p">,</span>dig<span class="o">=</span><span class="m">3</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span>
+        rp<span class="p">[</span><span class="m">2</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="kp">substitute</span><span class="p">(</span><span class="kp">expression</span><span class="p">(</span>italic<span class="p">(</span>p<span class="p">)</span> <span class="o">==</span> valueB<span class="p">),</span> 
+                            <span class="kt">list</span><span class="p">(</span>valueB <span class="o">=</span> <span class="kp">format</span><span class="p">(</span>pVal<span class="p">,</span> digits <span class="o">=</span> <span class="m">2</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span>
+
+        <span class="c1"># Plot the data</span>
+        plot<span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> pch<span class="o">=</span><span class="m">19</span><span class="p">,</span> cex<span class="o">=</span><span class="m">1.2</span><span class="p">,</span> col<span class="o">=</span>pointCol<span class="p">,</span><span class="kc">...</span><span class="p">)</span>
+
+        <span class="c1"># Add line for linear model fit</span>
+        abline<span class="p">(</span>fit<span class="p">)</span>
+
+        <span class="c1"># Add the legend</span>
+        legend<span class="p">(</span>legendPos<span class="p">,</span> legend <span class="o">=</span> rp<span class="p">,</span> bty <span class="o">=</span> <span class="s">&#39;n&#39;</span><span class="p">,</span> cex<span class="o">=</span>legendCex<span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<h4 id="first-generate-some-test-data">First, generate some test data</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> rnorm<span class="p">(</span>n<span class="o">=</span><span class="m">20</span><span class="p">,</span> mean<span class="o">=</span><span class="m">7</span><span class="p">,</span> sd<span class="o">=</span><span class="m">3</span><span class="p">)</span>
+y <span class="o">&lt;-</span> x<span class="o">+</span>rnorm<span class="p">(</span><span class="m">20</span><span class="p">)</span>
+</code></pre></div>
+<h4 id="view-the-plot">View the plot</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter<span class="p">(</span>x<span class="p">,</span> y<span class="p">)</span>
+</code></pre></div>
+<p><img src="/images/corPlots/corPlot1-1.png" alt=""> </p>
+
+<h4 id="add-axis-labels">Add axis labels</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter<span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> xlab<span class="o">=</span><span class="s">&quot;X variable&quot;</span><span class="p">,</span> ylab<span class="o">=</span><span class="s">&quot;Y variable&quot;</span><span class="p">)</span>
+</code></pre></div>
+<p><img src="/images/corPlots/corPlot2-1.png" alt=""> </p>
+
+<h4 id="change-point-colour">Change point colour</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter<span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> pointCol<span class="o">=</span><span class="s">&quot;red&quot;</span><span class="p">)</span>
+</code></pre></div>
+<p><img src="/images/corPlots/corPlot3-1.png" alt=""> </p>
+
+<h4 id="change-the-legend-font-size">Change the legend font size</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter<span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> legendCex<span class="o">=</span><span class="m">0.7</span><span class="p">)</span>
+</code></pre></div>
+<p><img src="/images/corPlots/corPlot4-1.png" alt=""> </p>
+
+<h4 id="change-legend-position">Change legend position</h4>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotAnnotatedScatter<span class="p">(</span>x<span class="p">,</span> y<span class="p">,</span> legendPos<span class="o">=</span><span class="s">&quot;bottomright&quot;</span><span class="p">)</span>
+</code></pre></div>
+<p><img src="/images/corPlots/corPlot5-1.png" alt=""> </p>
+
+    
+</article>
+
+    </main>
+    
+</body>
+
+</html>

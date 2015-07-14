@@ -144,7 +144,7 @@ It is also a very good idea plot the sample relations using a multi-dimensional 
 plotMDS(dge)
 ```
 
-![](/images/unnamed-chunk-14-1.png) 
+![](/images/quickRNAseq/unnamed-chunk-14-1.png) 
 
 ### Step 5: Transform and normalise the data 
 
@@ -159,7 +159,7 @@ You can also inspect at a couple of plots, one of the mean-variance trend genera
 voomDat <- voom(dge, plot=TRUE)
 ```
 
-![](/images/unnamed-chunk-15-1.png) 
+![](/images/quickRNAseq/unnamed-chunk-15-1.png) 
 
 and another MDS plot as above, after the voom normalisation-transformation step.
 
@@ -167,7 +167,7 @@ and another MDS plot as above, after the voom normalisation-transformation step.
 plotMDS(voomDat)
 ```
 
-![](/images/unnamed-chunk-16-1.png) 
+![](/images/quickRNAseq/unnamed-chunk-16-1.png) 
 
 ### Step 6: Test for differential expression
 
