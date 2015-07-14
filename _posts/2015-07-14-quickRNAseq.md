@@ -4,7 +4,7 @@ title:  RNA-Seq differential expression - FASTQ files to results using 10 lines 
 date:   2015-07-14
 ---
 
-RNA sequencing, or [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq), is quickly becoming the preferred method of global differential gene expression analysis, yet many biologists are unfamiliar with how to analyse RNA-Seq data.
+RNA sequencing, or [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq), has rapidly become the preferred method of global differential gene expression analysis, yet many biologists are unfamiliar with how to analyse RNA-Seq data.
 
 I'm often asked by people starting out with RNA-Seq how they could begin to analyse their data. It's a tricky question because the methods vary substantially and the choices will depend on the experimental design, sequencing methodology and biological question(s) of interest.
 
@@ -210,11 +210,11 @@ It _can_ be relatively easy to move from raw data (FASTQ files) to differential 
 
 This example was adapted from, and is similar to the case study that can be found at http://bioinf.wehi.edu.au/RNAseqCaseStudy/
 
-**Rsubread** http://www.bioconductor.org/packages/release/bioc/html/Rsubread.html
+**Rsubread** [www.bioconductor.org/packages/release/bioc/html/Rsubread.html](http://www.bioconductor.org/packages/release/bioc/html/Rsubread.html)
 
-**edgeR** http://www.bioconductor.org/packages/release/bioc/html/edgeR.html
+**edgeR** [www.bioconductor.org/packages/release/bioc/html/edgeR.html](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html)
 
-**limma** http://www.bioconductor.org/packages/release/bioc/html/limma.html
+**limma** [www.bioconductor.org/packages/release/bioc/html/limma.html](http://www.bioconductor.org/packages/release/bioc/html/limma.html)
 
 The analysis methods used here were also used in the [comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium](http://www.nature.com/nbt/journal/v32/n9/full/nbt.2957.html)
 
