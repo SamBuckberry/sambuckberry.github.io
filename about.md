@@ -4,9 +4,10 @@ title:     About
 permalink: /about/
 ---
 
-Sam Buckberry is a post-doc in genome bioinformatics with the [Lister Lab](http://listerlab.org) at the University of Western Australia.
+Sam Buckberry is a post-doc in genome bioinformatics with the [Lister Lab](http://listerlab.org) at [The University of Western Australia](http://www.uwa.edu.au/).
 
 - Email:  sambuckberry@gmail.com
+- Twitter: [@sambuckberry](https://twitter.com/sambuckberry)
 - Github: [github.com/sambuckberry](https://github.com/sambuckberry)
 
 
