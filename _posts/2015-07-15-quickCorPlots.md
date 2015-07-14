@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Quick correlation scatter plots with R squared and P values
+title:  How to quickly create a correlation scatter plot with R squared and P values
 date:   2015-07-15
 ---
 
