@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  RNA seq
+title:  RNA-Seq differential expression - FASTQ files to results using 10 lines of code
 date:   2015-05-02
 ---
 
