@@ -1,7 +1,7 @@
 ---
 layout:    page
-title:     Sample
-permalink: /sample/
+title:     Publications
+permalink: /Publications/
 ---
 
 ####Peer-reviewed articles
