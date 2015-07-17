@@ -80,6 +80,13 @@ plotAnnotatedScatter(x, y, legendCex=0.7)
 plotAnnotatedScatter(x, y, legendPos="bottomright")
 ```
 
-![](/images/corPlots/corPlot5-1.png) 
+![](/images/corPlots/corPlot5-1.png)
+
+You can source this R function directly from Github Gist
+
+```r
+source("https://gist.githubusercontent.com/SamBuckberry/a83ddd3535d0de4addf0/raw/81d5479decf5d510d02cc4c21653f33b53916b97/plotAnnotatedScatter.R")
+```
+
 
 
