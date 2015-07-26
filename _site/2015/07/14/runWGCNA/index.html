@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Sam Buckberry</title>
+</head>
+<body>
+    <main>
+        <header class="site-header">
+            <h1 class="site-title"><a href="/">Sam Buckberry</a></h1>
+            <nav class="site-nav">
+                <a href="/about/" class="">About</a>
+                <a href="/publications/" class="">Publications</a>
+                <a href="/recipes/" class="">[R]ecipes</a>
+
+            </nav>
+        </header>
+        <article class="post">
+    <h2 class="post-header">Wrappers for Weighted-gene co-expression network analysis (WGCNA)</h2>
+    <p class="post-meta">2015-07-14</p>
+    <h1 id="run-wgcna">RUN-WGCNA</h1>
+
+<h3 id="wrapper-functions-to-perform-a-quick-preliminary-weighted-gene-co-expression-network-analysis">Wrapper functions to perform a quick preliminary weighted-gene co-expression network analysis</h3>
+
+<h3 id="background">Background</h3>
+
+<p>Weighted correlation network analysis, also known as weighted gene co-expression network analysis (WGCNA), is a widely used data mining method especially for studying biological networks based on pairwise correlations between variables. While it can be applied to most high-dimensional data sets, it has been most widely used in genomic applications. The WGCNA method is extremely powerful for analysing gene expression data for deriving results and insights that are not possible with typical <em>differential expression</em> experiments.</p>
+
+<p>The WGCNA methods and algorithms can be implemented using the the WGCNA R package <a href="https://cran.r-project.org/web/packages/WGCNA/index.html">available on CRAN</a> and there are <a href="http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/index.html">extensive tutorials and examples</a> available.</p>
+
+<p>Although these tutorials are excellent, the learning curve is steep, and they require the analyst to be reasonably proficient with R programming. As I have been regularly asked how to perform WGCNA, I thought I would share some wrapper scripts of some of the main functions that help get started with WGCNA.</p>
+
+<p>I must emphasise that using these functions will not give the analyst much insight into how this method works. Nor will they allow you to fine-tune your analysis. If the user requires more functionality or in-depth analysis, I strongly urge they follow the WGCNA tutorials and manuals.</p>
+
+<p>For a more in-depth description on WGCNA, see the <a href="https://en.wikipedia.org/wiki/Weighted_correlation_network_analysis">WGCNA wikipedia page</a> and the <a href="%5Bhttp://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/">WGCNA home page</a>.</p>
+
+<h2 id="set-up">Set up</h2>
+
+<p>First you need to ensure you have all the required R libraries to run these wrapper functions. </p>
+<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">source</span><span class="p">(</span><span class="s">&quot;http://bioconductor.org/biocLite.R&quot;</span><span class="p">)</span>
+biocLite<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;AnnotationDbi&quot;</span><span class="p">,</span> <span class="s">&quot;impute&quot;</span><span class="p">,</span> <span class="s">&quot;GO.db&quot;</span><span class="p">,</span> <span class="s">&quot;preprocessCore&quot;</span><span class="p">))</span>
+install.packages<span class="p">(</span>pkgs<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;WGCNA&quot;</span><span class="p">,</span> <span class="s">&quot;flashClust&quot;</span><span class="p">,</span> <span class="s">&quot;ggplot2&quot;</span><span class="p">))</span>
+</code></pre></div>
+<p>Load the libraries and wrapper scripts</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">source</span><span class="p">(</span><span class="s">&quot;WGCNA_functions.R&quot;</span><span class="p">)</span>
+<span class="kn">library</span><span class="p">(</span>reshape2<span class="p">)</span>
+<span class="kn">library</span><span class="p">(</span>ggplot2<span class="p">)</span>
+</code></pre></div>
+<p>Load the example data</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">dat <span class="o">&lt;-</span> read.table<span class="p">(</span>file<span class="o">=</span><span class="kp">unz</span><span class="p">(</span><span class="s">&quot;exprsExtimates.csv.zip&quot;</span><span class="p">,</span>filename<span class="o">=</span><span class="s">&quot;exprsExtimates.csv&quot;</span><span class="p">),</span> header<span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span> row.names<span class="o">=</span><span class="m">1</span><span class="p">,</span> sep<span class="o">=</span><span class="s">&quot;,&quot;</span><span class="p">,</span> <span class="p">)</span>
+</code></pre></div>
+<p>This example dataset is normalised microarray data from a human cell line experient designed to look at the gene expression differences in cells in different oxygen concentrations on different growth media.</p>
+
+<h2 id="running-a-weighted-co-expression-analysis">Running a weighted co-expression analysis</h2>
+
+<h3 id="step-1-determine-levels-of-connectivity-at-different-powers">Step 1. Determine levels of connectivity at different powers.</h3>
+
+<p>Constructing  a  weighted  gene  network  requires the  choice  of  the  soft thresholding  power to  which  co-expression similarity is raised to calculate adjacency. The <code>determineSoftPowerWGCNA</code> function returns a set of network indices that should be inspected, for example:</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">determineSoftPowerWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> outFile<span class="o">=</span><span class="s">&quot;plots/powerPlots.png&quot;</span><span class="p">,</span> propGenes<span class="o">=</span><span class="m">.2</span><span class="p">)</span>
+</code></pre></div>
+<p><img src="plots/powerPlots.png" alt="Drawing" style="width: 600px;"/></p>
+
+<p>These two plots show the summary network indices (y-axes) as functions of the soft-thresholding power (x-axes). Numbers in the plots indicate the cor- responding soft-thresholding powers. Plots indicate that approximate scale-free topology is attained at a power of 6. Therefore, the we will <em>weight</em> the network with a power of 6.</p>
+
+<p>The <code>propGenes</code> argument specifies the proportion of genes to be included in the analysis. If this number is &gt; 1, ir selects the proportion of genes with the highest variance across samples. For example, <code>propGenes=0.33</code> will select the top 33% of most variable genes. This is desirable if the memory of your computer cannot handle larger datasets. However, the memory requirements can also be dealt with by using the <code>blockwiseModules</code> function in the WGCNA package. If your dataset has been through the appropriate filtering steps and you have the computational power, select <code>propGenes=1</code>. </p>
+
+<h3 id="step-2-assemble-the-nework-with-the-chosen-power">Step 2. Assemble the nework with the chosen power.</h3>
+<div class="highlight"><pre><code class="language-r" data-lang="r">net <span class="o">&lt;-</span> runWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> propGenes<span class="o">=</span><span class="m">0.2</span><span class="p">,</span> softPower<span class="o">=</span><span class="m">3</span><span class="p">,</span> signedNetwork<span class="o">=</span><span class="kc">TRUE</span><span class="p">)</span>
+<span class="kp">rm</span><span class="p">(</span>dat<span class="p">)</span>
+</code></pre></div>
+<p>The  functions in this wrapper have many  parameters,  and  in  this  example  most  of  them  are  left  at  their  default  value.</p>
+
+<h3 id="step-3-look-at-the-modules-with-different-dynamic-tree-cut-heights">Step 3. Look at the modules with different dynamic tree cut heights.</h3>
+<div class="highlight"><pre><code class="language-r" data-lang="r">plotModulesCut<span class="p">(</span>referenceDataset<span class="o">=</span>net<span class="p">,</span> outFile<span class="o">=</span><span class="s">&quot;plots/modClusterPlot.pdf&quot;</span><span class="p">)</span>
+</code></pre></div><div class="highlight"><pre><code class="language-text" data-lang="text">##  ..done.
+##  ..done.
+##  ..done.
+##  ..done.
+</code></pre></div><div class="highlight"><pre><code class="language-text" data-lang="text">## quartz_off_screen 
+##                 2
+</code></pre></div>
+<p><img src="plots/modClusterPlot.pdf" style="width: 800px;"/></p>
+
+<p>Average linkage hierarchical clustering dendrogram of genes based on gene expression topological overlap. Modules of co-expressed genes were assigned colours which are represented in the horizontal bars below the dendrogram. The different rows of bars represent different dynamic tree cut heights. </p>
+
+<h3 id="step-4-calculate-the-the-module-eigengenes">Step 4. Calculate the the module eigengenes</h3>
+<div class="highlight"><pre><code class="language-r" data-lang="r">e1 <span class="o">&lt;-</span> calculateModuleEigengenes<span class="p">(</span>referenceDataset<span class="o">=</span>net<span class="p">,</span> split<span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</code></pre></div>
+<p>This step summarises each module by calculating the module eigengene for each sample, which is the first principal component of gene expression values for the module. Therefore, the eigengene represents a weighted average of gene ex- pression.</p>
+
+<p>If I choose to use split=1 (the top row in the above dendrogram figure) there will be a small number of large modules in the network. Conversely, if I choose split=4, there will be a larger number of small co-expression modules. Depending on the purpose of the analysis, it is sometimes preferable to choose a larger number of small modules—in such a case, split values of 3-4 would be chosen. </p>
+
+<h3 id="step-5-exploring-the-results-by-plotting-the-eigengene-expression-for-each-experimental-group-and-co-expression-module">Step 5. Exploring the results by plotting the eigengene expression for each experimental group and co-expression module.</h3>
+
+<p>The example data used here were generated from a human cell line experiement designed to examine the effects of oxygen concentration and growth media on gene expression. There are 3 different oxygen concentrations (1%, 5%, 20%) and two different growth media (Plastic and Matrigel). The sample names represent these variables and the experimental replicate. Therefore, we can extract some sample information from the sample names and generate some meaningful plots.</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">groups <span class="o">&lt;-</span> <span class="kp">gsub</span><span class="p">(</span><span class="s">&#39;.{2}$&#39;</span><span class="p">,</span> <span class="s">&#39;&#39;</span><span class="p">,</span> x<span class="o">=</span><span class="kp">rownames</span><span class="p">(</span>e1<span class="p">))</span>
+groups <span class="o">&lt;-</span> <span class="kp">t</span><span class="p">(</span><span class="kt">data.frame</span><span class="p">(</span><span class="kp">strsplit</span><span class="p">(</span>groups<span class="p">,</span> split<span class="o">=</span><span class="s">&quot;.&quot;</span><span class="p">,</span> fixed<span class="o">=</span><span class="kc">TRUE</span><span class="p">)))</span>
+<span class="kp">colnames</span><span class="p">(</span>groups<span class="p">)</span> <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&quot;Oxygen&quot;</span><span class="p">,</span> <span class="s">&quot;Media&quot;</span><span class="p">)</span>
+groups<span class="p">[</span> <span class="p">,</span><span class="m">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="kp">gsub</span><span class="p">(</span><span class="s">&#39;X&#39;</span><span class="p">,</span> <span class="s">&#39;&#39;</span><span class="p">,</span> groups<span class="p">[</span> <span class="p">,</span><span class="m">1</span><span class="p">])</span>
+<span class="kp">rownames</span><span class="p">(</span>groups<span class="p">)</span> <span class="o">&lt;-</span> <span class="kc">NULL</span>
+e1 <span class="o">&lt;-</span> <span class="kp">cbind</span><span class="p">(</span>e1<span class="p">,</span> groups<span class="p">)</span>
+</code></pre></div>
+<p>Then reshape the data for easy plotting with ggplot2.</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">melted <span class="o">&lt;-</span> melt<span class="p">(</span>data<span class="o">=</span>e1<span class="p">,</span> id.vars<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;Oxygen&quot;</span><span class="p">,</span> <span class="s">&quot;Media&quot;</span><span class="p">))</span>
+melted<span class="o">$</span>Oxygen <span class="o">&lt;-</span> <span class="kp">gsub</span><span class="p">(</span>pattern<span class="o">=</span><span class="s">&quot;pc&quot;</span><span class="p">,</span> replacement<span class="o">=</span><span class="s">&quot;&quot;</span><span class="p">,</span> melted<span class="o">$</span>Oxygen<span class="p">)</span>
+melted <span class="o">&lt;-</span> melted<span class="p">[</span><span class="kp">order</span><span class="p">(</span><span class="kp">as.numeric</span><span class="p">(</span>melted<span class="o">$</span>Oxygen<span class="p">)),</span> <span class="p">]</span>
+melted<span class="o">$</span>variable <span class="o">&lt;-</span> <span class="kp">gsub</span><span class="p">(</span><span class="s">&quot;ME&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">,</span> melted<span class="o">$</span>variable<span class="p">)</span>
+</code></pre></div>
+<p>&hellip;and then plot the data.</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">pdf<span class="p">(</span>file<span class="o">=</span><span class="s">&quot;plots/eigengenBoxplots.pdf&quot;</span><span class="p">,</span> width<span class="o">=</span><span class="m">12</span><span class="p">)</span>
+q <span class="o">&lt;-</span> qplot<span class="p">(</span>data<span class="o">=</span>melted<span class="p">,</span> y<span class="o">=</span>value<span class="p">,</span> x<span class="o">=</span>Oxygen<span class="p">,</span> facets<span class="o">=</span>Media<span class="o">~</span>variable<span class="p">,</span> 
+           geom<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;boxplot&quot;</span><span class="p">,</span> <span class="s">&quot;point&quot;</span><span class="p">),</span> ylab<span class="o">=</span><span class="s">&quot;Eignegene expression&quot;</span><span class="p">,</span>
+           colour<span class="o">=</span>Oxygen<span class="p">)</span>
+q <span class="o">+</span> scale_x_discrete<span class="p">(</span>limits<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;1&quot;</span><span class="p">,</span><span class="s">&quot;5&quot;</span><span class="p">,</span><span class="s">&quot;20&quot;</span><span class="p">))</span>
+dev.off<span class="p">()</span>
+</code></pre></div>
+<p><img src="plots/eigengenBoxplots.pdf" alt=""></p>
+
+<p>These boxplots show the eigenene &lsquo;expression&rsquo; (y-axis) for each module (defined by colors) in panel columns for varying oxygen concentrations (x-axis) on different growth media (panel rows). We can see for the plastic media, the &#39;brown&rsquo; module shows notable eigengene expression differences at 1% oxygen which are much more profound than the differences observed for the same oxygen concentration on the matrigel media. This suggests there are differences in the media that induce differences in co-expression in 1% oxygen. </p>
+
+<p>Get the top module hub genes&hellip;</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">hubs <span class="o">&lt;-</span> moduleHubGenes<span class="p">(</span>referenceDataset<span class="o">=</span>net<span class="p">,</span> MEs<span class="o">=</span>calculateModuleEigengenes<span class="p">(</span>referenceDataset<span class="o">=</span>net<span class="p">,</span> split<span class="o">=</span><span class="m">2</span><span class="p">),</span> nGenes<span class="o">=</span><span class="m">10</span><span class="p">,</span> split<span class="o">=</span><span class="m">2</span><span class="p">)</span>
+</code></pre></div>
+<p>&hellip;and list the top array genes for the brown module</p>
+<div class="highlight"><pre><code class="language-r" data-lang="r">hubs<span class="p">[</span> <span class="p">,</span><span class="kp">colnames</span><span class="p">(</span>hubs<span class="p">)</span> <span class="o">==</span> <span class="s">&quot;brown&quot;</span><span class="p">]</span>
+</code></pre></div><div class="highlight"><pre><code class="language-text" data-lang="text">##  [1] &quot;ILMN_1736585&quot; &quot;ILMN_1757384&quot; &quot;ILMN_2383934&quot; &quot;ILMN_2279635&quot;
+##  [5] &quot;ILMN_1783684&quot; &quot;ILMN_1669584&quot; &quot;ILMN_1714820&quot; &quot;ILMN_1793384&quot;
+##  [9] &quot;ILMN_2189993&quot; &quot;ILMN_1777261&quot;
+</code></pre></div>
+    
+    <!--<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Sam Buckberry</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.-->
+</article>
+
+    </main>
+    
+</body>
+
+</html>
