@@ -18,8 +18,8 @@
             </nav>
         </header>
         <article class="post">
-    <h2 class="post-header">Wrappers for Weighted-gene co-expression network analysis (WGCNA)</h2>
-    <p class="post-meta">2015-07-14</p>
+    <h2 class="post-header">Wrappers for running a co-expression network analysis (WGCNA)</h2>
+    <p class="post-meta">2015-07-23</p>
     <h1 id="run-wgcna">RUN-WGCNA</h1>
 
 <h3 id="wrapper-functions-to-perform-a-quick-preliminary-weighted-gene-co-expression-network-analysis">Wrapper functions to perform a quick preliminary weighted-gene co-expression network analysis</h3>
@@ -58,30 +58,24 @@ install.packages<span class="p">(</span>pkgs<span class="o">=</span><span class=
 <h3 id="step-1-determine-levels-of-connectivity-at-different-powers">Step 1. Determine levels of connectivity at different powers.</h3>
 
 <p>Constructing  a  weighted  gene  network  requires the  choice  of  the  soft thresholding  power to  which  co-expression similarity is raised to calculate adjacency. The <code>determineSoftPowerWGCNA</code> function returns a set of network indices that should be inspected, for example:</p>
-<div class="highlight"><pre><code class="language-r" data-lang="r">determineSoftPowerWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> outFile<span class="o">=</span><span class="s">&quot;plots/powerPlots.png&quot;</span><span class="p">,</span> propGenes<span class="o">=</span><span class="m">.2</span><span class="p">)</span>
+<div class="highlight"><pre><code class="language-r" data-lang="r">determineSoftPowerWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> outFile<span class="o">=</span><span class="s">&quot;plots/powerPlots.png&quot;</span><span class="p">,</span> propGenes<span class="o">=</span><span class="m">.1</span><span class="p">)</span>
 </code></pre></div>
-<p><img src="plots/powerPlots.png" alt="Drawing" style="width: 600px;"/></p>
+<p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/powerPlots.png?raw=true" alt="Drawing" style="width: 600px;"/></p>
 
 <p>These two plots show the summary network indices (y-axes) as functions of the soft-thresholding power (x-axes). Numbers in the plots indicate the cor- responding soft-thresholding powers. Plots indicate that approximate scale-free topology is attained at a power of 6. Therefore, the we will <em>weight</em> the network with a power of 6.</p>
 
 <p>The <code>propGenes</code> argument specifies the proportion of genes to be included in the analysis. If this number is &gt; 1, ir selects the proportion of genes with the highest variance across samples. For example, <code>propGenes=0.33</code> will select the top 33% of most variable genes. This is desirable if the memory of your computer cannot handle larger datasets. However, the memory requirements can also be dealt with by using the <code>blockwiseModules</code> function in the WGCNA package. If your dataset has been through the appropriate filtering steps and you have the computational power, select <code>propGenes=1</code>. </p>
 
 <h3 id="step-2-assemble-the-nework-with-the-chosen-power">Step 2. Assemble the nework with the chosen power.</h3>
-<div class="highlight"><pre><code class="language-r" data-lang="r">net <span class="o">&lt;-</span> runWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> propGenes<span class="o">=</span><span class="m">0.2</span><span class="p">,</span> softPower<span class="o">=</span><span class="m">3</span><span class="p">,</span> signedNetwork<span class="o">=</span><span class="kc">TRUE</span><span class="p">)</span>
+<div class="highlight"><pre><code class="language-r" data-lang="r">net <span class="o">&lt;-</span> runWGCNA<span class="p">(</span>data1<span class="o">=</span>dat<span class="p">,</span> propGenes<span class="o">=</span><span class="m">.1</span><span class="p">,</span> softPower<span class="o">=</span><span class="m">3</span><span class="p">,</span> signedNetwork<span class="o">=</span><span class="kc">TRUE</span><span class="p">)</span>
 <span class="kp">rm</span><span class="p">(</span>dat<span class="p">)</span>
 </code></pre></div>
 <p>The  functions in this wrapper have many  parameters,  and  in  this  example  most  of  them  are  left  at  their  default  value.</p>
 
 <h3 id="step-3-look-at-the-modules-with-different-dynamic-tree-cut-heights">Step 3. Look at the modules with different dynamic tree cut heights.</h3>
 <div class="highlight"><pre><code class="language-r" data-lang="r">plotModulesCut<span class="p">(</span>referenceDataset<span class="o">=</span>net<span class="p">,</span> outFile<span class="o">=</span><span class="s">&quot;plots/modClusterPlot.pdf&quot;</span><span class="p">)</span>
-</code></pre></div><div class="highlight"><pre><code class="language-text" data-lang="text">##  ..done.
-##  ..done.
-##  ..done.
-##  ..done.
-</code></pre></div><div class="highlight"><pre><code class="language-text" data-lang="text">## quartz_off_screen 
-##                 2
 </code></pre></div>
-<p><img src="plots/modClusterPlot.pdf" style="width: 800px;"/></p>
+<p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/modClusterPlot.png?raw=true" alt="Drawing" style="width: 900px;"/></p>
 
 <p>Average linkage hierarchical clustering dendrogram of genes based on gene expression topological overlap. Modules of co-expressed genes were assigned colours which are represented in the horizontal bars below the dendrogram. The different rows of bars represent different dynamic tree cut heights. </p>
 
@@ -109,14 +103,14 @@ melted <span class="o">&lt;-</span> melted<span class="p">[</span><span class="k
 melted<span class="o">$</span>variable <span class="o">&lt;-</span> <span class="kp">gsub</span><span class="p">(</span><span class="s">&quot;ME&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">,</span> melted<span class="o">$</span>variable<span class="p">)</span>
 </code></pre></div>
 <p>&hellip;and then plot the data.</p>
-<div class="highlight"><pre><code class="language-r" data-lang="r">pdf<span class="p">(</span>file<span class="o">=</span><span class="s">&quot;plots/eigengenBoxplots.pdf&quot;</span><span class="p">,</span> width<span class="o">=</span><span class="m">12</span><span class="p">)</span>
+<div class="highlight"><pre><code class="language-r" data-lang="r">png<span class="p">(</span>file<span class="o">=</span><span class="s">&quot;plots/eigengenBoxplot.png&quot;</span><span class="p">)</span>
 q <span class="o">&lt;-</span> qplot<span class="p">(</span>data<span class="o">=</span>melted<span class="p">,</span> y<span class="o">=</span>value<span class="p">,</span> x<span class="o">=</span>Oxygen<span class="p">,</span> facets<span class="o">=</span>Media<span class="o">~</span>variable<span class="p">,</span> 
            geom<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;boxplot&quot;</span><span class="p">,</span> <span class="s">&quot;point&quot;</span><span class="p">),</span> ylab<span class="o">=</span><span class="s">&quot;Eignegene expression&quot;</span><span class="p">,</span>
            colour<span class="o">=</span>Oxygen<span class="p">)</span>
 q <span class="o">+</span> scale_x_discrete<span class="p">(</span>limits<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;1&quot;</span><span class="p">,</span><span class="s">&quot;5&quot;</span><span class="p">,</span><span class="s">&quot;20&quot;</span><span class="p">))</span>
 dev.off<span class="p">()</span>
 </code></pre></div>
-<p><img src="plots/eigengenBoxplots.pdf" alt=""></p>
+<p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/eigengenBoxplot.png?raw=true" alt="Drawing"/></p>
 
 <p>These boxplots show the eigenene &lsquo;expression&rsquo; (y-axis) for each module (defined by colors) in panel columns for varying oxygen concentrations (x-axis) on different growth media (panel rows). We can see for the plastic media, the &#39;brown&rsquo; module shows notable eigengene expression differences at 1% oxygen which are much more profound than the differences observed for the same oxygen concentration on the matrigel media. This suggests there are differences in the media that induce differences in co-expression in 1% oxygen. </p>
 
