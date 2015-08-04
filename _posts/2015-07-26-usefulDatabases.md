@@ -6,6 +6,8 @@ date:   2015-07-26
 
 This is a list of bioinformatics databases and web tools I have found useful in the past or think I may find useful in the future. Use with caution... no guarantees or endorsements here.
 
+[**Blacklisted genomic regions for functional genomics analysis**](https://sites.google.com/site/anshulkundaje/projects/blacklists): A list of comprehensive empirical blacklists identified by the ENCODE and modENCODE consortia.
+
 [**Sequence Manipulation Suite**](http://www.bioinformatics.org/sms2/index.html): A collection of JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
 
 [**oPossum**](http://opossum.cisreg.ca/oPOSSUM3/): A web-based system for the detection of over-represented conserved transcription factor binding sites and binding site combinations in sets of genes or sequences. 
