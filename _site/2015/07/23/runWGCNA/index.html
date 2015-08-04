@@ -38,13 +38,13 @@
 
 <h2 id="set-up">Set up</h2>
 
-<p>First you need to ensure you have all the required R libraries to run these wrapper functions. </p>
+<p>First you need to ensure you have all the required R libraries to run these wrapper functions that can be found at <a href="https://github.com/SamBuckberry/RUN-WGCNA">RUN-WGCNA GitHub Repo</a>. </p>
 <div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">source</span><span class="p">(</span><span class="s">&quot;http://bioconductor.org/biocLite.R&quot;</span><span class="p">)</span>
 biocLite<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;AnnotationDbi&quot;</span><span class="p">,</span> <span class="s">&quot;impute&quot;</span><span class="p">,</span> <span class="s">&quot;GO.db&quot;</span><span class="p">,</span> <span class="s">&quot;preprocessCore&quot;</span><span class="p">))</span>
 install.packages<span class="p">(</span>pkgs<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;WGCNA&quot;</span><span class="p">,</span> <span class="s">&quot;flashClust&quot;</span><span class="p">,</span> <span class="s">&quot;ggplot2&quot;</span><span class="p">))</span>
 </code></pre></div>
 <p>Load the libraries and wrapper scripts</p>
-<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">source</span><span class="p">(</span><span class="s">&quot;WGCNA_functions.R&quot;</span><span class="p">)</span>
+<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">source</span><span class="p">(</span><span class="s">&quot;https://raw.githubusercontent.com/SamBuckberry/RUN-WGCNA/master/WGCNA_functions.R&quot;</span><span class="p">)</span>
 <span class="kn">library</span><span class="p">(</span>reshape2<span class="p">)</span>
 <span class="kn">library</span><span class="p">(</span>ggplot2<span class="p">)</span>
 </code></pre></div>
