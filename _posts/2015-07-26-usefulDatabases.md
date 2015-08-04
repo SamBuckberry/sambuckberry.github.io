@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Useful bioinformatics web databases & tools
+title:  Useful bioinformatics resources & web tools
 date:   2015-07-26
 ---
 
