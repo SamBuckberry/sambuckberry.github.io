@@ -6,11 +6,7 @@ permalink: /publications/
 
 ##Peer-reviewed articles
 
-**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data***. [Science Direct](http://www.sciencedirect.com/science/article/pii/S221359601530012X)
-
-
 Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE***. <sup>1</sup>*These authors contributed equally to this work.* [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26121239)
-
 
 **Buckberry S**, Bianco-Miotto T, Bent SJ, Dekker GA & Roberts CT (2014). Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression at the human fetal–maternal interface. ***Molecular Human Reproduction***. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24867328)
 
@@ -28,3 +24,8 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 ##Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
+
+## Datasets
+
+**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data***. [Science Direct](http://www.sciencedirect.com/science/article/pii/S221359601530012X)
+
