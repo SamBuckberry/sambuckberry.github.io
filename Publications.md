@@ -6,6 +6,8 @@ permalink: /publications/
 
 ##Peer-reviewed articles
 
+Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology***. [Webpage](http://dx.doi.org/10.1016/j.ejcb.2015.10.004)
+
 Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE***. <sup>1</sup>*These authors contributed equally to this work.* [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26121239)
 
 **Buckberry S**, Bianco-Miotto T, Bent SJ, Dekker GA & Roberts CT (2014). Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression at the human fetal–maternal interface. ***Molecular Human Reproduction***. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24867328)
