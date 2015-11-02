@@ -21,30 +21,67 @@ The University of Adelaide
 
 ##Education
 ###Doctor of Philosophy (2012-2015)
-The University of Adelaide
+**The University of Adelaide**
+Thesis: An integrative analysis of the human placental transcriptome. Submitted April 2015 and accepted without change July 2015. Awarded the Dean’s commendation for doctoral thesis excellence.
 
-###Bachelor of Health Science - Honours (2011)
-The University of Adelaide
+###Bachelor of Health Science - First Class Honours (2011)
+**The University of Adelaide**
+My honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.
 
 ###Bachelor of Science (2008-2010)
-Flinders University
+**Flinders University**
+Extended Major in Biological Sciences
+I graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.
+
+##Research funding 
+
+NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease. **BUCKBERRY S (CIA) $584,644**
+
+Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
+
+Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
+BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ##Awards & Scholarships
-
-##Grant funding 
-2016-2019
-
-2015
-
-2014
+* Y.W Loke Young Investigator Award, IFPA Conference (2015)
+* Dean’s Commendation for Doctoral Thesis Excellence (2015)
+* Promega PhD Student Award, Lorne Genome Conference (2014)
+* ANZPRA New Investigator Award Finalist (2013)
+* Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
+* NHMRC grant-funded PhD top-up scholarship (2012-2015)
+* ANZPRA New Investigator Award Finalist (2012)
+* The Robinson Research Institute Petrucco Honours Scholarship (2011)
+* AR Riddle Honours Grant, The University of Adelaide (2011)
+* Flinders University Chancellors Commendation (2011)
+* Flinders University Chancellors commendation (2010)
+* Flinders University Summer Research Scholarship (2010)
+* Commonwealth of Australia Education Scholarship (2008-2010)
 
 ##Training
+* Data Science Specialisation Certificate – Johns Hopkins University & Coursera (currently undertaking)
+* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
+* Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
+* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
+* EMBL-EBI bioinformatics workshop, Adelaide (2012)
+* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2012)
+* Beyond Words public speaking coaching (2012)
+* University of Adelaide bioinformatics and scripting workshop (2010)
+* Australian Science Communicators media training (2010) 
 
-##Presentations
+##Teaching
+
+
+##Conferences
+
+###Invited presentations
+
+###Oral presentations
+
+###Poster presentations
 
 ##Publications
 
-#### Peer-reviewed articles
+###Peer-reviewed articles
 
 Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology***. [Webpage](http://dx.doi.org/10.1016/j.ejcb.2015.10.004)
 
