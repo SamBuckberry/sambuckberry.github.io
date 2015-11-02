@@ -4,37 +4,40 @@ title:     CV
 permalink: /cv/
 ---
 
-Sam Buckberry, PhD
-The University of Western Australia
-Faculty of Science
-M316, 35 Stirling Highway
-Crawley, WA 6009
+Sam Buckberry, PhD  
+The University of Western Australia  
+Faculty of Science  
+M316, 35 Stirling Highway  
+Crawley, WA 6009  
 Australia
 
+***
 ##Current position
-Postdoctoral Research Fellow in Genome Bioinformatics
-The University of Western Australia
+***
+**Postdoctoral Research Fellow**  
+Genome Bioinformatics in the Lister Lab    
+The University of Western Australia  
+Faculty of Science
 
-##Previous positions
-Postdoctoral Reserach Fellow (April - July 2015)
-The University of Adelaide
-
+***
 ##Education
-###Doctor of Philosophy (2012-2015)
-**The University of Adelaide**
-Thesis: An integrative analysis of the human placental transcriptome. Submitted April 2015 and accepted without change July 2015. Awarded the Dean’s commendation for doctoral thesis excellence.
+***
+**Doctor of Philosophy**  
+The University of Adelaide (2012-2015)  
+*Thesis: An integrative analysis of the human placental transcriptome. Submitted April 2015 and accepted without change July 2015. Awarded the Dean’s commendation for doctoral thesis excellence.*
 
-###Bachelor of Health Science - First Class Honours (2011)
-**The University of Adelaide**
-My honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.
+**Bachelor of Health Science - First Class Honours**  
+The University of Adelaide (2011)  
+*My honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.*
 
-###Bachelor of Science (2008-2010)
-**Flinders University**
-Extended Major in Biological Sciences
-I graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.
+**Bachelor of Science**  
+Flinders University (2008-2010)  
+Extended Major in Biological Sciences  
+*I graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
 
-##Research funding 
-
+***
+##Research funding
+*** 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease. **BUCKBERRY S (CIA) $584,644**
 
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
@@ -42,7 +45,9 @@ Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach t
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
+***
 ##Awards & Scholarships
+***
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
 * Promega PhD Student Award, Lorne Genome Conference (2014)
@@ -57,8 +62,10 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Flinders University Summer Research Scholarship (2010)
 * Commonwealth of Australia Education Scholarship (2008-2010)
 
+***
 ##Training
-* Data Science Specialisation Certificate – Johns Hopkins University & Coursera (currently undertaking)
+***
+* Data Science Specialization Certificate – Johns Hopkins University & Coursera (currently undertaking)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
 * Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
@@ -68,18 +75,55 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * University of Adelaide bioinformatics and scripting workshop (2010)
 * Australian Science Communicators media training (2010) 
 
+***
 ##Teaching
+***
+Teaching Assistant for command line programming and RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
 
+Teaching Assistant for the Bioinformatics and Scripting Workshops 2013, the University of Adelaide.
 
-##Conferences
+Tutor and Coordinator for undergraduate Biology Peer Assisted Study Sessions (PASS) Flinders University (2010–2011).
+
+***
+##Conference presentations
+***
 
 ###Invited presentations
+Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.*
+
+What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.*
+
+Using RNA sequencing to comprehensively profile the transcriptomes of reproductive tissues. *Society for Reproductive Biology Conference 2014. Melbourne, Australia.*
+
+Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.*
 
 ###Oral presentations
+Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
+*International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.*
+
+Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression patterns in human extra-embryonic tissue. **Promega PhD Student Award**, *Lorne Genome Conference 2014. Lorne Victoria, Australia.*
+
+Sexual inequality begins *in utero* with genome-wide differences in the human placental transcriptome. **ANZPRA new investigator award session**,
+*Society for Reproductive Biology Conference 2013. Sydney, Australia.*
+
+Sex-biased gene expression at the human fetal-maternal interface. *Australian Society for Medical Research Annual Meeting 2013. Adelaide, Australia.*
+
+Quantitative allele-specific expression analysis reveals imprinting plasticity of the H19 lincRNA. **ANZPRA new investigator award session**,
+*Society for Reproductive Biology Conference 2012. Gold Coast, Australia.*
+
+Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
 
 ###Poster presentations
 
+Placental transcriptome co-expression analysis reveals conserved regulatory programs and points toward a preeclampsia gene cluster. *Australian Society for Medical Research Annual Meeting 2015. Adelaide, Australia*
+
+Quantitative analysis of imprinted genes in the human placenta revelas developmental stage-specific imprinting plasticity. *Lorne Genome Conference 2013. Lorne, Australia.*
+
+Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
+
+***
 ##Publications
+***
 
 ###Peer-reviewed articles
 
@@ -99,7 +143,6 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 **Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach, ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
 
- 
 ###Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
