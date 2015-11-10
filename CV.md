@@ -15,8 +15,8 @@ Australia
 ##Current position
 ***
 **Postdoctoral Research Fellow**   
-Lister Lab (epigenetics and genomics)
-Harry Perkins Institute of Medical Research
+Lister Lab (epigenetics and genomics)  
+Harry Perkins Institute of Medical Research  
 The University of Western Australia  
 
 ***
