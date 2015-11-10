@@ -14,10 +14,10 @@ Australia
 ***
 ##Current position
 ***
-**Postdoctoral Research Fellow**  
-Genome Bioinformatics in the Lister Lab    
+**Postdoctoral Research Fellow**   
+Lister Lab (epigenetics and genomics)
+Faculty of Science  
 The University of Western Australia  
-Faculty of Science
 
 ***
 ##Education
