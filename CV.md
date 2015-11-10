@@ -38,7 +38,7 @@ Extended Major in Biological Sciences
 ***
 ##Research funding
 *** 
-NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease. **BUCKBERRY S (CIA) $584,644**
+NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
 
@@ -46,8 +46,10 @@ Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanis
 BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
-##Awards & Scholarships
+##Awards, scholarships & fellowships
 ***
+* NHMRC-ARC Dementia Research Fellowship (2016-2019)
+* NHMRC Peter Doherty Early Career Fellowship Award (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
 * Promega PhD Student Award, Lorne Genome Conference (2014)
