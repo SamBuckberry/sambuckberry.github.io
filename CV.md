@@ -24,23 +24,25 @@ The University of Western Australia
 ***
 **Doctor of Philosophy**  
 The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome. Submitted April 2015 and accepted without change July 2015. Awarded the Dean’s commendation for doctoral thesis excellence.*
+*Thesis: An integrative analysis of the human placental transcriptome.*  
+*Submitted April 2015 and accepted without change July 2015.*  
+*Awarded the Dean’s commendation for doctoral thesis excellence.*
 
 **Bachelor of Health Science - First Class Honours**  
 The University of Adelaide (2011)  
-*My honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.*
+*This honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.*
 
 **Bachelor of Science**  
 Flinders University (2008-2010)  
 Extended Major in Biological Sciences  
-*I graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
+*Graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
 
 ***
 ##Research funding
 *** 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
-NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644** *This research fellowship was relinquished to accept the above grant*
+NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644.** *This research fellowship was relinquished to accept the grant above.*
 
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
 
