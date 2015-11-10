@@ -4,9 +4,9 @@ title:     CV
 permalink: /cv/
 ---
 
-Sam Buckberry, PhD  
+Sam Buckberry, PhD
+Faculty of Science 
 The University of Western Australia  
-Faculty of Science  
 M316, 35 Stirling Highway  
 Crawley, WA 6009  
 Australia
@@ -16,7 +16,7 @@ Australia
 ***
 **Postdoctoral Research Fellow**   
 Lister Lab (epigenetics and genomics)
-Faculty of Science  
+Harry Perkins Institute of Medical Research
 The University of Western Australia  
 
 ***
@@ -40,6 +40,8 @@ Extended Major in Biological Sciences
 *** 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
+NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). ***BUCKBERRY S (CIA) $314,644** *This research fellowship was relinquished to accept the above grant*
+
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
 
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
@@ -49,7 +51,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 ##Awards, scholarships & fellowships
 ***
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
-* NHMRC Peter Doherty Early Career Fellowship Award (2016-2019) *relinquished*
+* NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
 * Promega PhD Student Award, Lorne Genome Conference (2014)
