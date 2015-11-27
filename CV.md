@@ -105,7 +105,7 @@ Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproduct
 
 ###Oral presentations
 Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
-*International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **New investigator award session**
+**New investigator award session.** *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
 
 Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression patterns in human extra-embryonic tissue. **Promega PhD Student Award**, *Lorne Genome Conference 2014. Lorne Victoria, Australia.*
 
