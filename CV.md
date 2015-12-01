@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 Sam Buckberry, PhD   
-The University of Western Australia
+The University of Western Australia  
 Faculty of Science   
 M316, 35 Stirling Highway  
 Crawley, WA 6009  
