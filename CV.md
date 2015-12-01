@@ -4,9 +4,9 @@ title:     CV
 permalink: /cv/
 ---
 
-Sam Buckberry, PhD  
-Faculty of Science  
-The University of Western Australia  
+Sam Buckberry, PhD   
+The University of Western Australia
+Faculty of Science   
 M316, 35 Stirling Highway  
 Crawley, WA 6009  
 Australia
@@ -14,8 +14,8 @@ Australia
 ***
 ##Current position
 ***
-**Postdoctoral Research Fellow**   
-Lister Lab (epigenetics and genomics)  
+**Postdoctoral Research Fellow** (genome bioinformatics)   
+[Lister Lab](http://listerlab.org)(epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
 
@@ -133,7 +133,7 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ###Peer-reviewed articles
 
-Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology***. [Webpage](http://dx.doi.org/10.1016/j.ejcb.2015.10.004)
+Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
 
 Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE*** 10(6):e0131287. <sup>1</sup>*These authors contributed equally to this work.* [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26121239)
 
@@ -147,8 +147,7 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 **Buckberry S**, Bianco-Miotto T, Hiendleder S & Roberts CT (2012). Quantitative Allele-Specific Expression and DNA Methylation Analysis of H19, IGF2 and IGF2R in the Human Placenta across Gestation Reveals H19 Imprinting Plasticity. ***PLoS ONE*** 7(12):e51210. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23227253)
 
-**Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach, ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
-
+**Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
 ###Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
