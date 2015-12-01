@@ -15,7 +15,7 @@ Australia
 ##Current position
 ***
 **Postdoctoral Research Fellow** (genome bioinformatics)   
-[Lister Lab](http://listerlab.org)(epigenetics and genomics)  
+[Lister Lab](http://listerlab.org) (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
 
