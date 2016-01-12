@@ -4,8 +4,8 @@ title:     About
 permalink: /about/
 ---
 
-Sam Buckberry is a Postdoctoral Research Fellow in the [Lister Lab](http://listerlab.org) at [The University of Western Australia](http://www.uwa.edu.au/). His research is focused on deciphering the role of the epigenome in 
-neuronal gene regulation by combining cutting-edge molecular techniques and computational tools.
+Sam Buckberry is an NHMRC-ARC Postdoctoral Research Fellow in the [Lister Lab](http://listerlab.org) at [The University of Western Australia](http://www.uwa.edu.au/). His research is focused on deciphering the role of the epigenome in 
+neuronal gene regulation by combining cutting-edge molecular techniques and computational tools.  
 
 Before joining the Lister Lab in July 2015, Sam completed a PhD at [The University of Adelaide](http://www.adelaide.edu.au) (2012-2015). His PhD research was largely focused on developing computational methods for analysing RNA sequencing data and performing an integrative transcriptome analysis of the human fetal-maternal interface. A lot of this work is publicly available, including [published papers](http://sambuckberry.github.io/publications/) and [R packages](http://www.bioconductor.org/packages/release/bioc/html/massiR.html).
 

@@ -14,7 +14,7 @@ Australia
 ***
 ##Current position
 ***
-**Postdoctoral Research Fellow** (genome bioinformatics)   
+**NHMRC-ARC Dementia Research Fellow**   
 [Lister Lab](http://listerlab.org) (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
