@@ -12,16 +12,22 @@ Crawley, WA 6009
 Australia
 
 ***
-##Current position
+
+## Current position
+
 ***
+
 **NHMRC-ARC Dementia Research Fellow**   
 [Lister Lab](http://listerlab.org) (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
 
 ***
-##Education
+
+## Education
+
 ***
+
 **Doctor of Philosophy**  
 The University of Adelaide (2012-2015)  
 *Thesis: An integrative analysis of the human placental transcriptome.*  
@@ -38,8 +44,11 @@ Extended Major in Biological Sciences
 *Graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
 
 ***
-##Research funding
+
+## Research funding
+
 *** 
+
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
 NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644.** *This research fellowship was relinquished to accept the grant above.*
@@ -50,8 +59,11 @@ Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanis
 BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
-##Awards, scholarships & fellowships
+
+## Awards, scholarships & fellowships
+
 ***
+
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
@@ -69,8 +81,11 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Commonwealth of Australia Education Scholarship (2008-2010)
 
 ***
-##Training
+
+## Training
+
 ***
+
 * Data Science Specialization Certificate – Johns Hopkins University & Coursera (currently undertaking)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
 * Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
@@ -82,8 +97,11 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Australian Science Communicators media training (2010) 
 
 ***
-##Teaching
+
+## Teaching
+
 ***
+
 Teaching Assistant for command line programming and RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
 
 Teaching Assistant for the Bioinformatics and Scripting Workshops 2013, the University of Adelaide.
@@ -91,10 +109,12 @@ Teaching Assistant for the Bioinformatics and Scripting Workshops 2013, the Univ
 Tutor and Coordinator for undergraduate Biology Peer Assisted Study Sessions (PASS) Flinders University (2010–2011).
 
 ***
-##Conference presentations
+
+## Conference presentations
+
 ***
 
-###Invited presentations
+### Invited presentations
 Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
 
 What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.*
@@ -103,7 +123,7 @@ Using RNA sequencing to comprehensively profile the transcriptomes of reproducti
 
 Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.*
 
-###Oral presentations
+### Oral presentations
 Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
 **New investigator award session.** *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
 
@@ -119,7 +139,7 @@ Quantitative allele-specific expression analysis reveals imprinting plasticity o
 
 Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
 
-###Poster presentations
+### Poster presentations
 
 Placental transcriptome co-expression analysis reveals conserved regulatory programs and points toward a preeclampsia gene cluster. *Australian Society for Medical Research Annual Meeting 2015. Adelaide, Australia*
 
@@ -128,10 +148,12 @@ Quantitative analysis of imprinted genes in the human placenta revelas developme
 Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
 
 ***
-##Publications
+
+## Publications
+
 ***
 
-###Peer-reviewed articles
+### Peer-reviewed articles
 
 Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
 
@@ -150,10 +172,11 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 **Buckberry S**, Bianco-Miotto T, Hiendleder S & Roberts CT (2012). Quantitative Allele-Specific Expression and DNA Methylation Analysis of H19, IGF2 and IGF2R in the Human Placenta across Gestation Reveals H19 Imprinting Plasticity. ***PLoS ONE*** 7(12):e51210. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23227253)
 
 **Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
-###Feature articles
+
+### Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
 
-###Datasets
+### Datasets
 
 **Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Science Direct](http://www.sciencedirect.com/science/article/pii/S221359601530012X)
