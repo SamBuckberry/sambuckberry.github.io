@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
+Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Advance publication online](http://dx.doi.org/10.1016/j.gep.2016.05.001)
+
 Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
 
 Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
