@@ -27,84 +27,84 @@
 
 <h4 id="the-annotated-scatter-function">The annotated scatter function:</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span> <span class="o">&lt;-</span> <span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">pointCol</span><span class="o">=</span><span class="n">rgb</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.7</span><span class="p">),</span> 
-                                 <span class="n">legendPos</span><span class="o">=</span><span class="s2">"topleft"</span><span class="p">,</span> <span class="n">legendCex</span><span class="o">=</span><span class="m">1</span><span class="p">,</span> <span class="k">...</span> <span class="p">){</span>
-        <span class="c1"># Generate a linear model summary
-</span>        <span class="n">fit</span> <span class="o">&lt;-</span> <span class="n">lm</span><span class="p">(</span><span class="n">y</span> <span class="o">~</span> <span class="n">x</span><span class="p">)</span>
-        <span class="n">fitSum</span> <span class="o">&lt;-</span> <span class="n">summary</span><span class="p">(</span><span class="n">fit</span><span class="p">)</span>
-        <span class="n">r2</span> <span class="o">&lt;-</span> <span class="n">fitSum</span><span class="o">$</span><span class="n">r.squared</span>
-        <span class="n">pVal</span> <span class="o">&lt;-</span> <span class="n">fitSum</span><span class="o">$</span><span class="n">coefficients</span><span class="p">[</span><span class="m">2</span><span class="p">,</span><span class="m">4</span><span class="p">]</span>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">pointCol</span><span class="o">=</span><span class="n">rgb</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0.7</span><span class="p">),</span><span class="w"> 
+                                 </span><span class="n">legendPos</span><span class="o">=</span><span class="s2">"topleft"</span><span class="p">,</span><span class="w"> </span><span class="n">legendCex</span><span class="o">=</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">...</span><span class="w"> </span><span class="p">){</span><span class="w">
+        </span><span class="c1"># Generate a linear model summary
+</span><span class="w">        </span><span class="n">fit</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lm</span><span class="p">(</span><span class="n">y</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">x</span><span class="p">)</span><span class="w">
+        </span><span class="n">fitSum</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">summary</span><span class="p">(</span><span class="n">fit</span><span class="p">)</span><span class="w">
+        </span><span class="n">r</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">fitSum</span><span class="o">$</span><span class="n">r.squared</span><span class="w">
+        </span><span class="n">pVal</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">fitSum</span><span class="o">$</span><span class="n">coefficients</span><span class="p">[</span><span class="m">2</span><span class="p">,</span><span class="m">4</span><span class="p">]</span><span class="w">
         
-        <span class="c1"># Format the legend for r and p values
-</span>        <span class="n">rp</span> <span class="o">&lt;-</span> <span class="n">vector</span><span class="p">(</span><span class="s1">'expression'</span><span class="p">,</span><span class="m">2</span><span class="p">)</span>
-        <span class="n">rp</span><span class="p">[</span><span class="m">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">substitute</span><span class="p">(</span><span class="n">expression</span><span class="p">(</span><span class="n">italic</span><span class="p">(</span><span class="n">R</span><span class="p">)</span><span class="o">^</span><span class="m">2</span> <span class="o">==</span> <span class="n">valueA</span><span class="p">),</span> 
-                            <span class="n">list</span><span class="p">(</span><span class="n">valueA</span> <span class="o">=</span> <span class="n">format</span><span class="p">(</span><span class="n">r2</span><span class="p">,</span><span class="n">dig</span><span class="o">=</span><span class="m">3</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span>
-        <span class="n">rp</span><span class="p">[</span><span class="m">2</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">substitute</span><span class="p">(</span><span class="n">expression</span><span class="p">(</span><span class="n">italic</span><span class="p">(</span><span class="n">p</span><span class="p">)</span> <span class="o">==</span> <span class="n">valueB</span><span class="p">),</span> 
-                            <span class="n">list</span><span class="p">(</span><span class="n">valueB</span> <span class="o">=</span> <span class="n">format</span><span class="p">(</span><span class="n">pVal</span><span class="p">,</span> <span class="n">digits</span> <span class="o">=</span> <span class="m">2</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span>
+        </span><span class="c1"># Format the legend for r and p values
+</span><span class="w">        </span><span class="n">rp</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">vector</span><span class="p">(</span><span class="s1">'expression'</span><span class="p">,</span><span class="m">2</span><span class="p">)</span><span class="w">
+        </span><span class="n">rp</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">substitute</span><span class="p">(</span><span class="nf">expression</span><span class="p">(</span><span class="n">italic</span><span class="p">(</span><span class="n">R</span><span class="p">)</span><span class="o">^</span><span class="m">2</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">valueA</span><span class="p">),</span><span class="w"> 
+                            </span><span class="nf">list</span><span class="p">(</span><span class="n">valueA</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">format</span><span class="p">(</span><span class="n">r</span><span class="m">2</span><span class="p">,</span><span class="n">dig</span><span class="o">=</span><span class="m">3</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span><span class="w">
+        </span><span class="n">rp</span><span class="p">[</span><span class="m">2</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">substitute</span><span class="p">(</span><span class="nf">expression</span><span class="p">(</span><span class="n">italic</span><span class="p">(</span><span class="n">p</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">valueB</span><span class="p">),</span><span class="w"> 
+                            </span><span class="nf">list</span><span class="p">(</span><span class="n">valueB</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">format</span><span class="p">(</span><span class="n">pVal</span><span class="p">,</span><span class="w"> </span><span class="n">digits</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)))[</span><span class="m">2</span><span class="p">]</span><span class="w">
         
-        <span class="c1"># Plot the data
-</span>        <span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">pch</span><span class="o">=</span><span class="m">19</span><span class="p">,</span> <span class="n">cex</span><span class="o">=</span><span class="m">1.2</span><span class="p">,</span> <span class="n">col</span><span class="o">=</span><span class="n">pointCol</span><span class="p">,</span><span class="k">...</span><span class="p">)</span>
+        </span><span class="c1"># Plot the data
+</span><span class="w">        </span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">pch</span><span class="o">=</span><span class="m">19</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="o">=</span><span class="m">1.2</span><span class="p">,</span><span class="w"> </span><span class="n">col</span><span class="o">=</span><span class="n">pointCol</span><span class="p">,</span><span class="n">...</span><span class="p">)</span><span class="w">
         
-        <span class="c1"># Add line for linear model fit
-</span>        <span class="n">abline</span><span class="p">(</span><span class="n">fit</span><span class="p">)</span>
+        </span><span class="c1"># Add line for linear model fit
+</span><span class="w">        </span><span class="n">abline</span><span class="p">(</span><span class="n">fit</span><span class="p">)</span><span class="w">
         
-        <span class="c1"># Add the legend
-</span>        <span class="n">legend</span><span class="p">(</span><span class="n">legendPos</span><span class="p">,</span> <span class="n">legend</span> <span class="o">=</span> <span class="n">rp</span><span class="p">,</span> <span class="n">bty</span> <span class="o">=</span> <span class="s1">'n'</span><span class="p">,</span> <span class="n">cex</span><span class="o">=</span><span class="n">legendCex</span><span class="p">)</span>
-<span class="p">}</span>
-</code></pre>
+        </span><span class="c1"># Add the legend
+</span><span class="w">        </span><span class="n">legend</span><span class="p">(</span><span class="n">legendPos</span><span class="p">,</span><span class="w"> </span><span class="n">legend</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rp</span><span class="p">,</span><span class="w"> </span><span class="n">bty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'n'</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="o">=</span><span class="n">legendCex</span><span class="p">)</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
 </div>
 
 <h4 id="first-generate-some-test-data">First, generate some test data</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">x</span> <span class="o">&lt;-</span> <span class="n">rnorm</span><span class="p">(</span><span class="n">n</span><span class="o">=</span><span class="m">20</span><span class="p">,</span> <span class="n">mean</span><span class="o">=</span><span class="m">7</span><span class="p">,</span> <span class="n">sd</span><span class="o">=</span><span class="m">3</span><span class="p">)</span>
-<span class="n">y</span> <span class="o">&lt;-</span> <span class="n">x</span><span class="o">+</span><span class="n">rnorm</span><span class="p">(</span><span class="m">20</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">x</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rnorm</span><span class="p">(</span><span class="n">n</span><span class="o">=</span><span class="m">20</span><span class="p">,</span><span class="w"> </span><span class="n">mean</span><span class="o">=</span><span class="m">7</span><span class="p">,</span><span class="w"> </span><span class="n">sd</span><span class="o">=</span><span class="m">3</span><span class="p">)</span><span class="w">
+</span><span class="n">y</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">x</span><span class="o">+</span><span class="n">rnorm</span><span class="p">(</span><span class="m">20</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <h4 id="view-the-plot">View the plot</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/corPlots/corPlot1-1.png" alt="" /></p>
 
 <h4 id="add-axis-labels">Add axis labels</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">xlab</span><span class="o">=</span><span class="s2">"X variable"</span><span class="p">,</span> <span class="n">ylab</span><span class="o">=</span><span class="s2">"Y variable"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">xlab</span><span class="o">=</span><span class="s2">"X variable"</span><span class="p">,</span><span class="w"> </span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Y variable"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/corPlots/corPlot2-1.png" alt="" /></p>
 
 <h4 id="change-point-colour">Change point colour</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">pointCol</span><span class="o">=</span><span class="s2">"red"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">pointCol</span><span class="o">=</span><span class="s2">"red"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/corPlots/corPlot3-1.png" alt="" /></p>
 
 <h4 id="change-the-legend-font-size">Change the legend font size</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">legendCex</span><span class="o">=</span><span class="m">0.7</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">legendCex</span><span class="o">=</span><span class="m">0.7</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/corPlots/corPlot4-1.png" alt="" /></p>
 
 <h4 id="change-legend-position">Change legend position</h4>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">legendPos</span><span class="o">=</span><span class="s2">"bottomright"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotAnnotatedScatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">legendPos</span><span class="o">=</span><span class="s2">"bottomright"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/corPlots/corPlot5-1.png" alt="" /></p>
 
 <p>You can source this R function directly from Github Gist</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"https://gist.githubusercontent.com/SamBuckberry/a83ddd3535d0de4addf0/raw/81d5479decf5d510d02cc4c21653f33b53916b97/plotAnnotatedScatter.R"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"https://gist.githubusercontent.com/SamBuckberry/a83ddd3535d0de4addf0/raw/81d5479decf5d510d02cc4c21653f33b53916b97/plotAnnotatedScatter.R"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 

@@ -24,7 +24,7 @@
     <h2 class="post-header">Wrappers for running a co-expression network analysis (WGCNA)</h2>
     <p class="post-meta">2015-07-23</p>
     <h1 id="run-wgcna">RUN-WGCNA</h1>
-<p>### Wrapper functions to perform a quick preliminary weighted-gene co-expression network analysis</p>
+<h3 id="wrapper-functions-to-perform-a-quick-preliminary-weighted-gene-co-expression-network-analysis">Wrapper functions to perform a quick preliminary weighted-gene co-expression network analysis</h3>
 
 <h3 id="background">Background</h3>
 <p>Weighted correlation network analysis, also known as weighted gene co-expression network analysis (WGCNA), is a widely used data mining method especially for studying biological networks based on pairwise correlations between variables. While it can be applied to most high-dimensional data sets, it has been most widely used in genomic applications. The WGCNA method is extremely powerful for analysing gene expression data for deriving results and insights that are not possible with typical <em>differential expression</em> experiments.</p>
@@ -40,24 +40,24 @@
 <h2 id="set-up">Set up</h2>
 <p>First you need to ensure you have all the required R libraries to run these wrapper functions that can be found at <a href="https://github.com/SamBuckberry/RUN-WGCNA">RUN-WGCNA GitHub Repo</a>.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"http://bioconductor.org/biocLite.R"</span><span class="p">)</span>
-<span class="n">biocLite</span><span class="p">(</span><span class="n">c</span><span class="p">(</span><span class="s2">"AnnotationDbi"</span><span class="p">,</span> <span class="s2">"impute"</span><span class="p">,</span> <span class="s2">"GO.db"</span><span class="p">,</span> <span class="s2">"preprocessCore"</span><span class="p">))</span>
-<span class="n">install.packages</span><span class="p">(</span><span class="n">pkgs</span><span class="o">=</span><span class="n">c</span><span class="p">(</span><span class="s2">"WGCNA"</span><span class="p">,</span> <span class="s2">"flashClust"</span><span class="p">,</span> <span class="s2">"ggplot2"</span><span class="p">))</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"http://bioconductor.org/biocLite.R"</span><span class="p">)</span><span class="w">
+</span><span class="n">biocLite</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s2">"AnnotationDbi"</span><span class="p">,</span><span class="w"> </span><span class="s2">"impute"</span><span class="p">,</span><span class="w"> </span><span class="s2">"GO.db"</span><span class="p">,</span><span class="w"> </span><span class="s2">"preprocessCore"</span><span class="p">))</span><span class="w">
+</span><span class="n">install.packages</span><span class="p">(</span><span class="n">pkgs</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"WGCNA"</span><span class="p">,</span><span class="w"> </span><span class="s2">"flashClust"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ggplot2"</span><span class="p">))</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Load the libraries and wrapper scripts</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"https://raw.githubusercontent.com/SamBuckberry/RUN-WGCNA/master/WGCNA_functions.R"</span><span class="p">)</span>
-<span class="n">library</span><span class="p">(</span><span class="n">reshape2</span><span class="p">)</span>
-<span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"https://raw.githubusercontent.com/SamBuckberry/RUN-WGCNA/master/WGCNA_functions.R"</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">reshape2</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Load the example data</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">dat</span> <span class="o">&lt;-</span> <span class="n">read.table</span><span class="p">(</span><span class="n">file</span><span class="o">=</span><span class="n">unz</span><span class="p">(</span><span class="s2">"exprsExtimates.csv.zip"</span><span class="p">,</span><span class="n">filename</span><span class="o">=</span><span class="s2">"exprsExtimates.csv"</span><span class="p">),</span> <span class="n">header</span><span class="o">=</span><span class="n">TRUE</span><span class="p">,</span> <span class="n">row.names</span><span class="o">=</span><span class="m">1</span><span class="p">,</span> <span class="n">sep</span><span class="o">=</span><span class="s2">","</span><span class="p">,</span> <span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">dat</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.table</span><span class="p">(</span><span class="n">file</span><span class="o">=</span><span class="n">unz</span><span class="p">(</span><span class="s2">"exprsExtimates.csv.zip"</span><span class="p">,</span><span class="n">filename</span><span class="o">=</span><span class="s2">"exprsExtimates.csv"</span><span class="p">),</span><span class="w"> </span><span class="n">header</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">row.names</span><span class="o">=</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="o">=</span><span class="s2">","</span><span class="p">,</span><span class="w"> </span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 <p>This example dataset is normalised microarray data from a human cell line experient designed to look at the gene expression differences in cells in different oxygen concentrations on different growth media.</p>
 
@@ -66,8 +66,8 @@
 <h3 id="step-1-determine-levels-of-connectivity-at-different-powers">Step 1. Determine levels of connectivity at different powers.</h3>
 <p>Constructing  a  weighted  gene  network  requires the  choice  of  the  soft thresholding  power to  which  co-expression similarity is raised to calculate adjacency. The <code class="highlighter-rouge">determineSoftPowerWGCNA</code> function returns a set of network indices that should be inspected, for example:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">determineSoftPowerWGCNA</span><span class="p">(</span><span class="n">data1</span><span class="o">=</span><span class="n">dat</span><span class="p">,</span> <span class="n">outFile</span><span class="o">=</span><span class="s2">"plots/powerPlots.png"</span><span class="p">,</span> <span class="n">propGenes</span><span class="o">=</span><span class="m">.1</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">determineSoftPowerWGCNA</span><span class="p">(</span><span class="n">data1</span><span class="o">=</span><span class="n">dat</span><span class="p">,</span><span class="w"> </span><span class="n">outFile</span><span class="o">=</span><span class="s2">"plots/powerPlots.png"</span><span class="p">,</span><span class="w"> </span><span class="n">propGenes</span><span class="o">=</span><span class="m">.1</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 <p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/powerPlots.png?raw=true" alt="Drawing" style="width: 600px;" /></p>
 
@@ -77,16 +77,16 @@
 
 <h3 id="step-2-assemble-the-nework-with-the-chosen-power">Step 2. Assemble the nework with the chosen power.</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">net</span> <span class="o">&lt;-</span> <span class="n">runWGCNA</span><span class="p">(</span><span class="n">data1</span><span class="o">=</span><span class="n">dat</span><span class="p">,</span> <span class="n">propGenes</span><span class="o">=</span><span class="m">.1</span><span class="p">,</span> <span class="n">softPower</span><span class="o">=</span><span class="m">3</span><span class="p">,</span> <span class="n">signedNetwork</span><span class="o">=</span><span class="n">TRUE</span><span class="p">)</span>
-<span class="n">rm</span><span class="p">(</span><span class="n">dat</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">net</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">runWGCNA</span><span class="p">(</span><span class="n">data1</span><span class="o">=</span><span class="n">dat</span><span class="p">,</span><span class="w"> </span><span class="n">propGenes</span><span class="o">=</span><span class="m">.1</span><span class="p">,</span><span class="w"> </span><span class="n">softPower</span><span class="o">=</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">signedNetwork</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span><span class="n">rm</span><span class="p">(</span><span class="n">dat</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 <p>The  functions in this wrapper have many  parameters,  and  in  this  example  most  of  them  are  left  at  their  default  value.</p>
 
 <h3 id="step-3-look-at-the-modules-with-different-dynamic-tree-cut-heights">Step 3. Look at the modules with different dynamic tree cut heights.</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotModulesCut</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span> <span class="n">outFile</span><span class="o">=</span><span class="s2">"plots/modClusterPlot.pdf"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotModulesCut</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span><span class="w"> </span><span class="n">outFile</span><span class="o">=</span><span class="s2">"plots/modClusterPlot.pdf"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 <p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/modClusterPlot.png?raw=true" alt="Drawing" style="width: 900px;" /></p>
 
@@ -94,8 +94,8 @@
 
 <h3 id="step-4-calculate-the-the-module-eigengenes">Step 4. Calculate the the module eigengenes</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">e1</span> <span class="o">&lt;-</span> <span class="n">calculateModuleEigengenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span> <span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">e</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">calculateModuleEigengenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span><span class="w"> </span><span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>This step summarises each module by calculating the module eigengene for each sample, which is the first principal component of gene expression values for the module. Therefore, the eigengene represents a weighted average of gene ex- pression.</p>
@@ -106,33 +106,33 @@
 
 <p>The example data used here were generated from a human cell line experiement designed to examine the effects of oxygen concentration and growth media on gene expression. There are 3 different oxygen concentrations (1%, 5%, 20%) and two different growth media (Plastic and Matrigel). The sample names represent these variables and the experimental replicate. Therefore, we can extract some sample information from the sample names and generate some meaningful plots.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">groups</span> <span class="o">&lt;-</span> <span class="n">gsub</span><span class="p">(</span><span class="s1">'.{2}$'</span><span class="p">,</span> <span class="s1">''</span><span class="p">,</span> <span class="n">x</span><span class="o">=</span><span class="n">rownames</span><span class="p">(</span><span class="n">e1</span><span class="p">))</span>
-<span class="n">groups</span> <span class="o">&lt;-</span> <span class="n">t</span><span class="p">(</span><span class="n">data.frame</span><span class="p">(</span><span class="n">strsplit</span><span class="p">(</span><span class="n">groups</span><span class="p">,</span> <span class="n">split</span><span class="o">=</span><span class="s2">"."</span><span class="p">,</span> <span class="n">fixed</span><span class="o">=</span><span class="n">TRUE</span><span class="p">)))</span>
-<span class="n">colnames</span><span class="p">(</span><span class="n">groups</span><span class="p">)</span> <span class="o">&lt;-</span> <span class="n">c</span><span class="p">(</span><span class="s2">"Oxygen"</span><span class="p">,</span> <span class="s2">"Media"</span><span class="p">)</span>
-<span class="n">groups</span><span class="p">[</span> <span class="p">,</span><span class="m">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">gsub</span><span class="p">(</span><span class="s1">'X'</span><span class="p">,</span> <span class="s1">''</span><span class="p">,</span> <span class="n">groups</span><span class="p">[</span> <span class="p">,</span><span class="m">1</span><span class="p">])</span>
-<span class="n">rownames</span><span class="p">(</span><span class="n">groups</span><span class="p">)</span> <span class="o">&lt;-</span> <span class="n">NULL</span>
-<span class="n">e1</span> <span class="o">&lt;-</span> <span class="n">cbind</span><span class="p">(</span><span class="n">e1</span><span class="p">,</span> <span class="n">groups</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s1">'.{2}$'</span><span class="p">,</span><span class="w"> </span><span class="s1">''</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="o">=</span><span class="n">rownames</span><span class="p">(</span><span class="n">e</span><span class="m">1</span><span class="p">))</span><span class="w">
+</span><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">t</span><span class="p">(</span><span class="n">data.frame</span><span class="p">(</span><span class="n">strsplit</span><span class="p">(</span><span class="n">groups</span><span class="p">,</span><span class="w"> </span><span class="n">split</span><span class="o">=</span><span class="s2">"."</span><span class="p">,</span><span class="w"> </span><span class="n">fixed</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">)))</span><span class="w">
+</span><span class="n">colnames</span><span class="p">(</span><span class="n">groups</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Oxygen"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Media"</span><span class="p">)</span><span class="w">
+</span><span class="n">groups</span><span class="p">[</span><span class="w"> </span><span class="p">,</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s1">'X'</span><span class="p">,</span><span class="w"> </span><span class="s1">''</span><span class="p">,</span><span class="w"> </span><span class="n">groups</span><span class="p">[</span><span class="w"> </span><span class="p">,</span><span class="m">1</span><span class="p">])</span><span class="w">
+</span><span class="n">rownames</span><span class="p">(</span><span class="n">groups</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="kc">NULL</span><span class="w">
+</span><span class="n">e</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">cbind</span><span class="p">(</span><span class="n">e</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">groups</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Then reshape the data for easy plotting with ggplot2.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">melted</span> <span class="o">&lt;-</span> <span class="n">melt</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">e1</span><span class="p">,</span> <span class="n">id.vars</span><span class="o">=</span><span class="n">c</span><span class="p">(</span><span class="s2">"Oxygen"</span><span class="p">,</span> <span class="s2">"Media"</span><span class="p">))</span>
-<span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span> <span class="o">&lt;-</span> <span class="n">gsub</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">"pc"</span><span class="p">,</span> <span class="n">replacement</span><span class="o">=</span><span class="s2">""</span><span class="p">,</span> <span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span><span class="p">)</span>
-<span class="n">melted</span> <span class="o">&lt;-</span> <span class="n">melted</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">as.numeric</span><span class="p">(</span><span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span><span class="p">)),</span> <span class="p">]</span>
-<span class="n">melted</span><span class="o">$</span><span class="n">variable</span> <span class="o">&lt;-</span> <span class="n">gsub</span><span class="p">(</span><span class="s2">"ME"</span><span class="p">,</span> <span class="s2">""</span><span class="p">,</span> <span class="n">melted</span><span class="o">$</span><span class="n">variable</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">melted</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">melt</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">e</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">id.vars</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"Oxygen"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Media"</span><span class="p">))</span><span class="w">
+</span><span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">"pc"</span><span class="p">,</span><span class="w"> </span><span class="n">replacement</span><span class="o">=</span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span><span class="p">)</span><span class="w">
+</span><span class="n">melted</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">melted</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">melted</span><span class="o">$</span><span class="n">Oxygen</span><span class="p">)),</span><span class="w"> </span><span class="p">]</span><span class="w">
+</span><span class="n">melted</span><span class="o">$</span><span class="n">variable</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"ME"</span><span class="p">,</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">melted</span><span class="o">$</span><span class="n">variable</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>…and then plot the data.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">png</span><span class="p">(</span><span class="n">file</span><span class="o">=</span><span class="s2">"plots/eigengenBoxplot.png"</span><span class="p">)</span>
-<span class="n">q</span> <span class="o">&lt;-</span> <span class="n">qplot</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">melted</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="n">value</span><span class="p">,</span> <span class="n">x</span><span class="o">=</span><span class="n">Oxygen</span><span class="p">,</span> <span class="n">facets</span><span class="o">=</span><span class="n">Media</span><span class="o">~</span><span class="n">variable</span><span class="p">,</span> 
-           <span class="n">geom</span><span class="o">=</span><span class="n">c</span><span class="p">(</span><span class="s2">"boxplot"</span><span class="p">,</span> <span class="s2">"point"</span><span class="p">),</span> <span class="n">ylab</span><span class="o">=</span><span class="s2">"Eignegene expression"</span><span class="p">,</span>
-           <span class="n">colour</span><span class="o">=</span><span class="n">Oxygen</span><span class="p">)</span>
-<span class="n">q</span> <span class="o">+</span> <span class="n">scale_x_discrete</span><span class="p">(</span><span class="n">limits</span><span class="o">=</span><span class="n">c</span><span class="p">(</span><span class="s2">"1"</span><span class="p">,</span><span class="s2">"5"</span><span class="p">,</span><span class="s2">"20"</span><span class="p">))</span>
-<span class="n">dev.off</span><span class="p">()</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">png</span><span class="p">(</span><span class="n">file</span><span class="o">=</span><span class="s2">"plots/eigengenBoxplot.png"</span><span class="p">)</span><span class="w">
+</span><span class="n">q</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">qplot</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">melted</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="o">=</span><span class="n">value</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="o">=</span><span class="n">Oxygen</span><span class="p">,</span><span class="w"> </span><span class="n">facets</span><span class="o">=</span><span class="n">Media</span><span class="o">~</span><span class="n">variable</span><span class="p">,</span><span class="w"> 
+           </span><span class="n">geom</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"boxplot"</span><span class="p">,</span><span class="w"> </span><span class="s2">"point"</span><span class="p">),</span><span class="w"> </span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Eignegene expression"</span><span class="p">,</span><span class="w">
+           </span><span class="n">colour</span><span class="o">=</span><span class="n">Oxygen</span><span class="p">)</span><span class="w">
+</span><span class="n">q</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">scale_x_discrete</span><span class="p">(</span><span class="n">limits</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"1"</span><span class="p">,</span><span class="s2">"5"</span><span class="p">,</span><span class="s2">"20"</span><span class="p">))</span><span class="w">
+</span><span class="n">dev.off</span><span class="p">()</span><span class="w">
+</span></code></pre>
 </div>
 <p><img src="https://github.com/SamBuckberry/RUN-WGCNA/blob/master/plots/eigengenBoxplot.png?raw=true" alt="Drawing" /></p>
 
@@ -140,14 +140,14 @@
 
 <p>Get the top module hub genes…</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">hubs</span> <span class="o">&lt;-</span> <span class="n">moduleHubGenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span> <span class="n">MEs</span><span class="o">=</span><span class="n">calculateModuleEigengenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span> <span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">),</span> <span class="n">nGenes</span><span class="o">=</span><span class="m">10</span><span class="p">,</span> <span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">hubs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">moduleHubGenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span><span class="w"> </span><span class="n">MEs</span><span class="o">=</span><span class="n">calculateModuleEigengenes</span><span class="p">(</span><span class="n">referenceDataset</span><span class="o">=</span><span class="n">net</span><span class="p">,</span><span class="w"> </span><span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="n">nGenes</span><span class="o">=</span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="n">split</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>…and list the top array genes for the brown module</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">hubs</span><span class="p">[</span> <span class="p">,</span><span class="n">colnames</span><span class="p">(</span><span class="n">hubs</span><span class="p">)</span> <span class="o">==</span> <span class="s2">"brown"</span><span class="p">]</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">hubs</span><span class="p">[</span><span class="w"> </span><span class="p">,</span><span class="n">colnames</span><span class="p">(</span><span class="n">hubs</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"brown"</span><span class="p">]</span><span class="w">
+</span></code></pre>
 </div>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>##  [1] "ILMN_1736585" "ILMN_1757384" "ILMN_2383934" "ILMN_2279635"

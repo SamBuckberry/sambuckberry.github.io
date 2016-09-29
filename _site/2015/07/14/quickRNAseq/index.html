@@ -33,17 +33,17 @@
 
 <h2 id="fastq-files-to-differential-expression-results-using-10-lines-of-r-code">FASTQ files to differential expression results using 10 lines of R code</h2>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">buildindex</span><span class="p">(</span><span class="n">basename</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span> <span class="n">reference</span><span class="o">=</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span>
-<span class="n">align</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span> <span class="n">readfile1</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".fastq.gz$"</span><span class="p">))</span>
-<span class="n">fCounts</span> <span class="o">&lt;-</span> <span class="n">featureCounts</span><span class="p">(</span><span class="n">files</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".BAM$"</span><span class="p">),</span> <span class="n">annot.inbuilt</span><span class="o">=</span><span class="s2">"hg19"</span><span class="p">)</span>
-<span class="n">dge</span> <span class="o">&lt;-</span> <span class="n">DGEList</span><span class="p">(</span><span class="n">counts</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">,</span> <span class="n">genes</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">annotation</span><span class="p">)</span>
-<span class="n">thresholdCPM</span> <span class="o">&lt;-</span> <span class="n">rowSums</span><span class="p">(</span><span class="n">cpm</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span> <span class="o">&gt;</span> <span class="m">1</span><span class="p">)</span> <span class="o">&gt;=</span> <span class="m">2</span>
-<span class="n">dge</span> <span class="o">&lt;-</span> <span class="n">dge</span><span class="p">[</span><span class="n">thresholdCPM</span><span class="p">,</span> <span class="p">]</span>
-<span class="n">design</span> <span class="o">&lt;-</span> <span class="n">model.matrix</span><span class="p">(</span><span class="o">~</span><span class="n">c</span><span class="p">(</span><span class="s2">"A"</span><span class="p">,</span> <span class="s2">"A"</span><span class="p">,</span> <span class="s2">"B"</span><span class="p">,</span> <span class="s2">"B"</span><span class="p">))</span>
-<span class="n">voomDat</span> <span class="o">&lt;-</span> <span class="n">voom</span><span class="p">(</span><span class="n">dge</span><span class="p">,</span> <span class="n">design</span><span class="p">)</span>
-<span class="n">fit</span> <span class="o">&lt;-</span> <span class="n">eBayes</span><span class="p">(</span><span class="n">lmFit</span><span class="p">(</span><span class="n">voomDat</span><span class="p">,</span> <span class="n">design</span><span class="p">))</span>
-<span class="n">topTable</span><span class="p">(</span><span class="n">fit</span><span class="p">,</span> <span class="n">coef</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">buildindex</span><span class="p">(</span><span class="n">basename</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span><span class="w"> </span><span class="n">reference</span><span class="o">=</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span><span class="w">
+</span><span class="n">align</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span><span class="w"> </span><span class="n">readfile1</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".fastq.gz$"</span><span class="p">))</span><span class="w">
+</span><span class="n">fCounts</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">featureCounts</span><span class="p">(</span><span class="n">files</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".BAM$"</span><span class="p">),</span><span class="w"> </span><span class="n">annot.inbuilt</span><span class="o">=</span><span class="s2">"hg19"</span><span class="p">)</span><span class="w">
+</span><span class="n">dge</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DGEList</span><span class="p">(</span><span class="n">counts</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">,</span><span class="w"> </span><span class="n">genes</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">annotation</span><span class="p">)</span><span class="w">
+</span><span class="n">thresholdCPM</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rowSums</span><span class="p">(</span><span class="n">cpm</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="m">2</span><span class="w">
+</span><span class="n">dge</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dge</span><span class="p">[</span><span class="n">thresholdCPM</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
+</span><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">model.matrix</span><span class="p">(</span><span class="o">~</span><span class="nf">c</span><span class="p">(</span><span class="s2">"A"</span><span class="p">,</span><span class="w"> </span><span class="s2">"A"</span><span class="p">,</span><span class="w"> </span><span class="s2">"B"</span><span class="p">,</span><span class="w"> </span><span class="s2">"B"</span><span class="p">))</span><span class="w">
+</span><span class="n">voomDat</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">voom</span><span class="p">(</span><span class="n">dge</span><span class="p">,</span><span class="w"> </span><span class="n">design</span><span class="p">)</span><span class="w">
+</span><span class="n">fit</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">eBayes</span><span class="p">(</span><span class="n">lmFit</span><span class="p">(</span><span class="n">voomDat</span><span class="p">,</span><span class="w"> </span><span class="n">design</span><span class="p">))</span><span class="w">
+</span><span class="n">topTable</span><span class="p">(</span><span class="n">fit</span><span class="p">,</span><span class="w"> </span><span class="n">coef</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <h2 id="preliminaries">Preliminaries</h2>
@@ -52,17 +52,17 @@
 
 <p><strong>Downlaod and install the required bioconductor packages</strong></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"http://bioconductor.org/biocLite.R"</span><span class="p">)</span>
-<span class="n">biocLite</span><span class="p">(</span><span class="n">c</span><span class="p">(</span><span class="s2">"Rsubread"</span><span class="p">,</span> <span class="s2">"limma"</span><span class="p">,</span> <span class="s2">"edgeR"</span><span class="p">))</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">source</span><span class="p">(</span><span class="s2">"http://bioconductor.org/biocLite.R"</span><span class="p">)</span><span class="w">
+</span><span class="n">biocLite</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s2">"Rsubread"</span><span class="p">,</span><span class="w"> </span><span class="s2">"limma"</span><span class="p">,</span><span class="w"> </span><span class="s2">"edgeR"</span><span class="p">))</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><strong>Get some FASTQ files</strong><br />
 If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FASTQ format</a> for testing purposes, you can download four files with 100,000 single-end reads hosted in <a href="https://github.com/SamBuckberry/Blog/tree/master/testFiles">this github repo</a> using the code below (~30MB).</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">download.file</span><span class="p">(</span><span class="s2">"https://cdn.rawgit.com/SamBuckberry/Blog/master/testFiles/testFiles.zip"</span><span class="p">,</span> <span class="n">destfile</span><span class="o">=</span><span class="s2">"testFiles.zip"</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s2">"curl"</span><span class="p">)</span>
-<span class="n">unzip</span><span class="p">(</span><span class="s2">"testFiles.zip"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">download.file</span><span class="p">(</span><span class="s2">"https://cdn.rawgit.com/SamBuckberry/Blog/master/testFiles/testFiles.zip"</span><span class="p">,</span><span class="w"> </span><span class="n">destfile</span><span class="o">=</span><span class="s2">"testFiles.zip"</span><span class="p">,</span><span class="w"> </span><span class="n">method</span><span class="o">=</span><span class="s2">"curl"</span><span class="p">)</span><span class="w">
+</span><span class="n">unzip</span><span class="p">(</span><span class="s2">"testFiles.zip"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 <p>Make sure that the FASTQ files are in your working directory.</p>
 
@@ -72,35 +72,35 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>To download the chromosome 1 reference sequence in FASTA format from UCSC:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">download.file</span><span class="p">(</span><span class="s2">"http://hgdownload.soe.ucsc.edu/goldenPath/hg19/chromosomes/chr1.fa.gz"</span><span class="p">,</span> <span class="n">destfile</span><span class="o">=</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span>
-<span class="n">untar</span><span class="p">(</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">download.file</span><span class="p">(</span><span class="s2">"http://hgdownload.soe.ucsc.edu/goldenPath/hg19/chromosomes/chr1.fa.gz"</span><span class="p">,</span><span class="w"> </span><span class="n">destfile</span><span class="o">=</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span><span class="w">
+</span><span class="n">untar</span><span class="p">(</span><span class="s2">"chr1.fa.gz"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <h2 id="step-by-step-breakdown-of-the-differential-expression-analysis">Step-by-step breakdown of the differential expression analysis</h2>
 
 <p>First, load the required libraries:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">Rsubread</span><span class="p">)</span>
-<span class="n">library</span><span class="p">(</span><span class="n">edgeR</span><span class="p">)</span>
-<span class="n">library</span><span class="p">(</span><span class="n">limma</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">Rsubread</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">edgeR</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">limma</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <h3 id="step-1-build-a-reference-genome-index">Step 1: Build a reference genome index</h3>
 
 <p>First, we need to create an index for the reference genome (This might take a couple of minutes).</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">buildindex</span><span class="p">(</span><span class="n">basename</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span> <span class="n">reference</span><span class="o">=</span><span class="s2">"chr1.fa"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">buildindex</span><span class="p">(</span><span class="n">basename</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span><span class="w"> </span><span class="n">reference</span><span class="o">=</span><span class="s2">"chr1.fa"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <h3 id="step-2-align-reads-to-reference-genome">Step 2: Align reads to reference genome</h3>
 
 <p>Now, we align the RNA-Seq reads in the FASTQ files to the reference genome:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">align</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span> <span class="n">readfile1</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".fastq.gz$"</span><span class="p">))</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">align</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="s2">"chr1"</span><span class="p">,</span><span class="w"> </span><span class="n">readfile1</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".fastq.gz$"</span><span class="p">))</span><span class="w">
+</span></code></pre>
 </div>
 
 <h3 id="step-3-count-the-number-of-reads-aligned-to-each-gene">Step 3: Count the number of reads aligned to each gene</h3>
@@ -111,18 +111,18 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>This step generates a table of read counts, with genes as rows and samples as colums:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">fCounts</span> <span class="o">&lt;-</span> <span class="n">featureCounts</span><span class="p">(</span><span class="n">files</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".BAM$"</span><span class="p">),</span> <span class="n">annot.inbuilt</span><span class="o">=</span><span class="s2">"hg19"</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">fCounts</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">featureCounts</span><span class="p">(</span><span class="n">files</span><span class="o">=</span><span class="n">list.files</span><span class="p">(</span><span class="n">pattern</span><span class="o">=</span><span class="s2">".BAM$"</span><span class="p">),</span><span class="w"> </span><span class="n">annot.inbuilt</span><span class="o">=</span><span class="s2">"hg19"</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Remove the file extensions from the sample names (Optional)</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">colnames</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span> <span class="o">&lt;-</span> <span class="n">substr</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">),</span> <span class="n">start</span><span class="o">=</span><span class="m">1</span><span class="p">,</span> <span class="n">stop</span><span class="o">=</span><span class="m">2</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">colnames</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">substr</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">),</span><span class="w"> </span><span class="n">start</span><span class="o">=</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">stop</span><span class="o">=</span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>##           a1 a2 b1 b2
@@ -141,21 +141,21 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>First, we will create a <code class="highlighter-rouge">DGEList</code> object using edgeR</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">dge</span> <span class="o">&lt;-</span> <span class="n">DGEList</span><span class="p">(</span><span class="n">counts</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">dge</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DGEList</span><span class="p">(</span><span class="n">counts</span><span class="o">=</span><span class="n">fCounts</span><span class="o">$</span><span class="n">counts</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>To remove genes expressed at relatively low-levels, we (arbitrarily) limit the subset the data to include only the genes to which at least 1 read per million reads mapped (1 cpm) in at least 2 samples.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">thresholdCPM</span> <span class="o">&lt;-</span> <span class="n">rowSums</span><span class="p">(</span><span class="n">cpm</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span> <span class="o">&gt;</span> <span class="m">1</span><span class="p">)</span> <span class="o">&gt;=</span> <span class="m">2</span>
-<span class="n">dge</span> <span class="o">&lt;-</span> <span class="n">dge</span><span class="p">[</span><span class="n">thresholdCPM</span><span class="p">,</span> <span class="p">]</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">thresholdCPM</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rowSums</span><span class="p">(</span><span class="n">cpm</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="m">2</span><span class="w">
+</span><span class="n">dge</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dge</span><span class="p">[</span><span class="n">thresholdCPM</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>It is also a very good idea plot the sample relations using a multi-dimensional scaling plot. Here, the <code class="highlighter-rouge">plotMDS</code> function shows the <em>distance</em> between samples in terms of the log2 fold-change. As expected, we can see that the distance between the “a” and “b” group samples is much greater than distance between the samples within each group (Note the different axis scales). For more details, type <code class="highlighter-rouge">?plotMDS</code></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotMDS</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotMDS</span><span class="p">(</span><span class="n">dge</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/quickRNAseq/unnamed-chunk-14-1.png" alt="" /></p>
@@ -168,16 +168,16 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>You can also inspect at a couple of plots, one of the mean-variance trend generated by the <code class="highlighter-rouge">voom</code> function</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">voomDat</span> <span class="o">&lt;-</span> <span class="n">voom</span><span class="p">(</span><span class="n">dge</span><span class="p">,</span> <span class="n">plot</span><span class="o">=</span><span class="n">TRUE</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">voomDat</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">voom</span><span class="p">(</span><span class="n">dge</span><span class="p">,</span><span class="w"> </span><span class="n">plot</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/quickRNAseq/unnamed-chunk-15-1.png" alt="" /></p>
 
 <p>and another MDS plot as above, after the voom normalisation-transformation step.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">plotMDS</span><span class="p">(</span><span class="n">voomDat</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plotMDS</span><span class="p">(</span><span class="n">voomDat</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <p><img src="/images/quickRNAseq/unnamed-chunk-16-1.png" alt="" /></p>
@@ -186,20 +186,20 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>First, we set up the design matrix. The “A” and “B” letters below correspond to the group for each samples.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">design</span> <span class="o">&lt;-</span> <span class="n">model.matrix</span><span class="p">(</span><span class="o">~</span><span class="n">c</span><span class="p">(</span><span class="s2">"A"</span><span class="p">,</span> <span class="s2">"A"</span><span class="p">,</span> <span class="s2">"B"</span><span class="p">,</span> <span class="s2">"B"</span><span class="p">))</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">model.matrix</span><span class="p">(</span><span class="o">~</span><span class="nf">c</span><span class="p">(</span><span class="s2">"A"</span><span class="p">,</span><span class="w"> </span><span class="s2">"A"</span><span class="p">,</span><span class="w"> </span><span class="s2">"B"</span><span class="p">,</span><span class="w"> </span><span class="s2">"B"</span><span class="p">))</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Now we can fit the linear models and test for differential expression using the <code class="highlighter-rouge">eBayes</code> and <code class="highlighter-rouge">lmFit</code> functions in Limma.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">fit</span> <span class="o">&lt;-</span> <span class="n">eBayes</span><span class="p">(</span><span class="n">lmFit</span><span class="p">(</span><span class="n">voomDat</span><span class="p">,</span> <span class="n">design</span><span class="p">))</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">fit</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">eBayes</span><span class="p">(</span><span class="n">lmFit</span><span class="p">(</span><span class="n">voomDat</span><span class="p">,</span><span class="w"> </span><span class="n">design</span><span class="p">))</span><span class="w">
+</span></code></pre>
 </div>
 
 <p>Look at the top 10 differentially expressed genes:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">topTable</span><span class="p">(</span><span class="n">fit</span><span class="p">,</span> <span class="n">coef</span><span class="o">=</span><span class="m">2</span><span class="p">,</span> <span class="n">n</span><span class="o">=</span><span class="m">10</span><span class="p">)</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">topTable</span><span class="p">(</span><span class="n">fit</span><span class="p">,</span><span class="w"> </span><span class="n">coef</span><span class="o">=</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">n</span><span class="o">=</span><span class="m">10</span><span class="p">)</span><span class="w">
+</span></code></pre>
 </div>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>##            logFC   AveExpr         t      P.Value   adj.P.Val        B
@@ -235,8 +235,8 @@ If you need some data in <a href="https://en.wikipedia.org/wiki/FASTQ_format">FA
 
 <p>The platform and package versions I used to develop this example.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span>
-</code></pre>
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
+</span></code></pre>
 </div>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.1.1 (2014-07-10)
