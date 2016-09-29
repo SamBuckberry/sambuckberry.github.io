@@ -155,6 +155,8 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ### Peer-reviewed articles
 
+Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [doi: 10.3389/fgene.2016.00183](http://journal.frontiersin.org/article/10.3389/fgene.2016.00183/full)
+
 Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
 
 Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
