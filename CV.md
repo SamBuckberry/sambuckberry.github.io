@@ -64,6 +64,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
+* Best Oral Presentation by Early Career Researcher at Australiasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
@@ -124,23 +125,25 @@ Tutor and Coordinator for undergraduate Biology Peer Assisted Study Sessions (PA
 
 ***
 
-### Invited presentations
-Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
-
-What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.*
-
-Using RNA sequencing to comprehensively profile the transcriptomes of reproductive tissues. *Society for Reproductive Biology Conference 2014. Melbourne, Australia.*
-
-Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.*
 
 ### Oral presentations
+Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australiasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
+
+Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **Invited presentation**.
+
 Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
 **New investigator award session.** *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
 
 Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression patterns in human extra-embryonic tissue. **Promega PhD Student Award**, *Lorne Genome Conference 2014. Lorne Victoria, Australia.*
 
+What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.* **Invited presentation.**
+
+Using RNA sequencing to comprehensively profile the transcriptomes of reproductive tissues. *Society for Reproductive Biology Conference 2014. Melbourne, Australia.* **Invited presentation.**
+
 Sexual inequality begins *in utero* with genome-wide differences in the human placental transcriptome. **ANZPRA new investigator award session**,
 *Society for Reproductive Biology Conference 2013. Sydney, Australia.*
+
+Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.* **Invited presentation.**
 
 Sex-biased gene expression at the human fetal-maternal interface. *Australian Society for Medical Research Annual Meeting 2013. Adelaide, Australia.*
 
