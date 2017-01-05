@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
+Buckberry S, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [DOI: 10.1186/s12864-016-3384-9](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3384-9)
+
 Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [doi: 10.3389/fgene.2016.00183](http://journal.frontiersin.org/article/10.3389/fgene.2016.00183/full)
 
 Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Advance publication online](http://dx.doi.org/10.1016/j.gep.2016.05.001)
