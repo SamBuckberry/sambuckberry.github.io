@@ -166,19 +166,17 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ***
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 
-**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [DOI: 10.1186/s12864-016-3384-9](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3384-9)
+**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
 
-Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [doi: 10.3389/fgene.2016.00183](http://journal.frontiersin.org/article/10.3389/fgene.2016.00183/full)
-
-Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
+Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)
 
 Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Advance publication online](http://dx.doi.org/10.1016/j.gep.2016.05.001)
 
-Bianco-Miotto T, Mayne BT, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
+Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064761/)
 
-Highet AR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
+Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
 
 Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE*** 10(6):e0131287. <sup>1</sup>*These authors contributed equally to this work.* [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26121239)
 
@@ -194,10 +192,11 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 **Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
 
-### Feature articles
+ 
+## Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
 
-### Datasets
+## Datasets
 
-**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Science Direct](http://www.sciencedirect.com/science/article/pii/S221359601530012X)
+**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664714/)

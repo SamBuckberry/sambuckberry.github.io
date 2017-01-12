@@ -6,13 +6,13 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [DOI: 10.1186/s12864-016-3384-9](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3384-9)
+**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
 
-Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [doi: 10.3389/fgene.2016.00183](http://journal.frontiersin.org/article/10.3389/fgene.2016.00183/full)
+Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)
 
 Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Advance publication online](http://dx.doi.org/10.1016/j.gep.2016.05.001)
 
-Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Advance publication online](http://www.reproduction-online.org/content/early/2016/03/29/REP-16-0014.abstract)
+Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064761/)
 
 Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
 
@@ -37,5 +37,5 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 ## Datasets
 
-**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Science Direct](http://www.sciencedirect.com/science/article/pii/S221359601530012X)
+**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664714/)
 
