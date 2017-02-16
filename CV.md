@@ -121,11 +121,11 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-Teaching Assistant for command line programming and RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
+Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
 
-Teaching Assistant for the Bioinformatics and Scripting Workshops 2013, the University of Adelaide.
+Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
 
-Tutor and Coordinator for undergraduate Biology Peer Assisted Study Sessions (PASS) Flinders University (2010–2011).
+Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
 ***
 
@@ -135,6 +135,9 @@ Tutor and Coordinator for undergraduate Biology Peer Assisted Study Sessions (PA
 
 
 ### Oral presentations
+
+Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
+
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australiasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
 
 Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **Invited presentation**.
