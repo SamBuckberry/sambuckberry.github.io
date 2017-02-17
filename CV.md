@@ -121,6 +121,8 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
+Lecturer for the Masters level topic *The Objectives and Applications of Genomics 2017* (SCIE4001). School of Chemistry and Biochemistry, The University of Western Australia.
+
 Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
 
 Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
