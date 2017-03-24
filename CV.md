@@ -17,7 +17,7 @@ Australia
 
 ***
 
-I am a genome biologist, bioinformatician and data scientist. Currently my research is focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing techniques (ATAC-seq, ChIP-seq, MethylC-seq, RNA-seq), bioinformatics methods, statistical modeling, and large scale computation. I have expertise in programming in the R language, and am committed to implementing transparent and reproducible research practices in data analysis. 
+I am a genome biologist, bioinformatician and data scientist. Currently my research is focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing techniques (ATAC-seq, ChIP-seq, MethylC-seq, RNA-seq), bioinformatics methods, statistical modeling, and large scale computation. I am an expert programmer in the R language, and I am committed to implementing transparent and reproducible research practices in data analysis. 
 
 ***
 
