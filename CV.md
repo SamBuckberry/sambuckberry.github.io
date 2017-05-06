@@ -17,7 +17,7 @@ Australia
 
 ***
 
-I am a genome biologist, bioinformatician and data scientist. Currently my research is focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing techniques (ATAC-seq, ChIP-seq, MethylC-seq, RNA-seq), bioinformatics methods, statistical modeling, and large scale computation. I am an expert programmer in the R language, and I am committed to implementing transparent and reproducible research practices in data analysis. 
+I am a genome biologist, bioinformatician and data scientist. Currently, my research is focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing techniques (i.e. ATAC-seq, ChIP-seq, MethylC-seq, RNA-seq), bioinformatics methods, statistical modeling, and large scale computation. I am a highly proficient programmer in the R language, and am committed to implementing transparent and reproducible research practices in data analysis. 
 
 ***
 
@@ -25,7 +25,7 @@ I am a genome biologist, bioinformatician and data scientist. Currently my resea
 
 ***
 
-**NHMRC-ARC Dementia Research Fellow**   
+**NHMRC-ARC Dementia Research Fellow**  
 [Lister Lab](http://listerlab.org) (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
