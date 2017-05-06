@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
+Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017) Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
+
 **Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
 
 Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)
