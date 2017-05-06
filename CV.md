@@ -181,7 +181,7 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Peer-reviewed articles
 
-Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017) Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
+Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017). Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
 
 **Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
 
