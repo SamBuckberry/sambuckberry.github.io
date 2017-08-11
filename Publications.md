@@ -6,15 +6,15 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***Cell Reports*** 8:20 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28793267)
+Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***Cell Reports*** 8:20 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28793267)
 
-Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017). Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
+Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017). Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
 
 **Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
 
 Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)
 
-Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Advance publication online](http://dx.doi.org/10.1016/j.gep.2016.05.001)
+Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27221232)
 
 Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064761/)
 
