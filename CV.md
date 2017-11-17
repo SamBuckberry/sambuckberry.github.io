@@ -173,7 +173,7 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Peer-reviewed articles
 
-Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, Buckberry S, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***Scientific Reports*** Nov 9;7(1):15137 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29123159)
+Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, **Buckberry S**, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***Scientific Reports*** Nov 9;7(1):15137 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29123159)
 
 Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***Cell Reports*** 8:20 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28793267)
 
