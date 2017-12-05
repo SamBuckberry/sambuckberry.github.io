@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and Permanent Reconfiguration of Chromatin and Transcription Factor Occupancy Drive Reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
+Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
 
 Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***Cell Reports*** 21 [doi.org/10.1016/j.celrep.2017.11.029](https://doi.org/10.1016/j.celrep.2017.11.029)
 

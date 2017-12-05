@@ -173,6 +173,10 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Peer-reviewed articles
 
+Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
+
+Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***Cell Reports*** 21 [doi.org/10.1016/j.celrep.2017.11.029](https://doi.org/10.1016/j.celrep.2017.11.029)
+
 Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, **Buckberry S**, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***Scientific Reports*** Nov 9;7(1):15137 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29123159)
 
 Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***Cell Reports*** 8:20 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28793267)
