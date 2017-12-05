@@ -87,7 +87,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Data Science Specialization Certificate – Johns Hopkins University & Coursera (currently undertaking)
+* Data Science Specialization – Johns Hopkins University & Coursera (2014-2015)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
 * Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
