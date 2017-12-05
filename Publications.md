@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-Knaupp AS, Buckberry S, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and Permanent Reconfiguration of Chromatin and Transcription Factor Occupancy Drive Reprogramming. ***Cell Stem Cell*** 21, 1-12, December 7 2017. https://doi.org/10.1016/j.stem.2017.11.007
+Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and Permanent Reconfiguration of Chromatin and Transcription Factor Occupancy Drive Reprogramming. ***Cell Stem Cell*** 21, 1-12, December 7 2017 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
 
 Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, **Buckberry S**, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***Scientific Reports*** Nov 9;7(1):15137 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29123159)
 
