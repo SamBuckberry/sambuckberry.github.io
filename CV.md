@@ -209,7 +209,7 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 ## Book chapters
 
-Stuart T, Buckberry S, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***Methods in Molecular Biology*** 1767:299-310 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/29524143) 
+Stuart T, **Buckberry S**, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***Methods in Molecular Biology*** 1767:299-310 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/29524143) 
 
  
 ## Feature articles
