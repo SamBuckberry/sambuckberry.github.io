@@ -40,7 +40,10 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 **Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
 
- 
+## Book chapters
+
+Stuart T, Buckberry S, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***Methods in Molecular Biology*** 1767:299-310 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/29524143) 
+
 ## Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
