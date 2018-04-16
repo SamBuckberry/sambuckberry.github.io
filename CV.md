@@ -173,6 +173,11 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Peer-reviewed articles
 
+de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
+
+Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). 
+msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
+
 Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
 
 Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***Cell Reports*** 21 [doi.org/10.1016/j.celrep.2017.11.029](https://doi.org/10.1016/j.celrep.2017.11.029)
@@ -211,7 +216,6 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 
 Stuart T, **Buckberry S**, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***Methods in Molecular Biology*** 1767:299-310 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/29524143) 
 
- 
 ## Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
@@ -219,4 +223,6 @@ Stuart T, **Buckberry S**, Lister R (2018). Approaches for the Analysis and Inte
 ## Datasets
 
 **Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664714/)
+
+
 
