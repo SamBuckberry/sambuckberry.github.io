@@ -175,8 +175,7 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
 
-Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). 
-msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
+Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
 
 Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
 
