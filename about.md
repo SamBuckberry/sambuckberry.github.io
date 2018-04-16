@@ -12,7 +12,6 @@ Sam's research interests are focused around the broad question of how the sequen
 If you would like to get in touch with Sam, collaborate on a project, or find out more about his work, please email sambuckberry \<at\> gmail \<dotcom\>, or follow one of the links below.
 
 - [Google scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Sam_Buckberry)
 - [Linked In](https://au.linkedin.com/in/sambuckberry)
 - [Twitter: @sambuckberry](https://twitter.com/sambuckberry)
 
