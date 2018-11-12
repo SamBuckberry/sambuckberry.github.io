@@ -4,7 +4,7 @@ title:     About
 permalink: /about/
 ---
 
-Sam Buckberry is a molecular and computational biologist, who is currently a NHMRC-ARC Postdoctoral Research Fellow in the [Lister Lab](http://listerlab.org) at [The University of Western Australia](http://www.uwa.edu.au/). 
+Sam Buckberry is a molecular and computational biologist who specalises in genomics. He is currently a NHMRC-ARC Postdoctoral Research Fellow in the [Lister Lab](http://listerlab.org) at [The University of Western Australia](http://www.uwa.edu.au/). 
 
 Sam's research interests are focused around the broad question of how the sequence and structure of DNA encodes biological information. His current research is focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing and bioinformatics methods, statistical modeling and large scale computation. 
 
