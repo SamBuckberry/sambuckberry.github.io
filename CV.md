@@ -64,7 +64,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Best Oral Presentation by Early Career Researcher at Australiasian Genomic Technologies Association (AGTA) conference (2016)
+* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
@@ -132,7 +132,7 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
-Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australiasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
+Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
 
 Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **Invited presentation**.
 
@@ -161,7 +161,7 @@ Allele-specific expression of H19 and IGF2 in the human placenta across gestatio
 
 Placental transcriptome co-expression analysis reveals conserved regulatory programs and points toward a preeclampsia gene cluster. *Australian Society for Medical Research Annual Meeting 2015. Adelaide, Australia*
 
-Quantitative analysis of imprinted genes in the human placenta revelas developmental stage-specific imprinting plasticity. *Lorne Genome Conference 2013. Lorne, Australia.*
+Quantitative analysis of imprinted genes in the human placenta reveals developmental stage-specific imprinting plasticity. *Lorne Genome Conference 2013. Lorne, Australia.*
 
 Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
 
