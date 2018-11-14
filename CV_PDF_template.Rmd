@@ -46,7 +46,7 @@ NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role o
 
 NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **Buckberry S (CIA) $314,644.** *This research fellowship was relinquished to accept the grant above.*
 
-Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **Buckberry S**. **$25,000** 
+Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  Brown HM, Nottle M, Gatford K, Dunning K, Breen J & **Buckberry S**. **$25,000** 
 
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
@@ -60,6 +60,12 @@ Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 20
 Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
 
 Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
+
+## Outreach & community engagement
+
+* Executive committee and board member for the Australian Genomic Technologies Association (AGTA)
+* STEM tutor & mentor - Centre for Asylum Seekers, Refugees and Detainees (CARAD)
+* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public in an engaging way by bringing scientists to the pub and other accessible places.
 
 ## Awards, scholarships & fellowships
 
@@ -97,6 +103,12 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 * Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
 * [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/)
 * Founding member - [Epigenetics Consortium of South Australia (EpiCSA)](https://epicsa.org.au/)
+
+## Peer review
+
+* Project grant reviewer (2017, 2018) - National Health and Medical Research Council (NHMRC)
+* Internal project grant reviewer - University of Western Australia 
+* Peer reviewer for academic journals including *Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research, PLoS ONE*.  
 
 ## Conference presentations
 
