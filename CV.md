@@ -64,8 +64,8 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Raine Research Prize (2019) - Raine Medical Research Foundation
-* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
+* Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
+* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016) [link](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
