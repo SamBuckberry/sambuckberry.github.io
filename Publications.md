@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
+de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
 
 Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
 
