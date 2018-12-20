@@ -10,8 +10,10 @@ de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pf
 
 Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
 
-Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29220667) [[Editorial]](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(17)30469-1) [[Dataset]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101905)
+Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12
 **<sup>1</sup>*These authors contributed equally to this work.***
+[[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29220667) [[Editorial]](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(17)30469-1) [[Dataset]](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101905)
+
 
 Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***Cell Reports*** 21 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29212013)
 
