@@ -70,7 +70,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
-* Promega PhD Student Award, Lorne Genome Conference (2014)[link](http://www.lornegenome.org/awards/past-award-winners/)
+* Promega PhD Student Award, Lorne Genome Conference (2014) [link](http://www.lornegenome.org/awards/past-award-winners/)
 * ANZPRA New Investigator Award Finalist (2013)
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
 * NHMRC grant-funded PhD top-up scholarship (2012-2015)
