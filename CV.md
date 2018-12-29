@@ -104,7 +104,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Executive director - [Australian Genomic Technologies Association (AGTA)](https://www.agtagenomics.org.au/join/executive-team/)
+* Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
 * [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/)
 * [Epigenetics Consortium of South Australia (EpiCSA)](https://epicsa.org.au/)
 
