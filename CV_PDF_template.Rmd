@@ -4,23 +4,23 @@ output:
   word_document: default
   html_document: default
 ---
-# Curriculum Vitae
 
-**Sam Buckberry**  
+\begin{center}
+\textbf{\large SAM BUCKBERRY} \\
+\textbf{sam.buckberry@uwa.edu.au} \\
+\end{center}
+
 The University of Western Australia  
 Faculty of Science   
 M316, 35 Stirling Highway  
-Crawley, WA 6009  
-Australia
-
-sam.buckberry@uwa.edu.au  
-+61 408 259 613
+Crawley 6009  
 
 ## Current position
 
 **NHMRC-ARC Dementia Research Fellow**  
-[Lister Lab](http://listerlab.org) (epigenetics and genomics)  
-Harry Perkins Institute of Medical Research  
+Lister Lab (epigenetics and genomics)  
+Harry Perkins Institute of Medical Research &  
+The School of Molecular Sciences  
 The University of Western Australia  
 
 ## Education
@@ -51,15 +51,29 @@ Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach t
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
+## Previous positions
+
+A 
+B 
+C
+
 ## Teaching
 
-Lecturer for the Masters level topic *The Objectives and Applications of Genomics 2017* (SCIE4001). School of Chemistry and Biochemistry, The University of Western Australia.
+Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
 
-Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
+Lecturer for the Masters unit *The Objectives and Applications of Genomics 2017* (2017 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
 
-Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
+Teaching RNA-Seq analysis workshops at BioInfoSummer Conference - Australian Mathematical Sciences Institute and the University of Adelaide (2013).
+
+Teaching postgraduate bioinformatics Workshops at The University of Adelaide (2013).
 
 Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
+
+## Higher degree by research supervision
+
+Thomas Frazer (Honours candidate)
+
+
 
 ## Outreach & community engagement
 
@@ -69,10 +83,11 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 ## Awards, scholarships & fellowships
 
+* Raine Research Prize - Raine Medical Research Foundation (2019). Awarded for the best biomedical reseach paper by an early career researcher in Western Australia. 
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
-* Y.W Loke Young Investigator Award, IFPA Conference (2015)
+* Y.W Loke New Investigator Travel Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
 * Promega PhD Student Award, Lorne Genome Conference (2014)
 * ANZPRA New Investigator Award Finalist (2013)
@@ -98,17 +113,17 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 * University of Adelaide bioinformatics and scripting workshop (2010)
 * Australian Science Communicators media training (2010) 
 
-## Memberships and affiliations 
+## Professional societies 
 
-* Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
-* [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/)
-* Founding member - [Epigenetics Consortium of South Australia (EpiCSA)](https://epicsa.org.au/)
+* Australian Genomic Technologies Association (AGTA) - Director and executive committee member 
+* Stem Cells Australia
+
 
 ## Peer review
 
 * Project grant reviewer (2017, 2018) - National Health and Medical Research Council (NHMRC)
 * Internal project grant reviewer - University of Western Australia 
-* Peer reviewer for academic journals including *Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research, PLoS ONE*.  
+* Peer reviewer for academic journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research, PLoS ONE*.  
 
 ## Conference presentations
 
@@ -150,6 +165,13 @@ Quantitative analysis of imprinted genes in the human placenta reveals developme
 Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
 
 ## Publications
+
+## Articles currently under review
+de Mendoza A... ***Genome Research***
+
+Ethan Liu ***Nature*** 
+
+Alex Grubman ***Nature Neuroscience***
 
 ## Peer-reviewed articles
 
