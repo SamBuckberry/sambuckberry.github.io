@@ -12,5 +12,7 @@ His current research is focused on deciphering the role of the epigenome in neur
 
 Contact: sam.buckberry \<at\> uwa.edu.au
 
-[Google scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) $\bullet$ [ORCID](https://orcid.org/0000-0003-2388-6046) $\bullet$ Twitter: @sambuckberry](https://twitter.com/sambuckberry)
+- [Google scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-2388-6046)
+- [Twitter: @sambuckberry](https://twitter.com/sambuckberry)
 
