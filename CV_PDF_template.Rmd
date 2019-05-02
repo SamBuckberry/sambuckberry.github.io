@@ -8,12 +8,9 @@ output:
 \begin{center}
 \textbf{\large SAM BUCKBERRY} \\
 \textbf{sam.buckberry@uwa.edu.au} \\
+The University of Western Australia - Faculty of Science  \\
+M316, 35 Stirling Highway, Crawley 6009
 \end{center}
-
-The University of Western Australia  
-Faculty of Science   
-M316, 35 Stirling Highway  
-Crawley 6009  
 
 ## Current position
 
@@ -51,12 +48,6 @@ Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach t
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
-## Previous positions
-
-A 
-B 
-C
-
 ## Teaching
 
 Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
@@ -69,17 +60,18 @@ Teaching postgraduate bioinformatics Workshops at The University of Adelaide (20
 
 Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
-## Higher degree by research supervision
+## Professional society membership 
 
-Thomas Frazer (Honours candidate)
-
-
+* Australian Genomic Technologies Association (AGTA) - **Executive committee member** 
+* International Society for Stem Cell Resesarch (ISSCR)
+* Stem Cells Australia
 
 ## Outreach & community engagement
 
-* Executive committee and board member for the Australian Genomic Technologies Association (AGTA)
-* STEM tutor & mentor - Centre for Asylum Seekers, Refugees and Detainees (CARAD)
+* Genomics technologies working group for 2023 International Congress of Genetics (Sydney)
 * Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public in an engaging way by bringing scientists to the pub and other accessible places.
+* Workshop organiser...  
+
 
 ## Awards, scholarships & fellowships
 
@@ -112,12 +104,6 @@ Thomas Frazer (Honours candidate)
 * Beyond Words public speaking coaching (2012)
 * University of Adelaide bioinformatics and scripting workshop (2010)
 * Australian Science Communicators media training (2010) 
-
-## Professional societies 
-
-* Australian Genomic Technologies Association (AGTA) - Director and executive committee member 
-* Stem Cells Australia
-
 
 ## Peer review
 
@@ -165,13 +151,6 @@ Quantitative analysis of imprinted genes in the human placenta reveals developme
 Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
 
 ## Publications
-
-## Articles currently under review
-de Mendoza A... ***Genome Research***
-
-Ethan Liu ***Nature*** 
-
-Alex Grubman ***Nature Neuroscience***
 
 ## Peer-reviewed articles
 
