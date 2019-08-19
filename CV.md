@@ -172,6 +172,12 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ***
 
+## Pre-print manuscripts
+
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single cell brain atlas in human Alzheimer’s disease. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/628347v1)
+
+Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1α. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/639054v1)
+
 ## Peer-reviewed articles
 
 de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
