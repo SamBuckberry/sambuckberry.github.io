@@ -8,7 +8,7 @@ permalink: /publications/
 
 Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single cell brain atlas in human Alzheimer’s disease. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/628347v1)
 
-Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1α. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/639054v1)
+Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1α. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/639054v1)
 
 ## Peer-reviewed articles
 
