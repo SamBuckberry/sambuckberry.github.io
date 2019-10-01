@@ -13,29 +13,31 @@ The University of Western Australia $\bullet$ M316, 35 Stirling Highway, Crawley
 
 ## Current position
 
-**NHMRC-ARC Dementia Research Fellow**  
+**NHMRC-ARC Postdoctoral Research Fellow**  
 Lister Lab (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The School of Molecular Sciences  
 The University of Western Australia  
-*Current research focused on deciphering the role of the epigenome in neuronal gene regulation and stem cell reprogramming by combining cutting-edge DNA sequencing methods, bioinformatics and statistical  modeling.* 
 
 ## Education
 
-**Doctor of Philosophy - Medicine**  
-The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome.*  
-*Submitted April 2015 and accepted without change July 2015.*  
-*Awarded the Dean’s commendation for doctoral thesis excellence.*
+**Doctor of Philosophy - Medicine (2012-2015)**  
+The University of Adelaide  
+Robinson Research Institute  
+Thesis: An integrative analysis of the human placental transcriptome  
+*Submitted April 2015 and accepted without change*  
+*Awarded the Dean’s commendation for doctoral thesis excellence*  
 
-**Bachelor of Health Science - First Class Honours**  
-The University of Adelaide (2011)  
-*This honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.*
+**Bachelor of Health Science - First Class Honours (2011)**  
+The University of Adelaide  
+Robinson Research Institute  
+*Awarded the Petrucco Honours Scholarship*
 
-**Bachelor of Science**  
-Flinders University (2008-2010)  
+**Bachelor of Science (2008-2010)**  
+Flinders University  
 Extended Major in Biological Sciences  
-*Graduated in the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
+*Graduated in the top 10% of students*  
+*Chancellor’s Commendation 2009 and 2010*
 
 ## Research funding
 
@@ -54,7 +56,8 @@ $\pagebreak$
 
 ## Awards, scholarships & fellowships
 
-* Raine Research Prize - Raine Medical Research Foundation (2019). Awarded for the best biomedical reseach paper by an early career researcher in Western Australia. 
+* Raine Research Prize - Raine Medical Research Foundation (2019). Awarded for the best biomedical research paper by an early career researcher in Western Australia. 
+* Ana Africh Stem Cell Research Travel Scholarship (2019)
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
@@ -72,6 +75,27 @@ $\pagebreak$
 * Flinders University Summer Research Scholarship (2010)
 * Commonwealth of Australia Education Scholarship (2008-2010)
 
+## Service and community engagement
+
+* Recently established the Australasian Genomics Technologies Association PhD scholarship.
+* Genomics technologies working group for the upcoming 2023 International Congress of Genetics.
+* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public.
+* STEM mentoring through The School of Indigenous Studies, The University of Western Australia (2018).
+* Placental epigenetics workshop organiser - 2015 International Federation of Placental Associations (IFPA) conference.
+* Conference organising committee for the 2014 Australian and New Zealand Placental Research Association (ANZPRA) conference.
+
+## Professional societies 
+
+* Australasian Genomic Technologies Association - **Executive committee since 2018**
+* International Society for Stem Cell Research (ISSCR) - Trainee member
+* Stem Cells Australia - ECR member
+
+## Peer review
+
+* NHMRC project grant reviewer (2017, 2018)
+* Internal project grant reviewer - University of Western Australia 
+* Peer reviewer for journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research* and *PLoS ONE*.  
+
 ## Training
 
 * Data Science Specialisation – Johns Hopkins University & Coursera (2014-2015)
@@ -84,44 +108,20 @@ $\pagebreak$
 * University of Adelaide bioinformatics and scripting workshop (2010)
 * Australian Science Communicators media training (2010) 
 
+## Higher degree by research supervision & mentoring
+
+* Mitchell Bestry - Current PhD candidate, The University of Western Australia and Telethon Kids Institute
+* Thomas Frazer - 2019 BSc Honours in genetics candidate, The University of Western Australia
+* Benjamin Mayne - PhD student 2014-2017 who I mentored and trained in bioinformatics at The University of Adelaide. Currently postdoctoral fellow in bioinformatics at the CSIRO.
+* Fleur Spronk - 2014 BHlthSc First Class Honours student who I mentored and trained at The University of Adelaide. Currently a postgraduate medical student. 
+
 ## Teaching
 
-Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019). School of Molecular Sciences, The University of Western Australia.
-
-Lecturer for the Masters unit *The Objectives and Applications of Genomics* (2017). School of Molecular Sciences, The University of Western Australia.
-
-Teaching RNA-Seq analysis workshops at BioInfoSummer Conference - Australian Mathematical Sciences Institute and the University of Adelaide (2013).
-
-Teaching postgraduate bioinformatics Workshops at The University of Adelaide (2013).
-
-Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
-
-## Mentoring & higher degree by research supervision
-
-* Thomas Frazer - 2019 BSc Honours in genetics candidate, The University of Western Australia
-* Benjamin Mayne - PhD student 2014-2017 who I mentored and trained in bioinformatics. Currently postdoctoral fellow in bioinformatics at the CSIRO.
-* Fleur Spronk - 2014 BHlthSc First Class Honours, The Univeristy of Adelaide. Currently a postgraduate medical student. 
-
-## Outreach & community engagement
-
-* Executive committee and board member for the Australian Genomic Technologies Association (AGTA)
-* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public in an engaging way by bringing scientists to the pub and other accessible places
-* Conference organising committee for the 2014 Australian and New Zealand Placental Research Association (ANZPRA) conference.
-* Placental epigenetics workshop organiser - 2015 International Federation of Placental Associations (IFPA) conference.
-
-
-
-## Professional societies 
-
-* Australian Genomic Technologies Association (AGTA) - Director and executive committee member
-* International Society for Stem Cell  (ISSCR)
-* Stem Cells Australia
-
-## Peer review
-
-* Project grant reviewer (2017, 2018) - National Health and Medical Research Council (NHMRC)
-* Internal project grant reviewer - University of Western Australia 
-* Peer reviewer for academic journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research, PLoS ONE*.  
+* Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019). School of Molecular Sciences, The University of Western Australia.
+* Lecturer for the Masters unit *The Objectives and Applications of Genomics* (2017). School of Molecular Sciences, The University of Western Australia.
+* Teaching for RNA-Seq analysis workshops at BioInfoSummer Conference - Australian Mathematical Sciences Institute and the University of Adelaide (2013).
+* Teaching of postgraduate bioinformatics workshops at The University of Adelaide (2013).
+* Coordinator and tutor for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011). In this role, I was mentored by Prof. Karen Burke da Silva (2016 University Teacher of the Year).
 
 ## Conference presentations
 
@@ -166,7 +166,15 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Publications
 
+## Pre-print manuscripts
+
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single cell brain atlas in human Alzheimer’s disease. ***bioRxiv***
+
+Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1a. ***bioRxiv***
+
 ## Peer-reviewed articles
+
+de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473
 
 de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 
 
