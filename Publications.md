@@ -12,6 +12,8 @@ Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ, Simmons R, 
 
 ## Peer-reviewed articles
 
+de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473 [[Journal website]](https://www.nature.com/articles/s41559-019-0983-2)
+
 de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
 
 Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
