@@ -105,8 +105,8 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 ***
 
 * Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
+* International Society for Stem Cell Reserach (ISSCR) - Trainee member
 * [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/)
-* [Epigenetics Consortium of South Australia (EpiCSA)](https://epicsa.org.au/)
 
 ***
 
