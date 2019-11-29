@@ -63,6 +63,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 ## Awards, scholarships & fellowships
 
 ***
+* People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
 * Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016) [link](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
@@ -73,7 +74,6 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Promega PhD Student Award, Lorne Genome Conference (2014) [link](http://www.lornegenome.org/awards/past-award-winners/)
 * ANZPRA New Investigator Award Finalist (2013)
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
-* NHMRC grant-funded PhD top-up scholarship (2012-2015)
 * ANZPRA New Investigator Award Finalist (2012)
 * The Robinson Research Institute Petrucco Honours Scholarship (2011)
 * AR Riddle Honours Grant, The University of Adelaide (2011)
@@ -128,8 +128,11 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 ***
 
-
 ### Oral presentations
+
+Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute 2019. Adelaide, Australia.* **Invited presentation**.  
+
+Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
@@ -174,11 +177,11 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Pre-print manuscripts
 
-Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single cell brain atlas in human Alzheimer’s disease. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/628347v1)
-
 Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1α. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/639054v1)
 
 ## Peer-reviewed articles
+
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 [[Journal website]](https://doi.org/10.1038/s41593-019-0539-4)
 
 de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473 [[Journal website]](https://www.nature.com/articles/s41559-019-0983-2)
 
