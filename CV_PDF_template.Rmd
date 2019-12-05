@@ -52,7 +52,6 @@ Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach t
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
-<<<<<<< HEAD
 ## Teaching
 
 Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
@@ -71,17 +70,16 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 * International Society for Stem Cell Resesarch (ISSCR)
 * Stem Cells Australia
 
-## Outreach & community engagement
+## Community service & engagement
 
 * Genomics technologies working group for 2023 International Congress of Genetics (Sydney)
-* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public in an engaging way by bringing scientists to the pub and other accessible places.
+* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public.
 * Workshop organiser...  
 
 =======
 $\pagebreak$
->>>>>>> aa22b0f776ff025cb749b02116b096a10722a9f1
 
-## Awards, scholarships & fellowships
+## Awards & scholarships
 
 * Raine Research Prize - Raine Medical Research Foundation (2019). Awarded for the best biomedical reseach paper by an early career researcher in Western Australia. 
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
