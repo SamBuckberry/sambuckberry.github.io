@@ -1,8 +1,8 @@
 ---
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 \begin{center}
@@ -13,7 +13,7 @@ The University of Western Australia $\bullet$ M316, 35 Stirling Highway, Crawley
 
 ## Current position
 
-**NHMRC-ARC Postdoctoral Research Fellow**  
+**Research Development Fellow (2015 - Present)**  
 Lister Lab (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The School of Molecular Sciences  
@@ -52,31 +52,7 @@ Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach t
 Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
 Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
-<<<<<<< HEAD
-## Teaching
-
-Lecturer for the Masters unit *Collecting, Analysing and Interpreting Big Data in Biology* (2019 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
-
-Lecturer for the Masters unit *The Objectives and Applications of Genomics 2017* (2017 - SCIE4001). School of Molecular Sciences, The University of Western Australia.
-
-Teaching RNA-Seq analysis workshops at BioInfoSummer Conference - Australian Mathematical Sciences Institute and the University of Adelaide (2013).
-
-Teaching postgraduate bioinformatics Workshops at The University of Adelaide (2013).
-
-Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
-
-## Professional society membership 
-
-* Australian Genomic Technologies Association (AGTA) - **Executive committee member** 
-* International Society for Stem Cell Resesarch (ISSCR)
-* Stem Cells Australia
-
-## Community service & engagement
-
-* Genomics technologies working group for 2023 International Congress of Genetics (Sydney)
-* Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public.
-* Workshop organiser...  
-
+\pagebreak
 
 ## Awards & scholarships
 
@@ -119,7 +95,7 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 * NHMRC project grant reviewer (2017, 2018)
 * Internal project grant reviewer - University of Western Australia 
-* Peer reviewer for journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research* and *PLoS ONE*.  
+* Peer reviewer for journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Oncogenomics, Scientific Reports, Placenta, F1000 Research* and *PLoS ONE*.  
 
 ## Training
 
@@ -135,10 +111,7 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 ## Higher degree by research supervision & mentoring
 
-* Mitchell Bestry - Current PhD candidate, The University of Western Australia and Telethon Kids Institute
-* Thomas Frazer - 2019 BSc Honours in genetics candidate, The University of Western Australia
-* Benjamin Mayne - PhD student 2014-2017 who I mentored and trained in bioinformatics at The University of Adelaide. Currently postdoctoral fellow in bioinformatics at the CSIRO.
-* Fleur Spronk - 2014 BHlthSc First Class Honours student who I mentored and trained at The University of Adelaide. Currently a postgraduate medical student. 
+I currently supervise two PhD students at The Univeristy of Western Australia and have supervised two Honours students to completion (2015 & 2019) who both received First Class Honours.
 
 ## Teaching
 
@@ -151,6 +124,10 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 ## Conference presentations
 
 ### Oral presentations
+
+Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute 2019. Adelaide, Australia.* **Invited presentation**.  
+
+Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
@@ -193,13 +170,13 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## Pre-print manuscripts
 
-Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single cell brain atlas in human Alzheimer’s disease. ***bioRxiv***
-
 Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1a. ***bioRxiv***
 
 ## Peer-reviewed articles
 
-de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 
+
+de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473 
 
 de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 
 
