@@ -1,8 +1,8 @@
 ---
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 \begin{center}
@@ -23,14 +23,14 @@ The University of Western Australia
 
 **Doctor of Philosophy - Medicine (2012-2015)**  
 The University of Adelaide  
-The Robinson Research Institute  
+Robinson Research Institute  
 Thesis: An integrative analysis of the human placental transcriptome  
 *Submitted April 2015 and accepted without change*  
 *Awarded the Dean’s commendation for doctoral thesis excellence*  
 
 **Bachelor of Health Science - First Class Honours (2011)**  
 The University of Adelaide  
-The Robinson Research Institute  
+Robinson Research Institute  
 *Awarded the Petrucco Honours Scholarship*
 
 **Bachelor of Science (2008-2010)**  
@@ -71,7 +71,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
 * NHMRC grant-funded PhD top-up scholarship (2012-2015)
 * ANZPRA New Investigator Award Finalist (2012)
-* The Robinson Research Institute Petrucco Honours Scholarship (2011)
+* Robinson Research Institute Petrucco Honours Scholarship (2011)
 * AR Riddle Honours Grant, The University of Adelaide (2011)
 * Flinders University Chancellors Commendation (2011)
 * Flinders University Chancellors commendation (2010)
@@ -99,8 +99,8 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 * Stem Cells Australia - ECR member
 
 ## Training
-* Python for Everybody Specalisation - University of Michigan & Coursera (Currently undertaking)
-* Data Science Specialisation – Johns Hopkins University & Coursera (2014-2015)
+* Python for Everybody Specialization - University of Michigan & Coursera (Currently undertaking)
+* Data Science Specialization – Johns Hopkins University & Coursera (2014-2015)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
 * Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
@@ -111,7 +111,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
 ## Higher degree by research supervision
 
-* Dawid Maksoa, PhD candidate – Forrest Research Foundation Scholar, The University of Western Australia and the Harry Perkins Institute of Medical Research. 
+* Dawid Maksoa, PhD candidate – Forrest Research Foundation Scholar, The University of Western Australia and the Harry Perkins Institute of Medical Research. Project entitled *'Epigenetics of ageing neurons'*
 * Mitchell Bestry, PhD candidate, The University of Western Australia and Telethon Kids Institute. Project entitled *‘The epigenetic origin of fetal alcohol-induced disorders: A cross-species study’*
 * Thomas Frazer, BSc (Biotechnology) Honours (2019), The University of Western Australia. *Awarded first class honours*
 
@@ -125,7 +125,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
 ## Patents
 
-Method for reprogramming a cell: Patent Cooperation Treaty (PCT) application (PCT/AU2019/051296) filed November 2019 for methods related to erasing somatic cell memory in induced pluripotent stem cells. ***Buckberry S***, Liu X, Polo JM and Lister R.
+**Method for reprogramming a cell**: Patent Cooperation Treaty (PCT) application (PCT/AU2019/051296) filed November 2019 for methods related to erasing somatic cell memory in induced pluripotent stem cells. ***Buckberry S***, Liu X, Polo JM and Lister R.
  
 ## Conference presentations
 
@@ -240,7 +240,3 @@ Bianco-Miotto T, Blundell C, **Buckberry S**, Chamley L, Chong S, Cottrell E, Da
 ## Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. 
-
-
-
-
