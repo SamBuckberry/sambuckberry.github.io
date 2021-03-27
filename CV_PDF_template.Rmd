@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
   html_document: default
 ---
 
@@ -59,6 +59,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
 ## Awards & scholarships
 
+* Finalist - Woodside Early Career Scientist of the Year (2020) -  WA Premier's Science Awards.
 * Raine Research Prize - Raine Medical Research Foundation (2019). *Awarded for the best biomedical research paper by an early career researcher in Western Australia*
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
@@ -81,6 +82,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 ## Service and community engagement
 
 * Current director on the Australasian Genomics Technology Association (AGTA) executive committee. Key contributions include recently conceiving and establishing the AGTA PhD scholarship
+* Human Research Ethics Committee Member - WA Department of Health
 * Speaker - Pint of Science Festival 2018, a forum for communicating contemporary scientific developments to the public
 * STEM mentor through The School of Indigenous Studies, The University of Western Australia (2018)
 * Placental epigenetics workshop organiser - 2015 International Federation of Placental Associations (IFPA) conference
@@ -113,6 +115,7 @@ Brown HM, Bent SJ, **Buckberry S**, Thompson JG. **$25,000**
 
 * Dawid Maksoa, PhD candidate – Forrest Research Foundation Scholar, The University of Western Australia and the Harry Perkins Institute of Medical Research. Project entitled *'Epigenetics of ageing neurons'*
 * Mitchell Bestry, PhD candidate, The University of Western Australia and Telethon Kids Institute. Project entitled *‘The epigenetic origin of fetal alcohol-induced disorders: A cross-species study’*
+* Karthik Mandoran, MSc candidate (2020-2021). The University of Western Australia and the Harry Perkins Institute of Medical Research.  
 * Thomas Frazer, BSc (Biotechnology) Honours (2019), The University of Western Australia. *Awarded first class honours*
 
 ## Teaching
@@ -176,13 +179,15 @@ Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through 
 
 ## In press and pre-print manuscripts
 
-Liu X, Ouyang JF, Rossello FJ, Tan JP, Davidson KC, Valdes DS, Schröder J, Sun YBY, Chen J, Knaupp AS, Sun G, Chy HS, Huang Z, Pflueger J, Firas J, Tano V, **Buckberry S**, Paynter JM, Larcombe MR, Choo XY, O’Brien CM, Pastor WA, Chen D, Leichter AL, Naeem H, Tripathi P, Das PP, Grubman A, Powell DR, Laslett AL, David L, Nilsson SK, Clark AT, Lister R, Nefzger CM, Martelotto LG, Rackham OJL and Polo JM (2020). Extra and intra-embryonic programs are established during human reprogramming allowing the derivation of induced trophoblast stem cells. ***Nature*** (accepted article in press)
-
 Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1a. ***bioRxiv***
 
 ## Peer-reviewed articles
 
-Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 
+de Mendoza A, Poppe D, **Buckberry S**, Pflueger J, Albertin AB, Daish T, Bertrand S, de la Calle-Mustienes E, Gómez-Skarmeta JL, Nery JR, Ecker JR, Baer B, Ragsdale CW, Grützner F, Escriva H, Venkatesh B, Bogdanovic O and Lister R (2021) The emergence of the brain non-CpG methylation system in vertebrates. ***Nature Ecology and Evolution***
+
+Liu X, Ouyang JF, Rossello FJ, Tan JP, Davidson KC, Valdes DS, Schröder J, Sun YBY, Chen J, Knaupp AS, Sun G, Chy HS, Huang Z, Pflueger J, Firas J, Tano V, **Buckberry S**, Paynter JM, Larcombe MR, Choo XY, O’Brien CM, Pastor WA, Chen D, Leichter AL, Naeem H, Tripathi P, Das PP, Grubman A, Powell DR, Laslett AL, David L, Nilsson SK, Clark AT, Lister R, Nefzger CM, Martelotto LG, Rackham OJL and Polo JM (2020). Extra and intra-embryonic programs are established during human reprogramming allowing the derivation of induced trophoblast stem cells. ***Nature*** 586:101-107
+
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2020). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 
 
 de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473 
 
