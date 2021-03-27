@@ -1,9 +1,6 @@
 ---
 output:
-  word_document: default
-  pdf_document: default
-  html_document: default
-  pdf_document: default
+    pdf_document: default
 ---
 
 \begin{center}
@@ -12,9 +9,9 @@ sam.buckberry@uwa.edu.au \\
 The University of Western Australia $\bullet$ M316, 35 Stirling Highway, Crawley 6009 \\
 \end{center}
 
-## Current position
+## Current position (2015 - present)
 
-**NHMRC-ARC Postdoctoral Research Fellow**  
+**Postdoctoral Research Fellow - Genome Bioinformatics**  
 Lister Lab (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The School of Molecular Sciences  
@@ -22,11 +19,10 @@ The University of Western Australia
 
 ## Education
 
-**Doctor of Philosophy - Medicine (2012-2015)**  
+**Doctor of Philosophy (2012-2015)**  
 The University of Adelaide  
 Robinson Research Institute  
 Thesis: An integrative analysis of the human placental transcriptome  
-*Submitted April 2015 and accepted without change*  
 *Awarded the Dean’s commendation for doctoral thesis excellence*  
 
 **Bachelor of Health Science - First Class Honours (2011)**  
@@ -37,16 +33,19 @@ Robinson Research Institute
 **Bachelor of Science (2008-2010)**  
 Flinders University  
 Extended Major in Biological Sciences  
-*Graduated in the top 10% of students*  
 *Chancellor’s Commendation 2009 and 2010*
 
 ## Research funding
 
+Google Cloud Research Grant (2021): Solving the problem of epigenetic memory in reprogrammed human cells. **CIA Buckberry $6,796**
+
+WA Department of Health Merit Award (2020): Repairing abnormal genomic imprinting in induced pluripotent stem cells with naive reprogramming and targeted epigenome engineering. **CIA Buckberry $95,000**
+
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206).  
-**Buckberry S (CIA) $584,644**
+**CIA Buckberry $584,644**
 
 NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063).  
-**Buckberry S (CIA) $314,644.** *This fellowship was relinquished to accept the grant above.*
+**CIA Buckberry $314,644.** *This fellowship was relinquished to accept the grant above.*
 
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  Brown HM, Nottle M, Gatford K, Dunning K, Breen J & **Buckberry S**. **$25,000**
 
@@ -59,7 +58,6 @@ $\pagebreak$
 
 * Finalist - Woodside Early Career Scientist of the Year (2020) -  WA Premier's Science Awards.
 * Raine Research Prize - Raine Medical Research Foundation (2019). *Awarded for the best biomedical research paper by an early career researcher in Western Australia*
-* Raine Research Prize - Raine Medical Research Foundation (2019). Awarded for the best biomedical research paper by an early career researcher in Western Australia.
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
@@ -76,7 +74,6 @@ $\pagebreak$
 * Flinders University Chancellors Commendation (2011)
 * Flinders University Chancellors commendation (2010)
 * Flinders University Summer Research Scholarship (2010)
-* Commonwealth of Australia Education Scholarship (2008-2010)
 
 ## Service and community engagement
 
@@ -97,7 +94,7 @@ $\pagebreak$
 ## Peer review
 
 * NHMRC project grant reviewer (2017, 2018)
-* Internal project grant reviewer - University of Western Australia
+* Internal project grant reviewer - University of Western Australia (2016 - 2020)
 * Peer reviewer for journals including *Genome Research, Clinical Epigenetics, BMC Genomics, Scientific Reports, Placenta, F1000 Research* and *PLoS ONE*.  
 
 ## Training
@@ -108,15 +105,14 @@ $\pagebreak$
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
 * EMBL-EBI bioinformatics workshop, Adelaide (2012)
 * Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2012)
-* Beyond Words public speaking coaching (2012)
-* University of Adelaide bioinformatics and scripting workshop (2010)
+* Beyond Words - public speaking coaching (2012)
 * Australian Science Communicators media training (2010)
 
 ## Higher degree by research supervision & mentoring
 
-* Dawid Maksoa, PhD candidate – Forrest Research Foundation Scholar, The University of Western Australia and the Harry Perkins Institute of Medical Research. Project entitled *'Epigenetics of ageing neurons'*
+* Dawid Maksoa, PhD candidate – Forrest Research Foundation Scholar, The University of Western Australia and the Harry Perkins Institute of Medical Research. Project entitled *'Epigenetics of ageing'*
 * Mitchell Bestry, PhD candidate, The University of Western Australia and Telethon Kids Institute. Project entitled *‘The epigenetic origin of fetal alcohol-induced disorders: A cross-species study’*
-* Karthik Mandoran, MSc candidate (2020-2021). The University of Western Australia and the Harry Perkins Institute of Medical Research.  
+* Karthik Mandoran, MSc candidate (2020-2021). The University of Western Australia and the Harry Perkins Institute of Medical Research.
 * Thomas Frazer, BSc (Biotechnology) Honours (2019), The University of Western Australia. *Awarded first class honours*
 * Benjamin Mayne - PhD student 2014-2017 who I mentored and trained in bioinformatics at The University of Adelaide. Currently postdoctoral fellow in bioinformatics at the CSIRO.
 * Fleur Spronk - 2014 BHlthSc First Class Honours student who I mentored and trained at The University of Adelaide. Currently a postgraduate medical student.
@@ -129,9 +125,13 @@ $\pagebreak$
 * Teaching of postgraduate bioinformatics workshops at The University of Adelaide (2013).
 * Coordinator and tutor for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011). In this role, I was mentored by Prof. Karen Burke da Silva (2016 University Teacher of the Year).
 
-## Conference presentations
+## Selected presentations
 
-### Oral presentations
+Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute (SAHMRI) 2019. Adelaide, Australia.* **Invited presentation**
+
+Profiling the shifting epigenetic landscape during human reprogramming. *Epigenetics Consortium of South Australia (EpiCSA) Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation and received the People’s Choice Award **
+
+Using big data to understand the human brain - Pint of Science Festival 2018 *Sold-out audience*
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
@@ -152,23 +152,6 @@ Sexual inequality begins *in utero* with genome-wide differences in the human pl
 *Society for Reproductive Biology Conference 2013. Sydney, Australia.*
 
 Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.* **Invited presentation.**
-
-Sex-biased gene expression at the human fetal-maternal interface. *Australian Society for Medical Research Annual Meeting 2013. Adelaide, Australia.*
-
-Quantitative allele-specific expression analysis reveals imprinting plasticity of the H19 lincRNA. **ANZPRA new investigator award session**,
-*Society for Reproductive Biology Conference 2012. Gold Coast, Australia.*
-
-Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
-
-### Poster presentations
-
-Profiling the genome regulatory landscape of Alzheimer’s Disease at single cell resolution. *NNIDR Australian Dementia Forum 2018. Sydney, Australia*
-
-Placental transcriptome co-expression analysis reveals conserved regulatory programs and points toward a preeclampsia gene cluster. *Australian Society for Medical Research Annual Meeting 2015. Adelaide, Australia*
-
-Quantitative analysis of imprinted genes in the human placenta reveals developmental stage-specific imprinting plasticity. *Lorne Genome Conference 2013. Lorne, Australia.*
-
-Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
 
 ## Publications
 
