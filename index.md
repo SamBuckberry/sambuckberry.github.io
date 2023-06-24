@@ -2,6 +2,8 @@
 layout: page
 title: Curriculum Vitae
 output: github_document
+markdown_extensions:
+  - attr_list
 ---
 
 ## **Sam Buckberry, PhD**
@@ -18,8 +20,7 @@ sam.buckberry@anu.edu.au
 
 **Personal statement:** I am a biologist who specialises in epigenetics, genomics and bioinformatics. I am impact-focused and have broad experience in developing custom analysis frameworks for complex biological questions and data types.
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+[Subscribe to our newsletter](#){ .md-button .md-button--primary }
 
 
 
