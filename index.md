@@ -16,28 +16,26 @@ Australian National University
 sam.buckberry@anu.edu.au 
 
 
-**I am a biologist who specialises in epigenetics, genomics and bioinformatics. I am impact-focused and have broad experience in developing custom analysis frameworks for complex biological questions and data types.**
+**Personal statement:** I am a biologist who specialises in epigenetics, genomics and bioinformatics. I am impact-focused and have broad experience in developing custom analysis frameworks for complex biological questions and data types.
+
+> :Buttons
+> > :Button label=GitHub, url=https://github.com
 
 
 
 ## Appointments
 
-***
-
 __Executive Committee:__ Australasian Genomics Technology Association (2017-)  
 
 __Human Research Ethics Committee:__ Sir Charles Gairdner Osborne Park Health Care Group, WA Department of Health (2020-)
 
-***
 
 ## Postdoctoral work history
-
-***
 
 ### Telethon Kids Institute | Australian National University (2022-)  
 **Head of Epigenetics, Indigenous Genomics**  
 - Project lead: Whole genome DNA methylation profiling of PROPHECY cohort  
-- Project lead: Epigenetic biomarkers for type-2 diabetes in Indigenous populations
+- Project lead: MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health
 - Architect and developer: Computational systems for Indigenous data sovereignty 
 
 
@@ -55,11 +53,8 @@ __Human Research Ethics Committee:__ Sir Charles Gairdner Osborne Park Health Ca
 - Lecturer for Masters of Biotechnology  
 - Supervision: 1 honours, 2 masters, 1 PhD
 
-***
 
 ## Education
-
-***
 
 **Doctor of Philosophy**  
 The University of Adelaide (2012-2015)  
@@ -75,34 +70,29 @@ Flinders University (2008-2010)
 Extended Major in Biological Sciences  
 *Graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
 
-***
 
 ## Research funding
 
-*** 
+MRFF Early to Mid-Career Researchers: The missing heritability of human disease: discovery to implementation (2022-2027) **$4,877,532** 
 
-MRFF 
+MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health **$991,506** 
 
-WA Department of Health Merit Award (2020) ***BUCKBERRY S (CIA) $95,000***
+WA Department of Health Merit Award (2020) **BUCKBERRY S (CIA) $95,000**
 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
-NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644.** *This research fellowship was relinquished to accept the grant above.*
+Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  **$25,000** 
 
-Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000** 
+Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo. **$25,000**
 
-Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo.
-BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
-
-***
 
 ## Awards and Recognition
 
-***
+* Finalist: Woodside Early Career Scientist of the Year (2020), WA P
+* Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
 * People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
-* Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
-* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016) [link](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
+* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
 * NHMRC-ARC Dementia Research Fellowship (2016-2019)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
@@ -118,31 +108,11 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Flinders University Summer Research Scholarship (2010)
 * Commonwealth of Australia Education Scholarship (2008-2010)
 
-***
-
-## Training
-
-***
-
-* Data Science Specialization – Johns Hopkins University & Coursera (2014-2015)
-* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2014)
-* Software carpentry Boot Camp for Bioinformaticians, Adelaide (2013)
-* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2013)
-* EMBL-EBI bioinformatics workshop, Adelaide (2012)
-* Advanced bioinformatics workshop, Australian Centre for Ancient DNA (2012)
-* Beyond Words public speaking coaching (2012)
-* University of Adelaide bioinformatics and scripting workshop (2010)
-* Australian Science Communicators media training (2010) 
-
-***
 
 ## Memberships and affiliations 
 
-***
-
 * Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
-* International Society for Stem Cell Reserach (ISSCR) - Trainee member
-* [Australian Bioinformatics and Computational Biology Society (ABACBS)](http://www.abacbs.org/)
+* Australian Bioinformatics and Computational Biology Society (ABACBS)
 
 ***
 
@@ -158,62 +128,44 @@ Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adel
 
 Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
-***
 
-## Conference presentations
+## Presentations
 
-***
+- **Invited pannelist - AusBioTech 2022** Extract maximum value from your data with high-performance computing.
 
-### Oral presentations
+- Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute 2019. Adelaide, Australia.* **Invited presentation**.  
 
-Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute 2019. Adelaide, Australia.* **Invited presentation**.  
+- Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
 
-Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
+- Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
-Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
+- Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
 
-Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. **Best ECR oral presentation**, *Australasian Genomic Technologies Association (AGTA) Conference 2016. Auckland, New Zealand.*
+- Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **Invited presentation**.
 
-Moving towards integrative epigenomic analyses. *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* **Invited presentation**.
-
-Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
+- Integrative analysis of placental transcriptome organization reveals highly conserved regulatory programs and points toward a preeclampsia gene cluster.
 **New investigator award session.** *International Federation of Placenta Associations (IFPA) Conference 2015. Brisbane, Australia.* 
 
-Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression patterns in human extra-embryonic tissue. **Promega PhD Student Award**, *Lorne Genome Conference 2014. Lorne Victoria, Australia.*
+- Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression patterns in human extra-embryonic tissue. **Promega PhD Student Award**, *Lorne Genome Conference 2014. Lorne Victoria, Australia.*
 
-What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.* **Invited presentation.**
+- What can big data tell us about big tummies? *Robinson Research Institute Symposium 2014. Adelaide, Australia.* **Invited presentation.**
 
-Using RNA sequencing to comprehensively profile the transcriptomes of reproductive tissues. *Society for Reproductive Biology Conference 2014. Melbourne, Australia.* **Invited presentation.**
+- Using RNA sequencing to comprehensively profile the transcriptomes of reproductive tissues. *Society for Reproductive Biology Conference 2014. Melbourne, Australia.* **Invited presentation.**
 
-Sexual inequality begins *in utero* with genome-wide differences in the human placental transcriptome. **ANZPRA new investigator award session**,
+- Sexual inequality begins *in utero* with genome-wide differences in the human placental transcriptome. **ANZPRA new investigator award session**,
 *Society for Reproductive Biology Conference 2013. Sydney, Australia.*
 
-Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.* **Invited presentation.**
+- Using RNA sequencing to quantify placental transcriptomes. *Methods in Reproductive Biology Symposium 2013. Mercy Hospital for Women, Melbourne, Australia.* **Invited presentation.**
 
-Sex-biased gene expression at the human fetal-maternal interface. *Australian Society for Medical Research Annual Meeting 2013. Adelaide, Australia.*
+- Sex-biased gene expression at the human fetal-maternal interface. *Australian Society for Medical Research Annual Meeting 2013. Adelaide, Australia.*
 
-Quantitative allele-specific expression analysis reveals imprinting plasticity of the H19 lincRNA. **ANZPRA new investigator award session**,
+- Quantitative allele-specific expression analysis reveals imprinting plasticity of the H19 lincRNA. **ANZPRA new investigator award session**,
 *Society for Reproductive Biology Conference 2012. Gold Coast, Australia.*
 
-Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
+- Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
 
-### Poster presentations
-
-Placental transcriptome co-expression analysis reveals conserved regulatory programs and points toward a preeclampsia gene cluster. *Australian Society for Medical Research Annual Meeting 2015. Adelaide, Australia*
-
-Quantitative analysis of imprinted genes in the human placenta reveals developmental stage-specific imprinting plasticity. *Lorne Genome Conference 2013. Lorne, Australia.*
-
-Allele-specific expression of H19, IGF2 and IGF2R in the human placenta through gestation. *Epigenetics Alliance Conference 2012. Adelaide, Australia.*
-
-***
 
 ## Publications
-
-***
-
-## Pre-print manuscripts
-
-Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ. Simmons R, **Buckberry S**, Landin DV, Pflueger J, Vandekolk TH, Abay Z, Liu X, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJ, Petretto E, and Polo JM (2019). Mouse and human microglial phenotypes in Alzheimer’s disease are controlled by amyloid plaque phagocytosis through Hif1α. [[***bioRxiv***]](https://www.biorxiv.org/content/10.1101/639054v1)
 
 ## Peer-reviewed articles
 

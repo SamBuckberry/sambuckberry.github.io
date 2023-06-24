@@ -9,13 +9,16 @@ sam.buckberry@uwa.edu.au \\
 The University of Western Australia $\bullet$ M316, 35 Stirling Highway, Crawley 6009 \\
 \end{center}
 
-## Current position (2015 - present)
+## Current position (Jan 2022 - present)
+**Bioinformatician - Black Ochre Data Labs**  
+Indigenous Genomics - Telethon Kids Institute (Perth WA)
 
-**Postdoctoral Research Fellow - Genome Bioinformatics**  
-Lister Lab (epigenetics and genomics)  
-Harry Perkins Institute of Medical Research  
-The School of Molecular Sciences  
-The University of Western Australia  
+Here I lead research on developing epigenetic biomarkers of Type-2 diabetes in Indigenous Australian populations. I am also a technical lead in the development of the data architecture, security and standards for research using indigenous genomics data. 
+
+## Current appointments
+
+- Australasian Genomics Technology Association (AGTA) - Executive Committee Member
+- Human Research Ethics Committee Member - WA Department of Health
 
 ## Education
 
@@ -34,6 +37,17 @@ Robinson Research Institute
 Flinders University  
 Extended Major in Biological Sciences  
 *Chancellor’s Commendation 2009 and 2010*
+
+## Experience
+
+**Postdoctoral Research Fellow - Genome Bioinformatics (2015-2022)**  
+Lister Lab (epigenetics and genomics)  
+Harry Perkins Institute of Medical Research  
+The School of Molecular Sciences  
+The University of Western Australia  
+
+I was a senior bioinformatician in Prof. Ryan Lister's group for 6.5 years.
+Here I established custom bioinformatics workflows for complex questions in fields such stem cell biology, neuroscience, evolution and epigenetic engineering. My work involved the analysis and integration of multiple omics data types including whole genome DNA methylation (WGBS), ATAC-seq, RNA-seq, ChIP-seq and single-cell omics technologies.   
 
 ## Research funding
 
