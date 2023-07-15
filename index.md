@@ -2,45 +2,58 @@
 layout: page
 title: Curriculum Vitae
 output: github_document
-markdown_extensions:
-  - attr_list
 ---
 
 ## **Sam Buckberry, PhD**
+sam.buckberry@anu.edu.au  
+[Google Scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) | [ORCID](https://orcid.org/0000-0003-2388-6046) | [LinkedIn](https://www.linkedin.com/in/sambuckberry/)
 
-**Head, Epigenetics | Indigenous Genomics**  
+I am a biologist who specialises in epigenetics, genomics and data science. I am impact-focused and have broad experience in leading genomics-focused projects. I enjoy developing custom analysis frameworks for complex biological questions and data types. 
+
+## Current roles
+
+---
+
+**[Head, Epigenetics | Indigenous Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 Telethon Kids Institute  
 
-**Senior Lecturer**  
-ANU College of Health and Medicine  
-Australian National University
+**[Senior Lecturer | Australian National University](https://researchers.anu.edu.au/researchers/buckberry-s)**  
+ANU College of Health and Medicine
 
-sam.buckberry@anu.edu.au 
+Executive Committee | Australasian Genomics Technology Association (2017-)  
 
+Human Research Ethics Committee | WA Department of Health (2020-)
 
-**Personal statement:** I am a biologist who specialises in epigenetics, genomics and bioinformatics. I am impact-focused and have broad experience in developing custom analysis frameworks for complex biological questions and data types.
+## Education
 
-[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+---
 
+**Doctor of Philosophy**  
+The University of Adelaide (2012-2015)  
+*Thesis: An integrative analysis of the human placental transcriptome.*  
+***Awarded the Dean’s commendation for doctoral thesis excellence.***
 
+**Bachelor of Health Science (Hons)**  
+The University of Adelaide (2011)  
+*First Class Honours*
 
-## Appointments
-
-__Executive Committee:__ Australasian Genomics Technology Association (2017-)  
-
-__Human Research Ethics Committee:__ Sir Charles Gairdner Osborne Park Health Care Group, WA Department of Health (2020-)
+**Bachelor of Science**  
+Flinders University (2008-2010)  
+Extended Major in Biological Sciences  
+*Chancellor’s Commendation and graduated in top 10% of students*
 
 
 ## Postdoctoral work history
-
-### Telethon Kids Institute | Australian National University (2022-)  
-**Head of Epigenetics, Indigenous Genomics**  
+---
+### **Telethon Kids Institute | Australian National University (2022-)**  
+**[Head, Epigenetics | Indigenous Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
+**Black Ochre Data Labs**  
 - Project lead: Whole genome DNA methylation profiling of PROPHECY cohort  
 - Project lead: MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health
 - Architect and developer: Computational systems for Indigenous data sovereignty 
 
 
-### The University of Western Australia (2015-2021)    
+### **The University of Western Australia (2015-2021)**    
 **Postdoctoral Research Fellow**  
 **[Lister Lab](http://listerlab.org) | Epigenetics and Genomics**  
 - Lead for stem cell epigenetics program  
@@ -55,42 +68,29 @@ __Human Research Ethics Committee:__ Sir Charles Gairdner Osborne Park Health Ca
 - Supervision: 1 honours, 2 masters, 1 PhD
 
 
-## Education
-
-**Doctor of Philosophy**  
-The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome.*  
-*Awarded the Dean’s commendation for doctoral thesis excellence.*
-
-**Bachelor of Health Science - First Class Honours**  
-The University of Adelaide (2011)  
-*My honours research revealed epigenetic imprinting plasticity of a long non-coding RNA in the human placenta during early development.*
-
-**Bachelor of Science**  
-Flinders University (2008-2010)  
-Extended Major in Biological Sciences  
-*Graduated among the top 10% of students and received the Chancellor’s Commendation in two consecutive years.*
-
-
 ## Research funding
 
-MRFF Early to Mid-Career Researchers: The missing heritability of human disease: discovery to implementation (2022-2027) **$4,877,532** 
+---
 
-MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health **$991,506** 
+- MRFF Early to Mid-Career Researchers: The missing heritability of human disease: discovery to implementation (2022-2027) **$4,877,532** 
 
-WA Department of Health Merit Award (2020) **BUCKBERRY S (CIA) $95,000**
+- MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health **$991,506** 
 
-NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
+- WA Department of Health Merit Award (2020) **BUCKBERRY S (CIA) $95,000**
 
-Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  **$25,000** 
+- NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
-Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo. **$25,000**
+- Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  **$25,000** 
+
+- Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo. **$25,000**
 
 
-## Awards and Recognition
+## Awards and recognition
 
-* Finalist: Woodside Early Career Scientist of the Year (2020), WA P
-* Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
+---
+
+* Finalist (1 of 4): [Woodside Early Career Scientist of the Year (2020), WA Premier's Science Awards](https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation/premiers-science-award-winners)
+* [Raine Research Prize (2019)](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/) - Raine Medical Research Foundation
 * People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
 * Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016)
@@ -98,10 +98,8 @@ Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanis
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
-* Promega PhD Student Award, Lorne Genome Conference (2014) [link](http://www.lornegenome.org/awards/past-award-winners/)
-* ANZPRA New Investigator Award Finalist (2013)
+* Promega PhD Student Award, Lorne Genome Conference (2014)
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
-* ANZPRA New Investigator Award Finalist (2012)
 * The Robinson Research Institute Petrucco Honours Scholarship (2011)
 * AR Riddle Honours Grant, The University of Adelaide (2011)
 * Flinders University Chancellors Commendation (2011)
@@ -110,27 +108,24 @@ Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanis
 * Commonwealth of Australia Education Scholarship (2008-2010)
 
 
-## Memberships and affiliations 
-
-* Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
-* Australian Bioinformatics and Computational Biology Society (ABACBS)
-
-***
-
 ## Teaching
 
-***
+---
 
-Lecturer for the Masters level topic *The Objectives and Applications of Genomics 2017* (SCIE4001). School of Chemistry and Biochemistry, The University of Western Australia.
+- Lecturer, Masters of Biotechnology, School of Chemistry and Biochemistry, The University of Western Australia (2019, 2020, 2021).
 
-Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
+- Lecturer, *The Objectives and Applications of Genomics 2017* (SCIE4001). School of Chemistry and Biochemistry, The University of Western Australia (2017).
 
-Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
+- Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
 
-Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
+- Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
+
+- Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
 
-## Presentations
+## Select presentations
+
+---
 
 - **Invited pannelist - AusBioTech 2022** Extract maximum value from your data with high-performance computing.
 
@@ -165,10 +160,28 @@ Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PA
 
 - Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
 
+## Patents
+---
+
+**Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a Cell. International patent 
+PCT/AU2019/051296 [World Intellectual Property Organization (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
+
 
 ## Publications
 
+---
+
 ## Peer-reviewed articles
+
+Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J, **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ, Alvarez-Franco A, Hou R, Pflueger C, McDonald K, Polo JM, Forrest ARR, Nowak AK, Voineagu I, Martelotto L & Lister R (2022). Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution. ***[Cell](https://doi.org/10.1016/j.cell.2022.09.039)*** 185, 4428–4447.e28.
+
+de Mendoza A, Nguyen TV, Ford E, Poppe D, **Buckberry, S**, Pflueger J, Grimmer MR, Stolzenburg S, Bogdanovic O, Oshlack A, Farnham PJ, Blancafort P & Lister R (2022). Large-scale manipulation of promoter DNA methylation reveals context-specific transcriptional responses and stability. ***[Genome Biology](https://doi.org/10.1186/s13059-022-02728-5)*** 23, 163
+
+Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ, Simmons R, **Buckberry S**, Landin, DV, Pflueger J, Vandekolk TH, Abay Z, Zhou Y, Liu X, Chen J, Larcombe M, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJL, Petretto E & Polo JM (2021). Transcriptional signature in microglia associated with Aβ plaque phagocytosis. ***[Nature Communications](https://doi.org/10.1038/s41467-021-23111-1)***. 12, 3015
+
+de Mendoza A, Poppe D, **Buckberry S**, Pflueger J, Albertin CB, Daish T, Bertrand S, de la Calle-Mustienes E, Gómez-Skarmeta JL, Nery JR, Ecker JR, Baer B, Ragsdale CW, Grützner F, Escriva H, Venkatesh B, Bogdanovic O & Lister R (2021). The emergence of the brain non-CpG methylation system in vertebrates. ***Nature Ecology & Evolution*** [[Journal website]](doi:10.1038/s41559-020-01371-2)
+
+Liu X, Ouyang JF, Rossello FJ, Tan JP, Davidson KC, Valdes DS, Schröder J, Sun YBY, Chen J, Knaupp AS, Sun G, Chy HS, Huang Z, Pflueger J, Firas J, Tano V, **Buckberry S**, Paynter J.M, Larcombe MR, Poppe D, Choo XY, O’Brien CM, Pastor WA, Chen D, Leichter AL, Naeem H, Tripathi P, Das PP, Grubman A, Powell DR, Laslett AL, David L, Nilsson SK, Clark AT, Lister R, Nefzger CM, Martelotto LG, Rackham OJL & Polo JM (2020). Reprogramming roadmap reveals route to human induced trophoblast stem cells. ***Nature*** 586, 101–107 (2020). [[Journal website]](https://doi.org/10.1038/s41586-020-2734-6)
 
 Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 [[Journal website]](https://doi.org/10.1038/s41593-019-0539-4)
 
