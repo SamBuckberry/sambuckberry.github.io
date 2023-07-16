@@ -6,6 +6,7 @@ Scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ)
 \| [ORCID](https://orcid.org/0000-0003-2388-6046) \|
 [LinkedIn](https://www.linkedin.com/in/sambuckberry/)
 
+### About
 I am a biologist who specialises in epigenetics, genomics, data
 science. I am impact-focused and have broad experience in research leadership. I enjoy developing bespoke analysis frameworks
 for complex biological questions.
@@ -355,7 +356,7 @@ Outreach](http://link.springer.com/article/10.1007/s12052-012-0416-z)***
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the
 womb? ***[Australasian
-Science](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html)***,
+Science](https://search.informit.org/doi/epdf/10.3316/informit.520963373823745)***,
 November 2014 (cover story)
 
 ### Select presentations
