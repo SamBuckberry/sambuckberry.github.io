@@ -58,7 +58,7 @@ Extended Major in Biological Sciences
 **Postdoctoral Research Fellow**  
 **[Lister Lab](http://listerlab.org) | Epigenetics and Genomics**  
 - **Project lead for stem cell epigenetics program**  
-   - Project lead for correcting epigenetic memory in human iPS cells. See [**Buckberry et al. (2023) _Nature_**]()  
+   - Project lead for correcting epigenetic memory in human iPS cells. See [**Buckberry et al. (2023) **]()  
    - Developed a patent for improving human iPS cell reprogramming. See [Methods of Reprogramming a Cell (2019)](https://patents.google.com/patent/US20220403343A1/en)  
    - Project lead for multi-omics time-course profiling of iPS cell reprogramming. See [Knaupp & Buckberry et al. (2017) _Cell Stem Cell_](https://doi.org/10.1016/j.stem.2017.11.007)
    - Contributer to epigentic profiling of iPSC reprogramming pulished in _[Nature](https://doi.org/10.1038/s41586-020-2734-6)_ and _[Cell Reports](https://doi.org/10.1016/j.celrep.2017.11.029)_   
