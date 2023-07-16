@@ -20,9 +20,9 @@ Telethon Kids Institute
 **[Senior Lecturer | Australian National University](https://researchers.anu.edu.au/researchers/buckberry-s)**  
 ANU College of Health and Medicine
 
-Executive Committee | Australasian Genomics Technology Association (2017-)  
+Executive Committee: [AGTA - Australasian Genomics Technology Association](https://agtagenomics.org.au) (2017-)  
 
-Human Research Ethics Committee | WA Department of Health (2020-)
+Human Research Ethics Committee: WA Department of Health (2020-)
 
 ## Education
 
