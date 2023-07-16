@@ -6,10 +6,9 @@ Scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ)
 \| [ORCID](https://orcid.org/0000-0003-2388-6046) \|
 [LinkedIn](https://www.linkedin.com/in/sambuckberry/)
 
-I am a biologist who specialises in epigenetics, genomics and data
-science. I am impact-focused and have broad experience in leading
-genomics-focused projects. I enjoy developing custom analysis frameworks
-for complex biological questions and data types.
+I am a biologist who specialises in epigenetics, genomics, data
+science. I am impact-focused and have broad experience in research leadership. I enjoy developing bespoke analysis frameworks
+for complex biological questions.
 
 ### Current roles
 
@@ -56,30 +55,34 @@ Extended Major in Biological Sciences
 **[Head, Epigenetics \| Indigenous
 Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 **Black Ochre Data Labs**  
+
 - **Project lead:** Whole genome DNA methylation profiling of Type-2
 diabetes PROPHECY cohort (n=1,400) for precision medicine  
 - **Project lead:** MRFF Genomics Health Futures Mission Grant
 (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians
-for precision health - **Architect and developer:** Computational
-systems for Indigenous data sovereignty - Contributing member of the
+for precision health  
+- **Architect and developer:** Computational
+systems for Indigenous data sovereignty  
+- Contributing member of the
 Australian Alliance for Ingigenous Genomics (ALIGN)
 
 #### **The University of Western Australia (2015-2021)**
 
 **Postdoctoral Research Fellow**  
 **[Lister Lab](http://listerlab.org) \| Epigenetics and Genomics**  
+
 - **Project lead for stem cell epigenetics program**  
-- Project lead for correcting epigenetic memory in human iPS cells. See
+    - Project lead for correcting epigenetic memory in human iPS cells. See
 [**Buckberry et al. (2023) **]()  
-- Developed a patent for improving human iPS cell reprogramming. See
+    - Developed a patent for improving human iPS cell reprogramming. See
 [Methods of Reprogramming a Cell
 (2019)](https://patents.google.com/patent/US20220403343A1/en)  
-- Project lead for multi-omics time-course profiling of iPS cell
+    - Project lead for multi-omics time-course profiling of iPS cell
 reprogramming. See [Knaupp & Buckberry et al. (2017) *Cell Stem
 Cell*](https://doi.org/10.1016/j.stem.2017.11.007) - Contributer to
 epigentic profiling of iPSC reprogramming pulished in
 *[Nature](https://doi.org/10.1038/s41586-020-2734-6)* and *[Cell
-Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
+Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*  
 
 - Contributer to epigenetics of brain development and function program
   - Key contributions to work on Alzheimer’s disease, epigenetics of
@@ -151,28 +154,9 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 - Flinders University Summer Research Scholarship (2010)
 - Commonwealth of Australia Education Scholarship (2008-2010)
 
-### Teaching
+### Patents
 
 ------------------------------------------------------------------------
-
-- Lecturer, Masters of Biotechnology, School of Chemistry and
-  Biochemistry, The University of Western Australia (2019, 2020, 2021).
-
-- Lecturer, *The Objectives and Applications of Genomics 2017*
-  (SCIE4001). School of Chemistry and Biochemistry, The University of
-  Western Australia (2017).
-
-- Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer
-  Conference 2013, Australian Mathematical Sciences Institute and the
-  University of Adelaide.
-
-- Teaching Assistant for the Bioinformatics Workshops 2013, the
-  University of Adelaide.
-
-- Tutor and Coordinator for undergraduate biology Peer Assisted Study
-  Sessions (PASS), Flinders University (2010–2011).
-
-### Patents
 
 **Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a
 Cell. International patent PCT/AU2019/051296 [World Intellectual
@@ -442,3 +426,24 @@ November 2014 (cover story)
 - Allele-specific expression of H19 and IGF2 in the human placenta
   across gestation. **Honours award session**, *Australian Society for
   Medical Research Annual Meeting 2012. Adelaide, Australia*.
+
+### Teaching
+
+------------------------------------------------------------------------
+
+- Lecturer, Masters of Biotechnology, School of Chemistry and
+  Biochemistry, The University of Western Australia (2019, 2020, 2021).
+
+- Lecturer, *The Objectives and Applications of Genomics 2017*
+  (SCIE4001). School of Chemistry and Biochemistry, The University of
+  Western Australia (2017).
+
+- Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer
+  Conference 2013, Australian Mathematical Sciences Institute and the
+  University of Adelaide.
+
+- Teaching Assistant for the Bioinformatics Workshops 2013, the
+  University of Adelaide.
+
+- Tutor and Coordinator for undergraduate biology Peer Assisted Study
+  Sessions (PASS), Flinders University (2010–2011).
