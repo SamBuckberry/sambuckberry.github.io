@@ -124,6 +124,12 @@ Extended Major in Biological Sciences
 
 - Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
+## Patents
+---
+
+**Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a Cell. International patent 
+PCT/AU2019/051296 [World Intellectual Property Organization (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
+
 
 ## Academic publications
 
@@ -226,11 +232,5 @@ Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekke
 *Society for Reproductive Biology Conference 2012. Gold Coast, Australia.*
 
 - Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
-
-## Patents
----
-
-**Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a Cell. International patent 
-PCT/AU2019/051296 [World Intellectual Property Organization (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
 
