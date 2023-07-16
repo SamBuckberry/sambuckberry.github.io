@@ -11,7 +11,7 @@ science. I am impact-focused and have broad experience in leading
 genomics-focused projects. I enjoy developing custom analysis frameworks
 for complex biological questions and data types.
 
-## Current roles
+### Current roles
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Association](https://agtagenomics.org.au) (2017-)
 
 Human Research Ethics Committee: WA Department of Health (2020-)
 
-## Education
+### Education
 
 ------------------------------------------------------------------------
 
@@ -47,11 +47,11 @@ Flinders University
 Extended Major in Biological Sciences  
 *Awarded the Chancellor’s Commendation*
 
-## Postdoctoral work history
+### Postdoctoral work history
 
 ------------------------------------------------------------------------
 
-### **Telethon Kids Institute \| Australian National University (2022-present)**
+#### **Telethon Kids Institute \| Australian National University (2022-present)**
 
 **[Head, Epigenetics \| Indigenous
 Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
@@ -64,7 +64,7 @@ for precision health - **Architect and developer:** Computational
 systems for Indigenous data sovereignty - Contributing member of the
 Australian Alliance for Ingigenous Genomics (ALIGN)
 
-### **The University of Western Australia (2015-2021)**
+#### **The University of Western Australia (2015-2021)**
 
 **Postdoctoral Research Fellow**  
 **[Lister Lab](http://listerlab.org) \| Epigenetics and Genomics**  
@@ -94,7 +94,7 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 - Lecturer for Masters of Biotechnology  
 - Supervision: 1 honours, 2 masters, 1 PhD
 
-## Research funding
+### Research funding
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
   new mechanisms regulating transcription in the pre-implantation
   embryo. **\$25,000**
 
-## Awards and recognition
+### Awards and recognition
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 - Flinders University Summer Research Scholarship (2010)
 - Commonwealth of Australia Education Scholarship (2008-2010)
 
-## Teaching
+### Teaching
 
 ------------------------------------------------------------------------
 
@@ -172,14 +172,14 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 - Tutor and Coordinator for undergraduate biology Peer Assisted Study
   Sessions (PASS), Flinders University (2010–2011).
 
-## Patents
+### Patents
 
 **Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a
 Cell. International patent PCT/AU2019/051296 [World Intellectual
 Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
-## Academic publications
+### Academic publications
 
 ------------------------------------------------------------------------
 
@@ -367,14 +367,14 @@ approach. ***[Evolution, Education &
 Outreach](http://link.springer.com/article/10.1007/s12052-012-0416-z)***
 5(2):266-273
 
-## Feature articles
+### Feature articles
 
 **Buckberry S** & Roberts CT (2014). Why are males more at risk in the
 womb? ***[Australasian
 Science](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html)***,
 November 2014 (cover story)
 
-## Select presentations
+### Select presentations
 
 ------------------------------------------------------------------------
 
