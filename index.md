@@ -28,41 +28,43 @@ Human Research Ethics Committee | WA Department of Health (2020-)
 
 ---
 
-**Doctor of Philosophy**  
-The University of Adelaide (2012-2015)  
+**Doctor of Philosophy (2012-2015)**  
+The University of Adelaide  
 *Thesis: An integrative analysis of the human placental transcriptome.*  
 ***Awarded the Dean’s commendation for doctoral thesis excellence.***
 
-**Bachelor of Health Science (Hons)**  
-The University of Adelaide (2011)  
-*First Class Honours*
+**Bachelor of Health Science - Honours (2011)**  
+The University of Adelaide  
+*Awawrded first class honours*
 
-**Bachelor of Science**  
-Flinders University (2008-2010)  
+**Bachelor of Science (2008-2010)**  
+Flinders University  
 Extended Major in Biological Sciences  
-*Chancellor’s Commendation and graduated in top 10% of students*
+*Awarded the Chancellor’s Commendation*
 
 
 ## Postdoctoral work history
 ---
-### **Telethon Kids Institute | Australian National University (2022-)**  
+### **Telethon Kids Institute | Australian National University (2022-present)**  
 **[Head, Epigenetics | Indigenous Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 **Black Ochre Data Labs**  
-- Project lead: Whole genome DNA methylation profiling of PROPHECY cohort  
-- Project lead: MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health
-- Architect and developer: Computational systems for Indigenous data sovereignty 
+- **Project lead:** Whole genome DNA methylation profiling of Type-2 diabetes PROPHECY cohort (n=1,400) for precision medicine  
+- **Project lead:** MRFF Genomics Health Futures Mission Grant (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians for precision health
+- **Architect and developer:** Computational systems for Indigenous data sovereignty 
+- Contributing member of the Australian Alliance for Ingigenous Genomics (ALIGN)
 
 
 ### **The University of Western Australia (2015-2021)**    
 **Postdoctoral Research Fellow**  
 **[Lister Lab](http://listerlab.org) | Epigenetics and Genomics**  
-- Lead for stem cell epigenetics program  
-   - Project lead for correcting epigenetic memory in human iPS cells. See [Buckberry et al. (2023) _Nature_]()  
+- **Project lead for stem cell epigenetics program**  
+   - Project lead for correcting epigenetic memory in human iPS cells. See [**Buckberry et al. (2023) _Nature_**]()  
    - Developed a patent for improving human iPS cell reprogramming. See [Methods of Reprogramming a Cell (2019)](https://patents.google.com/patent/US20220403343A1/en)  
-   - Project lead for multi-omics time-course profiling of iPS cell reprogramming. See [Knaupp & Buckberry et al. (2017) _Cell Stem Cell_](https://doi.org/10.1016/j.stem.2017.11.007)  
+   - Project lead for multi-omics time-course profiling of iPS cell reprogramming. See [Knaupp & Buckberry et al. (2017) _Cell Stem Cell_](https://doi.org/10.1016/j.stem.2017.11.007)
+   - Contributer to epigentic profiling of iPSC reprogramming pulished in _[Nature](https://doi.org/10.1038/s41586-020-2734-6)_ and _[Cell Reports](https://doi.org/10.1016/j.celrep.2017.11.029)_   
   
-- Epigenetics of brain development and function program
-    - Key contributions to work on Alzheimer's disease, epigenetics of brain development, evolution of neuron-specific DNA methylation published in _Cell, Nature Neuroscience, Nature Communications, Nature Ecology & Evolution, Cell Reports_ 
+- Contributer to epigenetics of brain development and function program
+    - Key contributions to work on Alzheimer's disease, epigenetics of brain development, evolution of neuron-specific DNA methylation published in _[Cell](https://doi.org/10.1016/j.cell.2022.09.039), [Nature Neuroscience](https://doi.org/10.1038/s41593-019-0539-4), [Nature Communications](https://doi.org/10.1038/s41467-021-23111-1), [Nature Ecology & Evolution](doi:10.1038/s41559-020-01371-2), [Cell Reports](http://www.ncbi.nlm.nih.gov/pubmed/28793267)_ 
 - Developer: Custom analysis pipelines for MethylC-seq, ATAC-seq, ChIP-seq, RNA-seq and data integration.
 - Lecturer for Masters of Biotechnology  
 - Supervision: 1 honours, 2 masters, 1 PhD
@@ -123,6 +125,71 @@ Extended Major in Biological Sciences
 - Tutor and Coordinator for undergraduate biology Peer Assisted Study Sessions (PASS), Flinders University (2010–2011).
 
 
+## Academic publications
+
+---
+
+Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J, **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ, Alvarez-Franco A, Hou R, Pflueger C, McDonald K, Polo JM, Forrest ARR, Nowak AK, Voineagu I, Martelotto L & Lister R (2022). Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution. ***[Cell](https://doi.org/10.1016/j.cell.2022.09.039)*** 185, 4428–4447.e28.
+
+de Mendoza A, Nguyen TV, Ford E, Poppe D, **Buckberry, S**, Pflueger J, Grimmer MR, Stolzenburg S, Bogdanovic O, Oshlack A, Farnham PJ, Blancafort P & Lister R (2022). Large-scale manipulation of promoter DNA methylation reveals context-specific transcriptional responses and stability. ***[Genome Biology](https://doi.org/10.1186/s13059-022-02728-5)*** 23, 163
+
+Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ, Simmons R, **Buckberry S**, Landin, DV, Pflueger J, Vandekolk TH, Abay Z, Zhou Y, Liu X, Chen J, Larcombe M, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJL, Petretto E & Polo JM (2021). Transcriptional signature in microglia associated with Aβ plaque phagocytosis. ***[Nature Communications](https://doi.org/10.1038/s41467-021-23111-1)***. 12, 3015
+
+de Mendoza A, Poppe D, **Buckberry S**, Pflueger J, Albertin CB, Daish T, Bertrand S, de la Calle-Mustienes E, Gómez-Skarmeta JL, Nery JR, Ecker JR, Baer B, Ragsdale CW, Grützner F, Escriva H, Venkatesh B, Bogdanovic O & Lister R (2021). The emergence of the brain non-CpG methylation system in vertebrates. ***[Nature Ecology & Evolution](doi:10.1038/s41559-020-01371-2)***
+
+Liu X, Ouyang JF, Rossello FJ, Tan JP, Davidson KC, Valdes DS, Schröder J, Sun YBY, Chen J, Knaupp AS, Sun G, Chy HS, Huang Z, Pflueger J, Firas J, Tano V, **Buckberry S**, Paynter J.M, Larcombe MR, Poppe D, Choo XY, O’Brien CM, Pastor WA, Chen D, Leichter AL, Naeem H, Tripathi P, Das PP, Grubman A, Powell DR, Laslett AL, David L, Nilsson SK, Clark AT, Lister R, Nefzger CM, Martelotto LG, Rackham OJL & Polo JM (2020). Reprogramming roadmap reveals route to human induced trophoblast stem cells. ***[Nature](https://doi.org/10.1038/s41586-020-2734-6)*** 586, 101–107
+
+Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***[Nature Neuroscience](https://doi.org/10.1038/s41593-019-0539-4)*** 22:2087–2097
+
+de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***[Nature Ecology and Evolution](https://www.nature.com/articles/s41559-019-0983-2)*** 3;10:1464-1473
+
+de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***[Nature Communications](https://www.ncbi.nlm.nih.gov/pubmed/29632298)*** 9;1:1341
+
+Stuart T, **Buckberry S**, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***[Methods in Molecular Biology](http://www.ncbi.nlm.nih.gov/pubmed/29524143)*** 1767:299-310 - **Book chapter**
+
+Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***[Scientific Reports](https://www.ncbi.nlm.nih.gov/pubmed/29391490)*** 8;1:2190
+
+Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***[Cell Stem Cell](https://doi.org/10.1016/j.stem.2017.11.007)*** 21, 1-12 <sup>1</sup>***Co-first author***
+
+Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***[Cell Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*** 21
+
+Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, **Buckberry S**, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***[Scientific Reports](https://www.ncbi.nlm.nih.gov/pubmed/29123159)*** 9;7(1):15137
+
+Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***[Cell Reports](http://www.ncbi.nlm.nih.gov/pubmed/28793267)*** 8:20
+
+Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017). Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***[BMC Developmental Biology](http://www.ncbi.nlm.nih.gov/pubmed/28407732)*** 17:5
+
+**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***[BMC Genomics](http://www.ncbi.nlm.nih.gov/pubmed/28049421)*** 18:10
+
+Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***[Frontiers in Genetics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)***
+
+Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***[Gene Expression Patterns](http://www.ncbi.nlm.nih.gov/pubmed/27221232)***
+
+Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***[Reproduction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064761/)***
+
+Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***[European Journal of Cell Biology](http://www.ncbi.nlm.nih.gov/pubmed/26531845)*** 94(12):589-602.
+
+**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***[Genomics Data](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664714/)*** 6:72-73
+
+Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***[PLoS ONE](http://www.ncbi.nlm.nih.gov/pubmed/26121239)*** 10(6):e0131287. <sup>1</sup>*These authors contributed equally to this work.*
+
+**Buckberry S**, Bianco-Miotto T, Bent SJ, Dekker GA & Roberts CT (2014). Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression at the human fetal–maternal interface. ***[Molecular Human Reproduction](http://www.ncbi.nlm.nih.gov/pubmed/24867328)*** 20(8):810-9
+
+**Buckberry S**, Bent SJ, Bianco-Miotto T & Roberts CT (2014). MassiR: a method for predicting the sex of samples in gene expression microarray datasets. ***[Bioinformatics](http://www.ncbi.nlm.nih.gov/pubmed/24659105)*** 30(14):2084-5
+
+**Buckberry S**, Bianco-Miotto T & Roberts CT (2014). Imprinted and X-linked non-coding RNAs as potential regulators of human placental function, ***[Epigenetics](http://www.ncbi.nlm.nih.gov/pubmed/24081302)*** 9(1):81-9
+
+Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekker GA & Roberts CT (2014). Circulating IGF1 and IGF2 and SNP genotypes in pregnant and non-pregnant women and men. ***[Endocrine Connections](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4151385)*** 3(3):138–149
+
+**Buckberry S**, Bianco-Miotto T, Hiendleder S & Roberts CT (2012). Quantitative Allele-Specific Expression and DNA Methylation Analysis of H19, IGF2 and IGF2R in the Human Placenta across Gestation Reveals H19 Imprinting Plasticity. ***[PLoS ONE](http://www.ncbi.nlm.nih.gov/pubmed/23227253)*** 7(12):e51210
+
+**Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***[Evolution, Education & Outreach](http://link.springer.com/article/10.1007/s12052-012-0416-z)*** 5(2):266-273
+
+## Feature articles
+
+**Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***[Australasian Science](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html)***, November 2014 (cover story)
+
+
 ## Select presentations
 
 ---
@@ -165,77 +232,5 @@ Extended Major in Biological Sciences
 
 **Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a Cell. International patent 
 PCT/AU2019/051296 [World Intellectual Property Organization (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
-
-
-## Publications
-
----
-
-## Peer-reviewed articles
-
-Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J, **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ, Alvarez-Franco A, Hou R, Pflueger C, McDonald K, Polo JM, Forrest ARR, Nowak AK, Voineagu I, Martelotto L & Lister R (2022). Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution. ***[Cell](https://doi.org/10.1016/j.cell.2022.09.039)*** 185, 4428–4447.e28.
-
-de Mendoza A, Nguyen TV, Ford E, Poppe D, **Buckberry, S**, Pflueger J, Grimmer MR, Stolzenburg S, Bogdanovic O, Oshlack A, Farnham PJ, Blancafort P & Lister R (2022). Large-scale manipulation of promoter DNA methylation reveals context-specific transcriptional responses and stability. ***[Genome Biology](https://doi.org/10.1186/s13059-022-02728-5)*** 23, 163
-
-Grubman A, Choo XY, Chew G, Ouyang JF, Sun G, Croft NP, Rossello FJ, Simmons R, **Buckberry S**, Landin, DV, Pflueger J, Vandekolk TH, Abay Z, Zhou Y, Liu X, Chen J, Larcombe M, Haynes JM, McLean C, Williams S, Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJL, Petretto E & Polo JM (2021). Transcriptional signature in microglia associated with Aβ plaque phagocytosis. ***[Nature Communications](https://doi.org/10.1038/s41467-021-23111-1)***. 12, 3015
-
-de Mendoza A, Poppe D, **Buckberry S**, Pflueger J, Albertin CB, Daish T, Bertrand S, de la Calle-Mustienes E, Gómez-Skarmeta JL, Nery JR, Ecker JR, Baer B, Ragsdale CW, Grützner F, Escriva H, Venkatesh B, Bogdanovic O & Lister R (2021). The emergence of the brain non-CpG methylation system in vertebrates. ***Nature Ecology & Evolution*** [[Journal website]](doi:10.1038/s41559-020-01371-2)
-
-Liu X, Ouyang JF, Rossello FJ, Tan JP, Davidson KC, Valdes DS, Schröder J, Sun YBY, Chen J, Knaupp AS, Sun G, Chy HS, Huang Z, Pflueger J, Firas J, Tano V, **Buckberry S**, Paynter J.M, Larcombe MR, Poppe D, Choo XY, O’Brien CM, Pastor WA, Chen D, Leichter AL, Naeem H, Tripathi P, Das PP, Grubman A, Powell DR, Laslett AL, David L, Nilsson SK, Clark AT, Lister R, Nefzger CM, Martelotto LG, Rackham OJL & Polo JM (2020). Reprogramming roadmap reveals route to human induced trophoblast stem cells. ***Nature*** 586, 101–107 (2020). [[Journal website]](https://doi.org/10.1038/s41586-020-2734-6)
-
-Grubman A, Chew G, Ouyang JF, Sun G, Choo XY, McLean C, Simmons R, **Buckberry S**, Landin DV, Poppe D, Pflueger J, Lister R, Rackham OJ, Petretto E and Polo JM (2019). A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation. ***Nature Neuroscience*** 22:2087–2097 [[Journal website]](https://doi.org/10.1038/s41593-019-0539-4)
-
-de Mendoza A, Hatleberg WL, Pang K, Leininger S, Bogdanovic O, Pflueger J, **Buckberry S**, Technau U, Hejnol A, Adamska M, Degnan BM, Degnan SM and Lister R (2019). Convergent evolution of a vertebrate-like methylome in a marine sponge. ***Nature Ecology and Evolution*** 3;10:1464-1473 [[Journal website]](https://www.nature.com/articles/s41559-019-0983-2)
-
-de Mendoza A, Bonnet A, Vargas-Landin DB, Ji N, Hong F, Yang F, Li L, Hori K, Pflueger J, **Buckberry S**, Ohta H, Rosic N, Lesage P, Lin S and Lister R (2018). Recurrent acquisition of cytosine methyltransferases into eukaryotic retrotransposons. ***Nature Communications*** 9;1:1341 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29632298)
-
-Mayne BT, Leemaqz SY, **Buckberry S**, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T and Breen J (2018). msgbsR: An R package for analysing methylation-sensitive restriction enzyme sequencing data. ***Scientific Reports*** 8;1:2190 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29391490) 
-
-Knaupp AS<sup>1</sup>, **Buckberry S**<sup>1</sup>, Pflueger J, Lim SM, Ford E, Larcombe MR, Rossello FJ, de Mendoza A, Alaei S, Firas J, Holmes ML, Nair SS, Clark SJ, Nefzger CM, Lister R and Polo JM (2017). Transient and permanent reconfiguration of chromatin and transcription factor occupancy drive reprogramming. ***Cell Stem Cell*** 21, 1-12 [doi.org/10.1016/j.stem.2017.11.007](https://doi.org/10.1016/j.stem.2017.11.007) <sup>1</sup>*These authors contributed equally to this work.*
-
-Nefzger CM, Rossello FJ, Chen J, Liu X, Knaupp AS, Firas J, Paynter J, Pflueger J, **Buckberry S**, Lim SM, Williams B, Alaei S, Keshav Faye-Chauhan K, Nilsson SK, Lister R, Ramialison M, Powel DR, Rackham OJL and Polo JM (2017). Cell type of origin dictates the route to pluripotency. ***Cell Reports*** 21 [doi.org/10.1016/j.celrep.2017.11.029](https://doi.org/10.1016/j.celrep.2017.11.029)
-
-Wilson RL, Leemaqz SY, Goh Z, McAninch D, Jankovic-Karasoulos T, Leghi GE, Phillips JA, Colafella KM, Tran C, O'Leary S, **Buckberry S**, Pederson S, Robertson SA, Bianco-Miotto T, Roberts CT (2017). Zinc is a critical regulator of placental morphogenesis and maternal hemodynamics during pregnancy in mice. ***Scientific Reports*** Nov 9;7(1):15137 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29123159)
-
-Valensisi C, Andrus C, **Buckberry S**, Doni Jayavelu N, Lund RJ, Lister R and Hawkins RD (2017). Epigenomic Landscapes of hESC-Derived Neural Rosettes: Modeling Neural Tube Formation and Diseases. ***Cell Reports*** 8:20 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28793267)
-
-Lumb R, **Buckberry S**, Secker G, Lawrence D and Schwarz Q (2017). Transcriptome profiling reveals expression signatures of cranial neural crest cells arising from different axial levels. ***BMC Developmental Biology*** 17:5 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28407732)
-
-**Buckberry S**, Bianco-Miotto T, Bent SJ, Clifton V, Shoubridge C, Shankar K and Roberts CT (2017). Placental transcriptome co-expression analysis reveals conserved regulatory programs across gestation. ***BMC Genomics*** 18:10 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/28049421)
-
-Mayne B, Bianco-Miotto T, **Buckberry S**, Breen J, Clifton V, Shoubridge C, Roberts CT (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans. ***Frontiers in Genetics*** [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062749)
-
-Highet AR, **Buckberry S**, Mayne BT, Khoda SM, Bianco-Miotto T, Roberts CT (2016). First trimester trophoblasts forming endothelial-like tubes in vitro emulate a ‘blood vessel development’ gene expression profile. ***Gene Expression Patterns*** [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27221232)
-
-Bianco-Miotto T, Mayne B, **Buckberry S**, Breen J, Rodriguez Lopez C, Roberts CT (2016). Recent progress towards understanding the role of DNA methylation in human placental development. ***Reproduction*** [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064761/)
-
-Highet HR, Khoda SM, **Buckberry S**, Leemaqz S, Bianco-Miotto T, Harrington E, Ricciardelli C & Roberts CT (2015). Hypoxia induced HIF-1/HIF-2 activity alters trophoblast transcriptional regulation and promotes invasion. ***European Journal of Cell Biology*** 94(12):589-602. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26531845)
-
-Wilson RL<sup>1</sup>, **Buckberry S**<sup>1</sup>, Spronk F<sup>1</sup>, Laurence JA, Leemaqz S, O'Leary S, Bianco-Miotto T, Du J, Anderson PH & Roberts CT (2015). Vitamin D Receptor Gene Ablation in the Conceptus Has Limited Effects on Placental Morphology, Function and Pregnancy Outcome. ***PLoS ONE*** 10(6):e0131287. <sup>1</sup>*These authors contributed equally to this work.* [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26121239)
-
-**Buckberry S**, Bianco-Miotto T, Bent SJ, Dekker GA & Roberts CT (2014). Integrative transcriptome meta-analysis reveals widespread sex-biased gene expression at the human fetal–maternal interface. ***Molecular Human Reproduction*** 20(8):810-9. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24867328)
-
-**Buckberry S**, Bent SJ, Bianco-Miotto T & Roberts CT (2014). MassiR: a method for predicting the sex of samples in gene expression microarray datasets. ***Bioinformatics*** 30(14):2084-5. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24659105)
-
-**Buckberry S**, Bianco-Miotto T & Roberts CT (2014). Imprinted and X-linked non-coding RNAs as potential regulators of human placental function, ***Epigenetics*** 9(1):81-9. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24081302)
-
-Gatford KL, Heinemann GK, Thompson SD, Zhang JV, **Buckberry S**, Owens J, Dekker GA & Roberts CT (2014). Circulating IGF1 and IGF2 and SNP genotypes in pregnant and non-pregnant women and men. ***Endocrine Connections*** 3(3):138–149. [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4151385)
-
-**Buckberry S**, Bianco-Miotto T, Hiendleder S & Roberts CT (2012). Quantitative Allele-Specific Expression and DNA Methylation Analysis of H19, IGF2 and IGF2R in the Human Placenta across Gestation Reveals H19 Imprinting Plasticity. ***PLoS ONE*** 7(12):e51210. [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23227253)
-
-**Buckberry S** & Burke da Silva K (2012). Evolution: improving the understanding of undergraduate students with an active pedagogical approach. ***Evolution, Education & Outreach*** 5(2):266-273. [Webpage](http://link.springer.com/article/10.1007/s12052-012-0416-z)
-
-## Book chapters
-
-Stuart T, **Buckberry S**, Lister R (2018). Approaches for the Analysis and Interpretation of Whole Genome Bisulfite Sequencing Data. ***Methods in Molecular Biology*** 1767:299-310 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/29524143) 
-
-## Feature articles
-
-**Buckberry S** & Roberts CT (2014). Why are males more at risk in the womb? ***Australasian Science***, November 2014. [Webpage](http://www.australasianscience.com.au/article/issue-november-2014/why-are-males-more-risk-womb.html) 
-
-## Datasets
-
-**Buckberry S**, Spronk F, Wilson RL, Laurence JA, Bianco-Miotto T, Leemaqz S, O'Leary S, Anderson PH & Roberts CT (2015). The effect of Vdr gene ablation on global gene expression in the mouse placenta. ***Genomics Data*** 6:72-73. [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664714/)
-
 
 
