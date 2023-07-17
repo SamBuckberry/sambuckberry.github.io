@@ -1,15 +1,14 @@
 ## **Sam Buckberry, PhD**
 
-<sam.buckberry@anu.edu.au>  
-[Google
-Scholar](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ)
-\| [ORCID](https://orcid.org/0000-0003-2388-6046) \|
-[LinkedIn](https://www.linkedin.com/in/sambuckberry/)
+<sam.buckberry@telethonkids.org.au>  
+[**Google Scholar**](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) \| [**ORCID**](https://orcid.org/0000-0003-2388-6046) \| [**LinkedIn**](https://www.linkedin.com/in/sambuckberry/)
 
 ### About
-I am a biologist who specialises in epigenetics, genomics, data
-science. I am impact-focused and have broad experience in research leadership. I enjoy developing bespoke analysis frameworks
-for complex biological questions.
+I am a biologist with extensive experience in epigenetics, genomics and bioinformatics. 
+
+I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused at the intersection of genomics, precision medicine and public health to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to incorporate best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
+
+I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation. 
 
 ### Current roles
 
@@ -64,8 +63,9 @@ diabetes PROPHECY cohort (n=1,400) for precision medicine
 for precision health  
 - **Architect and developer:** Computational
 systems for Indigenous data sovereignty  
-- Contributing member of the
-Australian Alliance for Ingigenous Genomics (ALIGN)
+- **Contributor:** Australian Alliance for Indigenous Genomics (ALIGN)  
+    - Data sovereignty, privacy and security  
+    - Education and outreach  
 
 #### **The University of Western Australia (2015-2021)**
 
