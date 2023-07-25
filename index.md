@@ -12,8 +12,6 @@ I am impact-focused and enjoy developing bespoke analysis frameworks for complex
 
 ### Current roles
 
-------------------------------------------------------------------------
-
 **[Head, Epigenetics \| Indigenous
 Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 Telethon Kids Institute
@@ -28,8 +26,6 @@ Association](https://agtagenomics.org.au) (2017-)
 Human Research Ethics Committee: WA Department of Health (2020-)
 
 ### Education
-
-------------------------------------------------------------------------
 
 **Doctor of Philosophy (2012-2015)**  
 The University of Adelaide  
@@ -47,8 +43,6 @@ Extended Major in Biological Sciences
 *Awarded the Chancellor’s Commendation*
 
 ### Postdoctoral work history
-
-------------------------------------------------------------------------
 
 #### **Telethon Kids Institute \| Australian National University (2022-present)**
 
@@ -100,8 +94,6 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 
 ### Research funding
 
-------------------------------------------------------------------------
-
 - MRFF Early to Mid-Career Researchers: The missing heritability of
   human disease: discovery to implementation (2022-2027) **\$4,877,532**
 
@@ -126,8 +118,6 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
   embryo. **\$25,000**
 
 ### Awards and recognition
-
-------------------------------------------------------------------------
 
 - Finalist (1 of 4): [Woodside Early Career Scientist of the Year
   (2020), WA Premier’s Science
@@ -157,16 +147,12 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 
 ### Patents
 
-------------------------------------------------------------------------
-
 **Buckberry S**, Liu X, Polo JM & Lister R. Methods of Reprogramming a
 Cell. International patent PCT/AU2019/051296 [World Intellectual
 Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
 ### Academic publications
-
-------------------------------------------------------------------------
 
 Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J,
 **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ,
@@ -361,8 +347,6 @@ November 2014 (cover story)
 
 ### Select presentations
 
-------------------------------------------------------------------------
-
 - **Invited pannelist - AusBioTech 2022** Extract maximum value from
   your data with high-performance computing.
 
@@ -429,8 +413,6 @@ November 2014 (cover story)
   Medical Research Annual Meeting 2012. Adelaide, Australia*.
 
 ### Teaching
-
-------------------------------------------------------------------------
 
 - Lecturer, Masters of Biotechnology, School of Chemistry and
   Biochemistry, The University of Western Australia (2019, 2020, 2021).
