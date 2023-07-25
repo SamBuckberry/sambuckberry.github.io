@@ -68,7 +68,7 @@ systems for Indigenous data sovereignty
 
 - **Project lead for stem cell epigenetics program**  
     - Project lead for correcting epigenetic memory in human iPS cells. See
-[**Buckberry et al. (2023) **]()  
+[**Buckberry et al. (2023) _In Press_**]()  
     - Developed a patent for improving human iPS cell reprogramming. See
 [Methods of Reprogramming a Cell
 (2019)](https://patents.google.com/patent/US20220403343A1/en)  
@@ -79,7 +79,7 @@ epigentic profiling of iPSC reprogramming pulished in
 *[Nature](https://doi.org/10.1038/s41586-020-2734-6)* and *[Cell
 Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*  
 
-- Contributer to epigenetics of brain development and function program
+- **Contributor to epigenetics of brain development and function program**
   - Key contributions to work on Alzheimer’s disease, epigenetics of
     brain development, evolution of neuron-specific DNA methylation
     published in *[Cell](https://doi.org/10.1016/j.cell.2022.09.039),
@@ -87,10 +87,10 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
     [Nature Communications](https://doi.org/10.1038/s41467-021-23111-1),
     [Nature Ecology & Evolution](doi:10.1038/s41559-020-01371-2), [Cell
     Reports](http://www.ncbi.nlm.nih.gov/pubmed/28793267)*
-- Developer: Custom analysis pipelines for MethylC-seq, ATAC-seq,
+- **Developer:** Custom analysis pipelines for MethylC-seq, ATAC-seq,
   ChIP-seq, RNA-seq and data integration.
-- Lecturer for Masters of Biotechnology  
-- Supervision: 1 honours, 2 masters, 1 PhD
+- **Lecturer:** Master of Biotechnology, Masters of Bioinformatics  
+- **Supervision:** 1 Honours, 2 Masters, 1 PhD
 
 ### Research funding
 
