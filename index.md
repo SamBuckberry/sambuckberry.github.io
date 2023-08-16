@@ -4,9 +4,9 @@
 [**Google Scholar**](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) \| [**ORCID**](https://orcid.org/0000-0003-2388-6046) \| [**LinkedIn**](https://www.linkedin.com/in/sambuckberry/)
 
 ### About
-I am a biologist with extensive experience in epigenetics, genomics and bioinformatics. 
+I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health. 
 
-I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused at the intersection of genomics, precision medicine and public health to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to incorporate best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
+I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused using epigenetics, genomics, and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
 
 I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation. 
 
@@ -19,11 +19,6 @@ Telethon Kids Institute
 **[Senior Lecturer \| Australian National
 University](https://researchers.anu.edu.au/researchers/buckberry-s)**  
 ANU College of Health and Medicine
-
-Executive Committee: [AGTA - Australasian Genomics Technology
-Association](https://agtagenomics.org.au) (2017-)
-
-Human Research Ethics Committee: WA Department of Health (2020-)
 
 ### Education
 
@@ -51,15 +46,12 @@ Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseas
 **Black Ochre Data Labs**  
 
 - **Project lead:** Whole genome DNA methylation profiling of Type-2
-diabetes PROPHECY cohort (n=1,400) for precision medicine  
+diabetes in the prospective longitudinal PROPHECY cohort (n=1,400) for precision medicine  
 - **Project lead:** MRFF Genomics Health Futures Mission Grant
 (2022-2024) Establishing epigenetic biomarkers in Indigenous Australians
 for precision health  
-- **Architect and developer:** Computational
-systems for Indigenous data sovereignty  
-- **Contributor:** Australian Alliance for Indigenous Genomics (ALIGN)  
-    - Data sovereignty, privacy and security  
-    - Education and outreach  
+- **Architect and developer:** Computational systems for Indigenous data sovereignty  
+- **Contributor:** Australian Alliance for Indigenous Genomics (ALIGN) 
 
 #### **The University of Western Australia (2015-2021)**
 
@@ -68,14 +60,14 @@ systems for Indigenous data sovereignty
 
 - **Project lead for stem cell epigenetics program**  
     - Project lead for correcting epigenetic memory in human iPS cells. See
-[**Buckberry et al. (2023) _In Press_**]()  
+[**Buckberry et al. (2023) _Nature_**](https://www.nature.com/articles/s41586-023-06424-7)  
     - Developed a patent for improving human iPS cell reprogramming. See
 [Methods of Reprogramming a Cell
 (2019)](https://patents.google.com/patent/US20220403343A1/en)  
     - Project lead for multi-omics time-course profiling of iPS cell
 reprogramming. See [Knaupp & Buckberry et al. (2017) *Cell Stem
 Cell*](https://doi.org/10.1016/j.stem.2017.11.007) - Contributer to
-epigentic profiling of iPSC reprogramming pulished in
+epigentic profiling of iPSC reprogramming published in
 *[Nature](https://doi.org/10.1038/s41586-020-2734-6)* and *[Cell
 Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*  
 
@@ -91,6 +83,17 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
   ChIP-seq, RNA-seq and data integration.
 - **Lecturer:** Master of Biotechnology, Masters of Bioinformatics  
 - **Supervision:** 1 Honours, 2 Masters, 1 PhD
+
+### Service
+**Australasian Genomics Technology Association (AGTA)** - Executive Committee (2017-)  
+
+**WA Department of Health Human Research Ethics Committee** (2020-)  
+
+**Grant reviewer:** NHMRC, New Zealand Heart Foundation, WA Department of Health 
+
+**Journal reviewer:** BMC Genomics, Genome Research, Clinical Epigenetics, Molecular Therapy, Oncogenesis, Placenta, F1000 Research, Scientific Reports, among others.   
+
+**STEM mentor:** School of Indigenous Studies, The University of Western Australia (2018)
 
 ### Research funding
 
@@ -153,6 +156,8 @@ Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
 ### Academic publications
+
+**Buckberry S**, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, Breen J, Faulkner GJ, Nefzger CM, Polo JM & Lister R (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. ***[Nature](https://www.nature.com/articles/s41586-023-06424-7)*** 620, 7975
 
 Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J,
 **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ,
