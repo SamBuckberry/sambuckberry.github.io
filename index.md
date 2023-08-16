@@ -6,7 +6,7 @@
 ### About
 I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health. 
 
-I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused using epigenetics, genomics, and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
+I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
 
 I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation. 
 
