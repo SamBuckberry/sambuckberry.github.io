@@ -4,7 +4,7 @@
 [**Google Scholar**](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) \| [**ORCID**](https://orcid.org/0000-0003-2388-6046) \| [**LinkedIn**](https://www.linkedin.com/in/sambuckberry/)
 
 ### About
-I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health. 
+I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health.  
 
 I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
 
@@ -154,6 +154,15 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 Cell. International patent PCT/AU2019/051296 [World Intellectual
 Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
+
+### Media publications
+
+**Buckberry S** *A ‘memory wipe’ for stem cells may be the key to better therapies.* ***[The Conversation](https://theconversation.com/a-memory-wipe-for-stem-cells-may-be-the-key-to-better-therapies-206230)*** 17 Aug 2023 (re-published >25 outlets)
+
+**Buckberry S** & Roberts CT. *Why are males more at risk in the
+womb?* ***[Australasian
+Science](https://search.informit.org/doi/epdf/10.3316/informit.520963373823745)***,
+November 2014 (cover story)
 
 ### Academic publications
 
@@ -342,13 +351,6 @@ understanding of undergraduate students with an active pedagogical
 approach. ***[Evolution, Education &
 Outreach](http://link.springer.com/article/10.1007/s12052-012-0416-z)***
 5(2):266-273
-
-### Feature articles
-
-**Buckberry S** & Roberts CT (2014). Why are males more at risk in the
-womb? ***[Australasian
-Science](https://search.informit.org/doi/epdf/10.3316/informit.520963373823745)***,
-November 2014 (cover story)
 
 ### Select presentations
 
