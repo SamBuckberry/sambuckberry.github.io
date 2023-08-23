@@ -166,7 +166,7 @@ November 2014 (cover story)
 
 ### Academic publications
 
-**Buckberry S**, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, Breen J, Faulkner GJ, Nefzger CM, Polo JM & Lister R (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. ***[Nature](https://www.nature.com/articles/s41586-023-06424-7)*** 620, 7975
+**Buckberry S**, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, Breen J, Faulkner GJ, Nefzger CM, Polo JM & Lister R (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. ***[Nature](https://www.nature.com/articles/s41586-023-06424-7)*** 620, 863–872
 
 Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J,
 **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ,
