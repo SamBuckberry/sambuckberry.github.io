@@ -1,3 +1,7 @@
+---
+output:
+  html_document: default
+---
 ## **Sam Buckberry, PhD**
 
 <sam.buckberry@telethonkids.org.au>  
@@ -8,7 +12,9 @@ I am a biologist who works at the intersection of epigenetics, genomics, bioinfo
 
 I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
 
-I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation. 
+From 2015-2021, I was a post-doctoral researcher in the [Lister Lab](https://listerlab.org/), where my research focused on DNA methylation and its role in epigenetic gene regulation. This included characterising the epigenome in stem cell reprogramming and human brain development and ageing. I worked extensively with whole genome DNA methylation, ATAC-seq, ChIP-seq and RNA-seq data and developed customised analysis frameworks.
+
+I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation.
 
 ### Current roles
 
@@ -155,14 +161,17 @@ Cell. International patent PCT/AU2019/051296 [World Intellectual
 Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
-### Media publications
+### Media publications and public engagement
 
 **Buckberry S** *A ‘memory wipe’ for stem cells may be the key to better therapies.* ***[The Conversation](https://theconversation.com/a-memory-wipe-for-stem-cells-may-be-the-key-to-better-therapies-206230)*** 17 Aug 2023 (re-published >25 outlets)
+
+*Using Big Data to Understand the Human Brain* [Pint of Science Festival (2018)](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything).  
 
 **Buckberry S** & Roberts CT. *Why are males more at risk in the
 womb?* ***[Australasian
 Science](https://search.informit.org/doi/epdf/10.3316/informit.520963373823745)***,
 November 2014 (cover story)
+
 
 ### Academic publications
 
@@ -189,7 +198,7 @@ Simmons R, **Buckberry S**, Landin, DV, Pflueger J, Vandekolk TH, Abay
 Z, Zhou Y, Liu X, Chen J, Larcombe M, Haynes JM, McLean C, Williams S,
 Chai SY, Wilson T, Lister R, Pouton CW, Purcell AW, Rackham OJL,
 Petretto E & Polo JM (2021). Transcriptional signature in microglia
-associated with Aβ plaque phagocytosis. ***[Nature
+associated with AB plaque phagocytosis. ***[Nature
 Communications](https://doi.org/10.1038/s41467-021-23111-1)***. 12, 3015
 
 de Mendoza A, Poppe D, **Buckberry S**, Pflueger J, Albertin CB, Daish
