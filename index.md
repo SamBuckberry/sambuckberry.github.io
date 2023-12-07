@@ -128,6 +128,7 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 
 ### Awards and recognition
 
+- 2023 Mid-Career Research Award - Australian Bioinformatics and Computational Biology Society (ABACBS)
 - Finalist (1 of 4): [Woodside Early Career Scientist of the Year
   (2020), WA Premier’s Science
   Awards](https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation/premiers-science-award-winners)
