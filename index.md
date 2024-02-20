@@ -162,11 +162,14 @@ Cell. International patent PCT/AU2019/051296 [World Intellectual
 Property Organization
 (WIPO)](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021102500)
 
-### Media publications and public engagement
+### Media and public engagement
 
-**Buckberry S** *A ‘memory wipe’ for stem cells may be the key to better therapies.* ***[The Conversation](https://theconversation.com/a-memory-wipe-for-stem-cells-may-be-the-key-to-better-therapies-206230)*** 17 Aug 2023 (re-published >25 outlets)
 
-*Using Big Data to Understand the Human Brain* [Pint of Science Festival (2018)](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything).  
+**Buckberry S** [***Epigenetics Podcast***](https://www.activemotif.com/podcasts-sam-buckberry) Episode 117 January 25, 2024 (38 minute interview) [[Apple podcasts]](https://podcasts.apple.com/us/podcast/sex-biased-imprinting-and-dna-regulatory-landscapes/id1246991088?i=1000642880515) [[YouTube]](https://youtu.be/Nl2duuaN87Y)
+
+**Buckberry S** *A ‘memory wipe’ for stem cells may be the key to better therapies.* ***[The Conversation](https://theconversation.com/a-memory-wipe-for-stem-cells-may-be-the-key-to-better-therapies-206230)*** 17 Aug 2023 (re-published >25 outlets; translated into Japanese and published in Newsweek Japan in print)
+
+**Buckberry S** *Using Big Data to Understand the Human Brain* [Pint of Science Festival (2018)](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything).  
 
 **Buckberry S** & Roberts CT. *Why are males more at risk in the
 womb?* ***[Australasian
