@@ -102,6 +102,9 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 **STEM mentor:** School of Indigenous Studies, The University of Western Australia (2018)
 
 ### Research funding
+- NHMRC Investigator Grant, Emerging Leadership 2: Precision Medicine for Indigenous Australians: Epigenetic biomarkers to improve cardiometabolic disease prediction, management and prevention (2025-2029) **\$1,603,775 (CIA)**
+
+- WA Child Research Fund: Kids Easy Breathing Study (2023-2026) **\$600,000**
 
 - MRFF Early to Mid-Career Researchers: The missing heritability of
   human disease: discovery to implementation (2022-2027) **\$4,877,532**
@@ -110,21 +113,13 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
   epigenetic biomarkers in Indigenous Australians for precision health
   **\$991,506**
 
-- WA Department of Health Merit Award (2020) **BUCKBERRY S (CIA)
-  \$95,000**
+- WA Department of Health Merit Award (2020) **\$95,000 (CIA)**
 
-- NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019):
-  The Role of the neuronal methylome in natural brain ageing and the
-  progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA)
-  \$584,644**
+- NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **\$584,644 (CIA)**
 
-- Robinson Research Institute Seed Funding (2015-2016): A multi-faceted
-  approach to understanding the consequences of diabetes in early
-  pregnancy. **\$25,000**
+- Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy. **\$25,000**
 
-- Robinson Research Institute Seed Funding (2014-2015): Investigating
-  new mechanisms regulating transcription in the pre-implantation
-  embryo. **\$25,000**
+- Robinson Research Institute Seed Funding (2014-2015): Investigating new mechanisms regulating transcription in the pre-implantation embryo. **\$25,000**
 
 ### Awards and recognition
 
