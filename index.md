@@ -174,7 +174,11 @@ November 2014 (cover story)
 
 ### Academic publications
 
+Oliva A, Kaphle A, Reguant R, Sng LM, Twine NA, Malakar Y, Wickramarachchi A, Keller M, Ranbaduge T, Chan EK, Breen J, **Buckberry S**, Guennewig B, Haas M, Brown A, Cowley MJ, Thorne N, Jain Y, Bauer DC (2024). Future-proofing genomic data and consent management: a comprehensive review of technology innovations. ***[GigaScience](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae021/7688273)*** 13, giae021
+
 **Buckberry S**, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, Breen J, Faulkner GJ, Nefzger CM, Polo JM & Lister R (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. ***[Nature](https://www.nature.com/articles/s41586-023-06424-7)*** 620, 863–872
+
+Khurana I, Howard NJ, Maxwell S, Du Preez A, Kaipananickal H, Breen J, **Buckberry S**, Okabe J, Al-Hasani K, Nakasatien S, Himathongkam T, Cooper ME, Maple-Brown L, Thewjitcharoen Y, Brown A. & El-Osta, A (2023). Circulating epigenomic biomarkers correspond with kidney disease susceptibility in high-risk populations with type 2 diabetes mellitus. ***[Diabetes Research and Clinical Practice](https://doi.org/10.1016/j.diabres.2023.110918)*** 204, 110918
 
 Herring CA, Simmons RK, Freytag S, Poppe D, Moffet JJD, Pflueger J,
 **Buckberry S**, Vargas-Landin DB, Clément O, Echeverría EG, Sutton GJ,
