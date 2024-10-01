@@ -365,8 +365,11 @@ Outreach](http://link.springer.com/article/10.1007/s12052-012-0416-z)***
 5(2):266-273
 
 ### Select presentations
+- Expanding the Boundaries of Epigenetic Analysis; 13 September 2024. *Baker Heart and Diabetes Institute, Melbourne* **Invited presentation**
 
-- **Invited pannelist - AusBioTech 2022** Extract maximum value from
+- Unlocking the power of epigenetics. *Combined Biological Sciences Meeting WA* 30 August 2024. **Invited presentation**. 
+
+- **Invited panellist - AusBioTech 2022** Extract maximum value from
   your data with high-performance computing.
 
 - Overcoming the epigenetic barriers to cellular reprogramming. *South
