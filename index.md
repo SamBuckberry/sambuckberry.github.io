@@ -19,8 +19,8 @@ I am impact-focused and enjoy developing bespoke analysis frameworks for complex
 ### Current roles
 
 **[Head, Epigenetics \| Indigenous
-Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
-Telethon Kids Institute
+Genomics](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
+The Kids Research Institute Australia
 
 **[Senior Lecturer \| Australian National
 University](https://researchers.anu.edu.au/researchers/buckberry-s)**  
@@ -45,7 +45,7 @@ Extended Major in Biological Sciences
 
 ### Postdoctoral work history
 
-#### **Telethon Kids Institute \| Australian National University (2022-present)**
+#### **The Kids Research Institute Australia \| Australian National University (2022-present)**
 
 **[Head, Epigenetics \| Indigenous
 Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
