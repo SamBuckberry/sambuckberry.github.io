@@ -36,7 +36,7 @@ transcriptome.*
 
 **Bachelor of Health Science - Honours (2011)**  
 The University of Adelaide  
-*Awawrded first class honours*
+*Awarded first class honours*
 
 **Bachelor of Science (2008-2010)**  
 Flinders University  
@@ -48,7 +48,7 @@ Extended Major in Biological Sciences
 #### **The Kids Research Institute Australia \| Australian National University (2022-present)**
 
 **[Head, Epigenetics \| Indigenous
-Genomics](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
+Genomics](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 **Black Ochre Data Labs**  
 
 - **Project lead:** Whole genome DNA methylation profiling of Type-2
@@ -73,7 +73,7 @@ for precision health
     - Project lead for multi-omics time-course profiling of iPS cell
 reprogramming. See [Knaupp & Buckberry et al. (2017) *Cell Stem
 Cell*](https://doi.org/10.1016/j.stem.2017.11.007) - Contributer to
-epigentic profiling of iPSC reprogramming published in
+epigenetic profiling of iPSC reprogramming published in
 *[Nature](https://doi.org/10.1038/s41586-020-2734-6)* and *[Cell
 Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*  
 
