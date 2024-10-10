@@ -4,13 +4,13 @@ output:
 ---
 ## **Sam Buckberry, PhD**
 
-<sam.buckberry@telethonkids.org.au>  
+<sam.buckberry@thekids.org.au>  
 [**Google Scholar**](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) \| [**ORCID**](https://orcid.org/0000-0003-2388-6046) \| [**LinkedIn**](https://www.linkedin.com/in/sambuckberry/)
 
 ### About
 I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health.  
 
-I currently lead the Epigenetics program in Indigenous Genomics at the [Telethon Kids Institute](https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
+I currently lead the Epigenetics program in Indigenous Genomics at the [The Kids Research  Institute Australia](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
 
 From 2015-2021, I was a post-doctoral researcher in the [Lister Lab](https://listerlab.org/), where my research focused on DNA methylation and its role in epigenetic gene regulation. This included characterising the epigenome in stem cell reprogramming and human brain development and ageing. I worked extensively with whole genome DNA methylation, ATAC-seq, ChIP-seq and RNA-seq data and developed customised analysis frameworks.
 
