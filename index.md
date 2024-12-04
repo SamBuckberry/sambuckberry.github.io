@@ -7,24 +7,25 @@ output:
 <sam.buckberry@thekids.org.au>  
 [**Google Scholar**](https://scholar.google.com.au/citations?hl=en&user=b--b_fUAAAAJ) \| [**ORCID**](https://orcid.org/0000-0003-2388-6046) \| [**LinkedIn**](https://www.linkedin.com/in/sambuckberry/)
 
-### About
-I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health.  
-
-I currently lead the Epigenetics program in Indigenous Genomics at the [The Kids Research  Institute Australia](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
-
-From 2015-2021, I was a post-doctoral researcher in the [Lister Lab](https://listerlab.org/), where my research focused on DNA methylation and its role in epigenetic gene regulation. This included characterising the epigenome in stem cell reprogramming and human brain development and ageing. I worked extensively with whole genome DNA methylation, ATAC-seq, ChIP-seq and RNA-seq data and developed customised analysis frameworks.
-
-I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation.
-
 ### Current roles
 
-**[Head, Epigenetics \| Indigenous
+**[NHMRC Emerging Leadership Investigator (EL2)   
+Head, Epigenetics \| Indigenous
 Genomics](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/)**  
 The Kids Research Institute Australia
 
 **[Senior Lecturer \| Australian National
 University](https://researchers.anu.edu.au/researchers/buckberry-s)**  
 ANU College of Health and Medicine
+
+### About
+I am a biologist who works at the intersection of epigenetics, genomics, bioinformatics, medical research and public health.  
+
+I currently lead the Epigenetics program in Indigenous Genomics at the [The Kids Research Institute Australia](https://www.thekids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/). Here, my research is focused on using genomics technologies and cutting-edge data analytics to advance chronic disease prediction, prevention, and treatment. I also work on innovating ways to implement best practices in indigenous data sovereignty, privacy and security into state-of-the-art data systems for public and precision health. 
+
+From 2015-2021, I was a post-doctoral researcher in the [Lister Lab](https://listerlab.org/), where my research focused on DNA methylation and its role in epigenetic gene regulation. This included characterising the epigenome in stem cell reprogramming and human brain development and ageing. I worked extensively with whole genome DNA methylation, ATAC-seq, ChIP-seq and RNA-seq data and developed customised analysis frameworks.
+
+I am impact-focused and enjoy developing bespoke analysis frameworks for complex biological questions. I have broad experience in molecular and cell biology, scientific programming, high-performance computing, statistics and data visualisation.
 
 ### Education
 
@@ -123,7 +124,7 @@ Reports](https://doi.org/10.1016/j.celrep.2017.11.029)*
 
 ### Awards and recognition
 
-- 2023 Mid-Career Research Award - Australian Bioinformatics and Computational Biology Society (ABACBS)
+- [2023 Outstanding Mid-Career Researcher Award - Australian Bioinformatics and Computational Biology Society (ABACBS)](https://www.abacbs.org/awards). 
 - Finalist (1 of 4): [Woodside Early Career Scientist of the Year
   (2020), WA Premier’s Science
   Awards](https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation/premiers-science-award-winners)
