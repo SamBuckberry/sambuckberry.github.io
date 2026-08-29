@@ -1,4 +1,4 @@
-# Homepage copy — round 4
+# Homepage copy — round 5
 
 Your edits are applied and live at the prototype. This file is the current state
 of the copy. Same convention: each heading is a **slot** on the page, the text
@@ -206,21 +206,30 @@ document it.
 ---
 
 The standard guarantee of reproducible research is that another group can obtain
-the data and re-run the analysis. For much of this work that guarantee is
-unavailable by construction. The data are held under agreements with the
-communities they came from, and they do not leave the environment that holds them.
+the data and re-run the analysis. For human genomic data that guarantee rarely
+holds. Access is restricted by construction — by consent conditions, ethics
+approvals and data-sharing agreements — and as genetic privacy becomes a sharper
+concern, those restrictions are tightening rather than easing.
 
-Where analysis must run inside a sovereign environment and the underlying data
+Where analysis must run inside a controlled environment and the underlying data
 cannot leave it, auditability is not a matter of good practice — it is the only
 basis on which anyone outside that environment can evaluate a result.
 
-So the burden moves onto the analysis itself. A population-scale methylome study is
-a long sequence of decisions: coverage and quality thresholds, correction for batch
-and cell-type composition, the choice of covariates, the handling of relatedness.
-Each is defensible alone, and together they define a garden of forking paths in
-which a study can arrive at a confident wrong answer without any step visibly
-failing. What can be exported is the record — which path was taken, what was tested
-against negative controls and permutation, and what those tests ruled out.
+Meeting that standard needs tooling the field does not yet have. The documents that
+govern this work — approvals, consent conditions, governance agreements — are
+written in prose and read by people. The analyses they govern run in code and are
+read by almost no one. Closing that gap means translating governance into
+constraints a system can enforce, so that an analysis is bounded by the question it
+was approved for and cannot quietly extend into questions it was not.
+
+Within those bounds, the burden falls back on the analysis itself. A
+population-scale methylome study is a long sequence of decisions: coverage and
+quality thresholds, correction for batch and cell-type composition, the choice of
+covariates, the handling of relatedness. Each is defensible alone, and together
+they define a garden of forking paths in which a study can arrive at a confident
+wrong answer without any step visibly failing. What can leave the environment is
+the record — which path was taken, what was tested against negative controls and
+permutation, and what those tests ruled out.
 
 **Pull quote:**
 
@@ -229,15 +238,14 @@ analysis can be shown to be wrong.
 
 **Diagram:** removed.
 
-> You were right that "Analysis you can audit" was paraphrasing reproducible
-> research — and reaching for a new name for an established concept reads as naive
-> to this audience. The section is rebuilt around the thing that is genuinely
-> particular to your situation: the standard guarantee is *unavailable* to you, so
-> auditability isn't best practice, it's the only remaining basis for trust. Both
-> passages you liked are kept, and the governance one is now the second paragraph
-> rather than an afterthought at the end. The forking-paths material is compressed
-> from two paragraphs to one clause, which is also why the diagram is no longer
-> carrying anything.
+> The framing is now field-level rather than local: the problem belongs to human
+> genomic data generally, not to your cohorts specifically, and genetic privacy
+> tightening is named as the direction of travel.
+>
+> The third paragraph is the new claim, and it is the one that distinguishes this
+> section from Q6. Q6 asks who can get *in*; this asks what you are permitted to
+> *ask* once you are there. Stated as a gap in the field's tooling rather than as
+> something already solved.
 
 ## 7. Selected publications
 
