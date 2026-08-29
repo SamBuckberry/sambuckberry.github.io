@@ -1,4 +1,4 @@
-# Homepage copy — round 3
+# Homepage copy — round 4
 
 Your edits are applied and live at the prototype. This file is the current state
 of the copy. Same convention: each heading is a **slot** on the page, the text
@@ -33,66 +33,50 @@ they reveal to understand, predict and prevent disease.
 
 Our work spans scales: from the regulatory mechanisms that establish and maintain
 DNA methylation in single cells, to whole-genome methylomes across longitudinal
-human cohorts of more than a thousand participants. We develop the computational
+human cohorts. We develop the computational
 and statistical methods needed to interpret those data, and increasingly the
 agentic systems needed to analyse them at scale.
 
 **Affiliation line:**
 
 Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia.
-Adjunct Senior Lecturer at The University of Western Australia and the Australian
-National University. NHMRC Emerging Leadership Fellow.
+NHMRC Emerging Leadership Fellow. Adjunct Senior Lecturer at The University of
+Western Australia and the Australian National University.
 
 ---
 
 ## 3. Hero figure — four-panel composite
 
-**A · epigenome-wide scan.** Manhattan across the genome, one locus above the
-significance threshold, labelled `chr8`. Zoom guides fan down to panel B.
+**A · epigenome-wide scan.** Manhattan, one locus above threshold, labelled `chr8`.
+Zoom guides fan down to panel B.
 
 **B · methylation at that locus.** Two groups, identical across flanking sequence,
-separating at a CpG island. Difference shaded and measured: `Δ 34%`.
-Legend: `unaffected` / `affected`.
+separating where CG density is highest. `Δ 34%` retained — the one hard number left.
 
-**C · variant association.** Local variants tested against methylation, −log₁₀P on
-the same x scale as B. The lead mQTL now sits **well distal** — roughly 6 kb to the
-right, clearly outside the island band — with a dashed connector running back to a
-single highlighted CpG at the centre of the methylation change.
+**C · variant association.** −log₁₀P on the same x scale. Numeric axis removed.
+Lead mQTL sits ~6 kb distal, outside the shaded region.
 
-**Annotation strip.** CpG density ticks, the target CpG marked in the accent
-colour, `CpG island`, `20 kb` window. **Gene model removed.**
+**CG density track.** Labelled at top left, like the other panels. `CpG island` text
+removed — the band plus the tick density carries it without saying it. A sashimi
+arc runs from the variant to the target CpG, annotated only `6 kb`.
 
-**D · variance partition.** Genetics 34% · Cell composition 21% · Environment 18% ·
-Development 12% · Unexplained 15%.
+**D · variance partition.** Proportional segments, no percentages: Genetics ·
+Cell composition · Environment · Development · Unexplained.
 
 **Caption:**
 
 A model of one part of the work, not real data. **A** An epigenome-wide scan
 identifies a differentially methylated region. **B** There, two groups are
-indistinguishable across the flanking sequence and separate at a CpG island.
-**C** Testing nearby variants for association with methylation puts the lead mQTL
-several kilobases away, acting on the CpG at the centre of the change from a
-distance. **D** The variance is partitioned between genetics, cell composition,
-environment and development. Finding the difference is the easy part; attributing
-it is the work.
-
-> Gene model dropped, as you suggested — you were right that it was carrying an
-> implication the figure does not need, and losing it also removes the "promoter"
-> framing, so the story is now distal regulation rather than a promoter effect.
-> The window widened from 8 kb to 20 kb to make room for a genuinely distal variant.
->
-> **[open]** The variance percentages are still invented. Give me plausible
-> numbers, or say to drop the numbers and label segments only.
->
-> **[open]** `chr8` and "6 kb distal" are both arbitrary. Name a chromosome and a
-> distance if you have preferences.
-
----
+indistinguishable across the flanking sequence and separate where CG density is
+highest. **C** Testing nearby variants for association with methylation puts the
+lead mQTL several kilobases away, acting on the CpG at the centre of the change
+from a distance. **D** The variance is partitioned between genetics, cell
+composition, environment and development. Finding the difference is the easy part;
+attributing it is the work.
 
 ## 4. Research questions
 
 **Section eyebrow:** Open · **Heading:** Research questions
-**Note:** What the current programme is pointed at.
 
 ---
 
@@ -161,11 +145,15 @@ sits squarely at the intersection of genomics, privacy, data security and AI.
 
 ---
 
-**PROPHECY methylomes**
+**PROPHECY epigenetics program**
 
-Whole-genome sequencing and EM-seq methylome profiling across a longitudinal
-cohort of more than 1,200 participants with deep phenotyping, sampled repeatedly
-over follow-up.
+PROPHECY is an Aboriginal longitudinal cohort established to investigate
+cardiometabolic disease: multi-omic, deeply phenotyped, and now more than 1,200
+participants. Our program within it is whole-genome sequencing and EM-seq methylome
+profiling, sampled repeatedly across follow-up.
+
+> Placeholder framing — you said you'd add the detail. Correct anything wrong about
+> the cohort description before it goes live.
 
 *Meta:* NHMRC Investigator Grant · 2025–2029
 
@@ -185,7 +173,7 @@ prediction in the populations where the burden is greatest.
 
 ---
 
-**Sovereignty by design**
+**Data sovereignty by design**
 
 Computational systems in which governance conditions agreed with participating
 communities are enforced by the architecture itself, so that population-scale
@@ -212,57 +200,44 @@ document it.
 
 ## 6. Method
 
-**Section eyebrow:** Method · **Heading:** Analysis you can audit
-**Note:** How the computational work is structured.
+**Section eyebrow:** Method · **Heading:** Reproducibility without the data
+**Note:** Why the usual guarantee is unavailable, and what replaces it.
 
 ---
 
-A population-scale methylome study is a long sequence of analytical decisions:
-coverage and quality thresholds, correction for batch and cell-type composition,
-the choice of covariates, the handling of relatedness and population structure.
-Each is defensible in isolation; together they define a garden of forking paths,
-and a study can arrive at a confident wrong answer without any step visibly
-failing.
+The standard guarantee of reproducible research is that another group can obtain
+the data and re-run the analysis. For much of this work that guarantee is
+unavailable by construction. The data are held under agreements with the
+communities they came from, and they do not leave the environment that holds them.
 
-We therefore treat provenance as a first-order requirement rather than
-documentation added afterwards. Analyses record the decisions they made and the
-evidence for them; assumptions are tested against negative controls and
-permutation rather than asserted; and results carry enough of their own history
-for another group to reproduce or contest them. Code is released openly wherever
-the governing data agreements permit.
+Where analysis must run inside a sovereign environment and the underlying data
+cannot leave it, auditability is not a matter of good practice — it is the only
+basis on which anyone outside that environment can evaluate a result.
+
+So the burden moves onto the analysis itself. A population-scale methylome study is
+a long sequence of decisions: coverage and quality thresholds, correction for batch
+and cell-type composition, the choice of covariates, the handling of relatedness.
+Each is defensible alone, and together they define a garden of forking paths in
+which a study can arrive at a confident wrong answer without any step visibly
+failing. What can be exported is the record — which path was taken, what was tested
+against negative controls and permutation, and what those tests ruled out.
 
 **Pull quote:**
 
 The question is not whether a model can write the analysis. It is whether the
 analysis can be shown to be wrong.
 
-**Closing paragraph:**
+**Diagram:** removed.
 
-The same requirement follows from the governance model. Where analysis must run
-inside a sovereign environment and the underlying data cannot leave it,
-auditability is not a matter of good practice — it is the only basis on which
-anyone outside that environment can evaluate a result.
-
-**Diagram — replaced entirely:**
-
-A branching tree. From `reads`, three analytical decisions — `coverage & quality`,
-`batch structure`, `cell composition` — each split the analysis in two, producing
-eight endpoints. One path is drawn in the accent colour and labelled `reported`.
-Two endpoints carry a cross: `negative control` and `permutation`.
-
-Annotation beneath: "Three decisions, eight defensible answers. A methylome
-pipeline makes dozens. The analysis records the path it took, and what ruled the
-alternatives out."
-
-> The pipeline-with-an-agent-box diagram is gone. It was generic, and it did not
-> illustrate the argument the section actually makes. This one draws the garden of
-> forking paths from your first paragraph directly, and shows provenance as the
-> thing that makes one path defensible — which is the section's real claim.
->
-> **[open]** The three decisions shown are the ones from your prose. Swap them for
-> whichever three are most characteristic of your pipeline.
-
----
+> You were right that "Analysis you can audit" was paraphrasing reproducible
+> research — and reaching for a new name for an established concept reads as naive
+> to this audience. The section is rebuilt around the thing that is genuinely
+> particular to your situation: the standard guarantee is *unavailable* to you, so
+> auditability isn't best practice, it's the only remaining basis for trust. Both
+> passages you liked are kept, and the governance one is now the second paragraph
+> rather than an afterthought at the end. The forking-paths material is compressed
+> from two paragraphs to one clause, which is also why the diagram is no longer
+> carrying anything.
 
 ## 7. Selected publications
 
