@@ -1,4 +1,4 @@
-# Homepage copy — round 2
+# Homepage copy — round 3
 
 Your edits are applied and live at the prototype. This file is the current state
 of the copy. Same convention: each heading is a **slot** on the page, the text
@@ -25,34 +25,9 @@ Epigenetics of Health and Disease
 
 **Statement (large serif, under the H1):**
 
-Genetic variation, development, cell identity, environment and life history are
-all written into the epigenome. We work to resolve their separate contributions,
-and to use what that resolves into — to understand, predict and prevent disease.
-
-> **[open]** You asked for alternatives to "converge/convergence" and said the
-> measuring didn't quite make sense. The line above is my current pick, but the
-> tail ("what that resolves into") is still awkward. Four alternatives:
->
-> **A.** The epigenome records the combined action of genetic variation,
-> development, cell identity and environment. We work to separate those
-> contributions, and to use what they reveal to understand, predict and prevent
-> disease.
->
-> **B.** Genetic variation, development, cell identity and environment each leave
-> their trace on the epigenome. Disentangling those traces is how we get from an
-> observed difference to an explanation, and from an explanation to a prediction.
->
-> **C.** The epigenome integrates genetic variation, development, cell identity
-> and environment. We work to decompose that integration across scales, from
-> single cells to whole cohorts, to understand, predict and prevent disease.
->
-> **D.** Genetic variation, development, cell identity, environment and life
-> history are all inscribed in the epigenome. Our work is to tell them apart —
-> and to make what they encode clinically useful.
->
-> My preference is **A**: "records the combined action" avoids the convergence
-> problem, and "separate those contributions" is what you actually do. **B** is
-> the most distinctive if you want something less standard.
+The epigenome records the combined action of genetic variation, development, cell
+identity and environment. We work to separate those contributions, and to use what
+they reveal to understand, predict and prevent disease.
 
 **Lead paragraph:**
 
@@ -64,50 +39,53 @@ agentic systems needed to analyse them at scale.
 
 **Affiliation line:**
 
-Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia
-and the Australian National University. NHMRC Emerging Leadership Fellow. Adjunct
-Senior Lecturer, The University of Western Australia.
-
-> **[open]** Your edit changed ANU to UWA in the first sentence, which left UWA
-> appearing twice, but you also gave me the ANU link. I've read that as a slip and
-> restored ANU (linked to the JCSMR page you supplied), with UWA kept as the
-> adjunct role. Correct me if you actually meant to drop ANU.
+Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia.
+Adjunct Senior Lecturer at The University of Western Australia and the Australian
+National University. NHMRC Emerging Leadership Fellow.
 
 ---
 
-## 3. Hero figure — now a four-panel composite
+## 3. Hero figure — four-panel composite
 
 **A · epigenome-wide scan.** Manhattan across the genome, one locus above the
 significance threshold, labelled `chr8`. Zoom guides fan down to panel B.
 
 **B · methylation at that locus.** Two groups, identical across flanking sequence,
-separating at the promoter CpG island. Difference shaded and measured: `Δ 34%`.
+separating at a CpG island. Difference shaded and measured: `Δ 34%`.
 Legend: `unaffected` / `affected`.
 
-**C · variant association.** Local SNPs tested against methylation, plotted as
-−log₁₀P on the same x scale as B. Lead mQTL marked with a diamond under the island.
+**C · variant association.** Local variants tested against methylation, −log₁₀P on
+the same x scale as B. The lead mQTL now sits **well distal** — roughly 6 kb to the
+right, clearly outside the island band — with a dashed connector running back to a
+single highlighted CpG at the centre of the methylation change.
 
-**Annotation strip.** CpG density ticks, `CpG island`, transcript model, `8 kb`.
+**Annotation strip.** CpG density ticks, the target CpG marked in the accent
+colour, `CpG island`, `20 kb` window. **Gene model removed.**
 
-**D · variance partition.** Stacked bar: Genetics 34% · Cell composition 21% ·
-Environment 18% · Development 12% · Unexplained 15%.
+**D · variance partition.** Genetics 34% · Cell composition 21% · Environment 18% ·
+Development 12% · Unexplained 15%.
 
 **Caption:**
 
 A model of one part of the work, not real data. **A** An epigenome-wide scan
-identifies a differentially methylated locus. **B** At that locus, two groups are
-indistinguishable across the flanking sequence and separate at the promoter CpG
-island. **C** Local genetic variants are tested for association with methylation;
-a lead mQTL sits under the island. **D** The variance is partitioned between
-genetics, cell composition, environment and development. Finding the difference is
-the easy part; attributing it is the work.
+identifies a differentially methylated region. **B** There, two groups are
+indistinguishable across the flanking sequence and separate at a CpG island.
+**C** Testing nearby variants for association with methylation puts the lead mQTL
+several kilobases away, acting on the CpG at the centre of the change from a
+distance. **D** The variance is partitioned between genetics, cell composition,
+environment and development. Finding the difference is the easy part; attributing
+it is the work.
 
-> **[open]** The variance percentages are invented. Give me numbers that are
-> plausible for your domain, or tell me to drop the numbers and label the segments
-> only.
+> Gene model dropped, as you suggested — you were right that it was carrying an
+> implication the figure does not need, and losing it also removes the "promoter"
+> framing, so the story is now distal regulation rather than a promoter effect.
+> The window widened from 8 kb to 20 kb to make room for a genuinely distal variant.
 >
-> **[open]** `chr8` is arbitrary — I moved it off chr1 because a peak at the far
-> left edge made the zoom fan look wrong. Name a chromosome if you'd prefer.
+> **[open]** The variance percentages are still invented. Give me plausible
+> numbers, or say to drop the numbers and label segments only.
+>
+> **[open]** `chr8` and "6 kb distal" are both arbitrary. Name a chromosome and a
+> distance if you have preferences.
 
 ---
 
@@ -129,13 +107,15 @@ variant in cells to quantifying regulatory variation across a whole cohort.
 **Q2 — How are environment and life history reflected in the epigenome?**
 
 Exposure, development and social circumstance leave molecular signatures that
-genotype alone cannot account for. Resolving those contributions, and establishing
-which are stable, reversible or transmitted between generations, remains the
-harder half of the problem.
+genotype alone cannot account for. Resolving those contributions is the harder half
+of the problem, and it turns on a distinction that is easy to state and difficult
+to establish: which signatures are stable, which are reversible, and which merely
+record an exposure rather than mediating its effect on risk.
 
-> "marks" → "molecular signatures"; em dash removed as you asked. Title reworded
-> to "How are environment and life history reflected in…" — your version had
-> "How does the environment and life history become…" which disagrees in number.
+> Transgenerational inheritance is gone. The replacement ends on the
+> mediator-versus-marker problem, which is a live methodological question in
+> exposure epigenetics and carries none of the same baggage. I checked the whole
+> page: no remaining mention of inheritance across generations.
 
 **Q3 — Can epigenetic signatures become predictive and diagnostic tools that change clinical practice?**
 
@@ -263,15 +243,24 @@ inside a sovereign environment and the underlying data cannot leave it,
 auditability is not a matter of good practice — it is the only basis on which
 anyone outside that environment can evaluate a result.
 
-**Diagram:**
+**Diagram — replaced entirely:**
 
-Cohort → Sequencing → Methylome → Model → Translation, with an agent layer beneath
-containing three stages: `specify → evaluate → register`, annotated
-"held-out data · negative controls · permutation · provenance for every call".
-Methylome feeds into the agent layer; the agent layer returns into Model.
+A branching tree. From `reads`, three analytical decisions — `coverage & quality`,
+`batch structure`, `cell composition` — each split the analysis in two, producing
+eight endpoints. One path is drawn in the accent colour and labelled `reported`.
+Two endpoints carry a cross: `negative control` and `permutation`.
 
-> **[open]** The three agent stages are my guess at your actual loop. Rename them
-> to whatever you really do.
+Annotation beneath: "Three decisions, eight defensible answers. A methylome
+pipeline makes dozens. The analysis records the path it took, and what ruled the
+alternatives out."
+
+> The pipeline-with-an-agent-box diagram is gone. It was generic, and it did not
+> illustrate the argument the section actually makes. This one draws the garden of
+> forking paths from your first paragraph directly, and shows provenance as the
+> thing that makes one path defensible — which is the section's real claim.
+>
+> **[open]** The three decisions shown are the ones from your prose. Swap them for
+> whichever three are most characteristic of your pipeline.
 
 ---
 
@@ -408,7 +397,7 @@ that specifically.
 
 ---
 
-## Applied from your last pass
+## Applied from the previous pass
 
 - H1 unchanged; opening statement rewritten with development and cell identity
 - Lead paragraph rewritten to span single cells to cohorts; "registers/declares" gone
