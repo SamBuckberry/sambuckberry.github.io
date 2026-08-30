@@ -30,7 +30,7 @@ miss anything.
 
 **Identity block — now the first thing in the hero, above the heading:**
 
-Sam Buckberry
+Sam Buckberry, BSc, BHlthSc (Hons), PhD 
 
 Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia.
 NHMRC Emerging Leadership Fellow. Adjunct Senior Lecturer at The University of
@@ -79,15 +79,11 @@ Cell composition · Environment · Development · Unexplained.
 
 **Caption:**
 
-A model of one part of the work, not real data. **A** An epigenome-wide scan
-identifies a differentially methylated region. **B** There, two groups are
-indistinguishable across the flanking sequence and separate where CG density is
-highest. **C** Testing nearby variants for association with methylation puts the
+Model data of one part of the work. Epigenome-wide scans
+identify differentially methylated regions, and testing nearby genetic variants for association with methylation puts the
 lead mQTL several kilobases away, acting on the CpG at the centre of the change
-from a distance. **D** The variance is partitioned between genetics, cell
-composition, environment and development. Finding the difference is the easy part;
-attributing it is the work.
-
+from a distance. This begins the process of partitioning variance between genetics, cell-type
+composition, environment and development.
 ## 4. Research questions
 
 **Section eyebrow:** Open · **Heading:** Research questions
@@ -97,14 +93,14 @@ attributing it is the work.
 **Q1 — How do genetic variants shape DNA methylation in health and disease?**
 
 Most heritability for common disease lies outside coding sequence, in regulatory
-variation we can detect but cannot yet interpret. Mapping the effects of variants
+variation we can detect but cannot yet interpret. This is also the case for many rare and undiagnosed diseases. Mapping the effects of variants
 on the methylome is one route from association to mechanism — and the same logic
 scales in both directions, from modelling a single patient's disease-causing
 variant in cells to quantifying regulatory variation across a whole cohort.
 
 **Q2 — How are environment and life history reflected in the epigenome?**
 
-Exposure, development and social circumstance leave molecular signatures that
+Exposure, development and environment leave molecular signatures that
 genotype alone cannot account for. Resolving those contributions is the harder half
 of the problem, and it turns on a distinction that is easy to state and difficult
 to establish: which signatures are stable, which are reversible, and which merely
