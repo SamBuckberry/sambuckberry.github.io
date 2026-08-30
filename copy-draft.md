@@ -1,4 +1,4 @@
-# Homepage copy — round 5
+# Homepage copy — round 6
 
 Your edits are applied and live at the prototype. This file is the current state
 of the copy. Same convention: each heading is a **slot** on the page, the text
@@ -13,11 +13,31 @@ miss anything.
 
 **Site mark (top left, small):** Sam Buckberry
 
-**Nav links:** Questions · Now · Method · Work · Contact
+**Nav links:** Questions · Projects · Method · CV · Publications
+
+> CV and Publications are now real page links (`/cv/`, `/publications/`), since
+> dropping the publications section removed the only route to those pages. They
+> also appear in the contact block at the foot, because the header scrolls away.
+>
+> **[open]** "Sam Buckberry" now appears twice near the top — once as the site mark,
+> once opening the hero. Common enough on personal sites, and the two are set in
+> different faces, but say the word and I'll drop the mark on the homepage only
+> (keeping it on CV and publications, where it is the way back).
 
 ---
 
 ## 2. Hero
+
+**Identity block — now the first thing in the hero, above the heading:**
+
+Sam Buckberry
+
+Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia.
+NHMRC Emerging Leadership Fellow. Adjunct Senior Lecturer at The University of
+Western Australia and the Australian National University.
+
+*Set small: the name in semibold sans at 0.95rem, the affiliation muted beneath it.
+The heading below is still the largest thing on the page.*
 
 **H1:**
 
@@ -33,15 +53,9 @@ they reveal to understand, predict and prevent disease.
 
 Our work spans scales: from the regulatory mechanisms that establish and maintain
 DNA methylation in single cells, to whole-genome methylomes across longitudinal
-human cohorts. We develop the computational
-and statistical methods needed to interpret those data, and increasingly the
-agentic systems needed to analyse them at scale.
-
-**Affiliation line:**
-
-Head of Epigenetics, Black Ochre Data Labs — The Kids Research Institute Australia.
-NHMRC Emerging Leadership Fellow. Adjunct Senior Lecturer at The University of
-Western Australia and the Australian National University.
+human cohorts. We develop the computational and statistical methods needed to
+interpret those data, and increasingly the agentic systems needed to analyse them
+at scale.
 
 ---
 
@@ -116,25 +130,20 @@ verifiable. We are building and testing workflows where an agent specifies an
 analysis, evaluates it against held-out data and negative controls, and emits a
 record another researcher can reproduce and contest.
 
-**Q5 — Can we build sovereign data systems for population-scale genomics?**
+**Q5 — Can sovereign data systems enforce the governance they run under?**
 
-Analysis at this scale conventionally means moving data to compute. The
-alternative is to move the analysis instead: federated systems in which data
-remain under the control of the communities and institutions that hold them, and
-participant privacy is preserved by the design of the system rather than resting
-on it alone.
+Analysis at population scale conventionally means moving data to compute. The
+alternative is to move the analysis instead, so that data remain under the control
+of the communities and institutions holding them. That only helps if the governance
+travels with it. Consent, access conditions and withdrawal are set out in agreements
+that matter, but are enforced today largely by good faith and audit after the fact.
+Making them machine-readable and enforced at the point of access is a problem
+sitting squarely at the intersection of genomics, privacy, data security and AI.
 
-**Q6 — Can ethics and governance be enforced by the systems that hold the data, rather than relying on trust?**
-
-Consent, access conditions and withdrawal are established through agreements, and
-those agreements matter. But they are enforced today largely by good faith and
-audit after the fact. We are interested in infrastructure where those conditions
-are machine-readable and enforced at the point of access — a question that now
-sits squarely at the intersection of genomics, privacy, data security and AI.
-
-> Q5 and Q6 kept separate rather than merged: Q5 is the architecture, Q6 is what
-> the architecture enforces. Q6's opening clause is deliberately non-dismissive of
-> agreements, per your note. Say if you'd still rather merge them into one.
+> The two governance questions are merged, so the list is five rather than six. The
+> merge keeps the federated-architecture opening and the enforcement problem, and
+> drops the seam between them. The Method section still carries the distinct point
+> about bounding an analysis to its approved question.
 
 ---
 
@@ -247,77 +256,11 @@ analysis can be shown to be wrong.
 > *ask* once you are there. Stated as a gap in the field's tooling rather than as
 > something already solved.
 
-## 7. Selected publications
+## 7. Selected publications — removed
 
-Eyebrow and section note both removed, as you asked. Heading is now just
-"Selected publications".
-
----
-
-Human iPS cells retain epigenetic memory of their somatic tissue of origin.
-Transient passage through a naive state erases that memory and restores
-developmental potential, correcting the cells both functionally and
-epigenetically.
-
-*Buckberry, Liu, Poppe, Tan et al. · Nature 620, 863–872 · 2023 · Paper · Patent*
-
----
-
-A reprogramming roadmap resolving the transcriptional and epigenomic trajectories
-of human somatic cell reprogramming, and identifying the route to induced
-trophoblast stem cells.
-
-*Liu et al. · Nature 586, 101–107 · 2020 · Paper*
-
----
-
-Chromatin accessibility and transcription factor occupancy are reconfigured in
-both transient and permanent modes during reprogramming, distinguishing the
-changes that drive cell-fate conversion from those that accompany it.
-
-*Knaupp & Buckberry et al. · Cell Stem Cell 21, 1–12 · 2017 · Paper · co-first author*
-
----
-
-Gene regulatory dynamics of the human prefrontal cortex from gestation to
-adulthood, resolved at single-cell resolution across the longest developmental
-window in the brain.
-
-*Herring et al. · Cell 185, 4428–4447 · 2022 · Paper*
-
----
-
-Targeted methylation of hundreds of promoters shows that the transcriptional
-response to promoter DNA methylation, and the stability of the mark itself, are
-strongly context dependent.
-
-*de Mendoza et al. · Genome Biology 23, 163 · 2022 · Paper*
-
----
-
-Where epigenetic biomarkers for type 2 diabetes currently stand, and what is
-required for them to be useful in global and Indigenous health rather than only in
-the cohorts they were derived from.
-
-*Munns, Brown & Buckberry · Frontiers in Molecular Biosciences 12, 1502640 · 2025 · Paper*
-
----
-
-Consent and access management for genomic data must be revocable, machine-readable
-and auditable to remain meaningful at scale; a review of how far current
-technology supports that.
-
-*Oliva et al. · GigaScience 13, giae021 · 2024 · Paper*
-
----
-
-**Footer link row:** All publications · CV
-
-> The TNT patent is now a second link on the Nature 2023 entry, pointing at the
-> WIPO record (WO2021102500).
->
-> **[open]** That's seven entries. Happy to cut back to five if it's running long
-> — my candidates to drop would be Oliva and Herring.
+Section dropped for a cleaner, more minimal landing page. The publications page is
+untouched and still lives at `/publications/`, linked from the nav and the contact
+block.
 
 ---
 
@@ -330,7 +273,7 @@ technology supports that.
 Enquiries welcome from prospective PhD students and postdocs, and from anyone
 interested in collaborating.
 
-**Label:** Elsewhere · **Links:** GitHub · Scholar · ORCID · LinkedIn
+**Label:** Elsewhere · **Links:** CV · Publications · GitHub · Scholar · ORCID · LinkedIn
 
 **Portrait:** small, greyscale, in this block.
 
