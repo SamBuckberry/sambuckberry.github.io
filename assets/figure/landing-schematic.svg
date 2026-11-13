@@ -1,0 +1,76 @@
+<svg class="schem" viewBox="0 0 640 458" role="img" aria-label="Three-panel schematic. a: genetic variation, development, cell identity and environment converge on DNA methylation. b: a regulatory variant roughly six kilobases away contacts a CpG island through a chromatin loop, so one allele leaves the island unmethylated and the other methylated. c: the observed variation in methylation at that site is attributed between genetics, cell composition, environment, development and an unexplained remainder.">
+<text class="pl" x="16" y="16">a</text><text class="pt" x="30" y="16">Four sources converge on the epigenome</text>
+<rect class="unit" x="51" y="28" width="118" height="24" rx="2"/><text class="unit-label" x="110.0" y="40.0" text-anchor="middle" dy=".33em">Genetic variation</text>
+<rect class="unit" x="191" y="28" width="118" height="24" rx="2"/><text class="unit-label" x="250.0" y="40.0" text-anchor="middle" dy=".33em">Development</text>
+<rect class="unit" x="331" y="28" width="118" height="24" rx="2"/><text class="unit-label" x="390.0" y="40.0" text-anchor="middle" dy=".33em">Cell identity</text>
+<rect class="unit" x="471" y="28" width="118" height="24" rx="2"/><text class="unit-label" x="530.0" y="40.0" text-anchor="middle" dy=".33em">Environment</text>
+<path class="flow" d="M110.0 52C110.0 70 320.0 64 320.0 82"/>
+<path class="flow" d="M250.0 52C250.0 70 320.0 64 320.0 82"/>
+<path class="flow" d="M390.0 52C390.0 70 320.0 64 320.0 82"/>
+<path class="flow" d="M530.0 52C530.0 70 320.0 64 320.0 82"/>
+<path class="flow" d="M320 82v12"/>
+<path class="head" d="M316.5 91l3.5 4 3.5-4"/>
+<path class="rail" d="M60 102H580 M60 109H580"/><path class="rung" d="M71 102v7"/><path class="rung" d="M82 102v7"/><path class="rung" d="M93 102v7"/><path class="rung" d="M104 102v7"/><path class="rung" d="M115 102v7"/><path class="rung" d="M126 102v7"/><path class="rung" d="M137 102v7"/><path class="rung" d="M148 102v7"/><path class="rung" d="M159 102v7"/><path class="rung" d="M170 102v7"/><path class="rung" d="M181 102v7"/><path class="rung" d="M192 102v7"/><path class="rung" d="M203 102v7"/><path class="rung" d="M214 102v7"/><path class="rung" d="M225 102v7"/><path class="rung" d="M236 102v7"/><path class="rung" d="M247 102v7"/><path class="rung" d="M258 102v7"/><path class="rung" d="M269 102v7"/><path class="rung" d="M280 102v7"/><path class="rung" d="M291 102v7"/><path class="rung" d="M302 102v7"/><path class="rung" d="M313 102v7"/><path class="rung" d="M324 102v7"/><path class="rung" d="M335 102v7"/><path class="rung" d="M346 102v7"/><path class="rung" d="M357 102v7"/><path class="rung" d="M368 102v7"/><path class="rung" d="M379 102v7"/><path class="rung" d="M390 102v7"/><path class="rung" d="M401 102v7"/><path class="rung" d="M412 102v7"/><path class="rung" d="M423 102v7"/><path class="rung" d="M434 102v7"/><path class="rung" d="M445 102v7"/><path class="rung" d="M456 102v7"/><path class="rung" d="M467 102v7"/><path class="rung" d="M478 102v7"/><path class="rung" d="M489 102v7"/><path class="rung" d="M500 102v7"/><path class="rung" d="M511 102v7"/><path class="rung" d="M522 102v7"/><path class="rung" d="M533 102v7"/><path class="rung" d="M544 102v7"/><path class="rung" d="M555 102v7"/><path class="rung" d="M566 102v7"/><path class="rung" d="M577 102v7"/>
+<path class="stem" d="M84.0 102V89.0"/><circle class="cpg-fill" cx="84.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M116.0 102V89.0"/><circle class="cpg-open" cx="116.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M148.0 102V89.0"/><circle class="cpg-fill" cx="148.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M180.0 102V89.0"/><circle class="cpg-fill" cx="180.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M212.0 102V89.0"/><circle class="cpg-open" cx="212.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M250.0 102V89.0"/><circle class="cpg-fill" cx="250.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M286.0 102V89.0"/><circle class="cpg-open" cx="286.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M356.0 102V89.0"/><circle class="cpg-fill" cx="356.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M392.0 102V89.0"/><circle class="cpg-open" cx="392.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M428.0 102V89.0"/><circle class="cpg-fill" cx="428.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M466.0 102V89.0"/><circle class="cpg-fill" cx="466.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M502.0 102V89.0"/><circle class="cpg-open" cx="502.0" cy="86.6" r="3.4"/>
+<path class="stem" d="M544.0 102V89.0"/><circle class="cpg-fill" cx="544.0" cy="86.6" r="3.4"/>
+<text class="note" x="60" y="128">DNA methylation</text>
+<text class="pl" x="16" y="172">b</text><text class="pt" x="30" y="172">A distal variant can set the state of a CpG island</text>
+<rect class="band" x="150" y="213" width="100" height="34"/>
+<path class="rail" d="M60 240H580 M60 247H580"/><path class="rung" d="M71 240v7"/><path class="rung" d="M82 240v7"/><path class="rung" d="M93 240v7"/><path class="rung" d="M104 240v7"/><path class="rung" d="M115 240v7"/><path class="rung" d="M126 240v7"/><path class="rung" d="M137 240v7"/><path class="rung" d="M148 240v7"/><path class="rung" d="M159 240v7"/><path class="rung" d="M170 240v7"/><path class="rung" d="M181 240v7"/><path class="rung" d="M192 240v7"/><path class="rung" d="M203 240v7"/><path class="rung" d="M214 240v7"/><path class="rung" d="M225 240v7"/><path class="rung" d="M236 240v7"/><path class="rung" d="M247 240v7"/><path class="rung" d="M258 240v7"/><path class="rung" d="M269 240v7"/><path class="rung" d="M280 240v7"/><path class="rung" d="M291 240v7"/><path class="rung" d="M302 240v7"/><path class="rung" d="M313 240v7"/><path class="rung" d="M324 240v7"/><path class="rung" d="M335 240v7"/><path class="rung" d="M346 240v7"/><path class="rung" d="M357 240v7"/><path class="rung" d="M368 240v7"/><path class="rung" d="M379 240v7"/><path class="rung" d="M390 240v7"/><path class="rung" d="M401 240v7"/><path class="rung" d="M412 240v7"/><path class="rung" d="M423 240v7"/><path class="rung" d="M434 240v7"/><path class="rung" d="M445 240v7"/><path class="rung" d="M456 240v7"/><path class="rung" d="M467 240v7"/><path class="rung" d="M478 240v7"/><path class="rung" d="M489 240v7"/><path class="rung" d="M500 240v7"/><path class="rung" d="M511 240v7"/><path class="rung" d="M522 240v7"/><path class="rung" d="M533 240v7"/><path class="rung" d="M544 240v7"/><path class="rung" d="M555 240v7"/><path class="rung" d="M566 240v7"/><path class="rung" d="M577 240v7"/>
+<text class="note" x="200" y="208" text-anchor="middle">CpG island</text>
+<path class="loop" d="M470 238Q335 188 200 238"/>
+<text class="note accent" x="335.0" y="202" text-anchor="middle">chromatin looping</text>
+<path class="variant" d="M470 238.5l5 5-5 5-5-5Z"/>
+<text class="note accent" x="482" y="230">regulatory variant</text>
+<path class="measure" d="M200 251v6M470 251v6M200 254H470"/>
+<text class="note" x="335.0" y="270" text-anchor="middle">&#8776; 6 kb</text>
+<text class="row-label" x="130" y="288" text-anchor="end" dy=".33em">allele A</text>
+<circle class="cpg-open" cx="146" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="159" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="172" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="185" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="198" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="211" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="224" cy="288" r="3.4"/>
+<circle class="cpg-open" cx="237" cy="288" r="3.4"/>
+<text class="note" x="268" y="288" dy=".33em">island stays unmethylated</text>
+<text class="row-label" x="130" y="314" text-anchor="end" dy=".33em">allele B</text>
+<circle class="cpg-fill" cx="146" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="159" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="172" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="185" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="198" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="211" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="224" cy="314" r="3.4"/>
+<circle class="cpg-fill" cx="237" cy="314" r="3.4"/>
+<text class="note" x="268" y="314" dy=".33em">island becomes methylated</text>
+<text class="pl" x="16" y="348">c</text><text class="pt" x="30" y="348">Attributing the variation</text>
+<rect class="observed" x="160" y="364" width="320" height="22" rx="2"/>
+<text class="unit-label" x="320" y="375" text-anchor="middle" dy=".33em">variation in methylation at this site</text>
+<path class="flow" d="M320 386C320 404 72.0 398 72.0 416"/>
+<path class="head" d="M68.5 412l3.5 4 3.5-4"/>
+<rect class="unit" x="20" y="420" width="104" height="24" rx="2"/><text class="unit-label" x="72.0" y="432.0" text-anchor="middle" dy=".33em">Genetics</text>
+<path class="flow" d="M320 386C320 404 196.0 398 196.0 416"/>
+<path class="head" d="M192.5 412l3.5 4 3.5-4"/>
+<rect class="unit" x="144" y="420" width="104" height="24" rx="2"/><text class="unit-label" x="196.0" y="432.0" text-anchor="middle" dy=".33em">Cell composition</text>
+<path class="flow" d="M320 386C320 404 320.0 398 320.0 416"/>
+<path class="head" d="M316.5 412l3.5 4 3.5-4"/>
+<rect class="unit" x="268" y="420" width="104" height="24" rx="2"/><text class="unit-label" x="320.0" y="432.0" text-anchor="middle" dy=".33em">Environment</text>
+<path class="flow" d="M320 386C320 404 444.0 398 444.0 416"/>
+<path class="head" d="M440.5 412l3.5 4 3.5-4"/>
+<rect class="unit" x="392" y="420" width="104" height="24" rx="2"/><text class="unit-label" x="444.0" y="432.0" text-anchor="middle" dy=".33em">Development</text>
+<path class="flow" d="M320 386C320 404 568.0 398 568.0 416"/>
+<path class="head" d="M564.5 412l3.5 4 3.5-4"/>
+<rect class="unit dashed" x="516" y="420" width="104" height="24" rx="2"/><text class="unit-label" x="568.0" y="432.0" text-anchor="middle" dy=".33em">Unexplained</text>
+</svg>

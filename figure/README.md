@@ -42,3 +42,37 @@ Two `theme()` traps worth knowing, both already handled: setting `axis.text` or
 `axis.line.y` set earlier by `theme_locus()`, so those are blanked by name; and
 `patchwork` paints its own background, so the composition sets a transparent
 `plot.background` with `&` after the layout.
+
+---
+
+# Landing-page schematic
+
+`landing-schematic.py` generates `assets/figure/landing-schematic.svg` — a
+Nature Reviews-style concept figure covering the same ground as the data figure,
+but explaining the mechanism rather than showing a result.
+
+```sh
+python3 figure/landing-schematic.py
+```
+
+No dependencies. Styling lives in `assets/figure/schematic.css`, which uses the
+site's CSS custom properties, so the schematic tracks both themes without a
+second copy.
+
+Three panels:
+
+- **a** the four sources converging on DNA methylation
+- **b** a distal regulatory variant setting a CpG island through chromatin looping
+- **c** the observed variation attributed between those sources
+
+Written in Python rather than R because it is a drawing, not a plot — there is no
+data behind it and nothing to recompute. Every quantity it would otherwise have
+to invent has been designed out: panel **c** fans into five equal boxes rather
+than a proportioned bar, so the figure makes its point without claiming any
+number it cannot support. The only magnitude anywhere is the approximate 6 kb
+distance in panel **b**.
+
+Colours come from the same CSS variables as the rest of the site. The accent
+(`--data-b`) is reserved for things that carry meaning: methylated CpGs, the
+variant, and the chromatin loop. Everything structural is drawn in `--muted` or
+`--faint`.

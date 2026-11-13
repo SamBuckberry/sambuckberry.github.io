@@ -1,0 +1,22 @@
+.schem{display:block;width:100%;height:auto;font-family:"Instrument Sans",system-ui,sans-serif}
+.schem text{fill:var(--ink)}
+.pl{font-size:11.5px;font-weight:700;fill:var(--ink)}
+.pt{font-size:10.5px;fill:var(--muted);letter-spacing:.01em}
+.unit{fill:none;stroke:var(--muted);stroke-width:1;vector-effect:non-scaling-stroke}
+.unit.dashed{stroke:var(--faint);stroke-dasharray:3 3}
+.unit-label{font-size:9.5px;fill:var(--ink)}
+.observed{fill:var(--band);stroke:var(--muted);stroke-width:1;vector-effect:non-scaling-stroke}
+.flow{fill:none;stroke:var(--faint);stroke-width:1;vector-effect:non-scaling-stroke}
+.head{fill:none;stroke:var(--faint);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.rail{fill:none;stroke:var(--muted);stroke-width:1.1;vector-effect:non-scaling-stroke}
+.rung{fill:none;stroke:var(--faint);stroke-width:.8;vector-effect:non-scaling-stroke}
+.stem{fill:none;stroke:var(--muted);stroke-width:.9;vector-effect:non-scaling-stroke}
+.cpg-open{fill:var(--paper);stroke:var(--muted);stroke-width:1;vector-effect:non-scaling-stroke}
+.cpg-fill{fill:var(--data-b);stroke:var(--data-b);stroke-width:1;vector-effect:non-scaling-stroke}
+.band{fill:var(--band)}
+.loop{fill:none;stroke:var(--data-b);stroke-width:1.3;vector-effect:non-scaling-stroke}
+.variant{fill:var(--data-b)}
+.measure{fill:none;stroke:var(--faint);stroke-width:1;vector-effect:non-scaling-stroke}
+.note{font-size:9.5px;fill:var(--muted)}
+.note.accent{fill:var(--data-b)}
+.row-label{font-size:9.5px;fill:var(--ink);font-weight:500}
